@@ -1,0 +1,1806 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="f35e25a3-c587-4693-bdba-e2f3e50e04b7" Title="QlikMove.ActionRecognition Namespace" Url="html/0c5a74cc-c055-4beb-aad6-32919bc83a5c.htm">
+    <HelpTOCNode Id="54519fa5-9003-4a21-acaf-8e5dda50eec9" Title="ActionHelper Class" Url="html/61cfc972-edd3-d536-0177-1faeba506755.htm">
+      <HelpTOCNode Title="ActionHelper Members" Url="html/95434088-0e56-5939-c6c1-7f8773077dfc.htm" />
+      <HelpTOCNode Title="ActionHelper Constructor " Url="html/15dce6af-5a8a-17fa-04af-38dae191864c.htm" />
+      <HelpTOCNode Id="86a56385-761c-4bff-8d01-dc9efd63c89b" Title="ActionHelper Fields" Url="html/7cffa465-4bba-f957-ac0d-743690ca6ff8.htm">
+        <HelpTOCNode Title="actions Field" Url="html/39eb905e-55ae-19d4-3689-5167d1c549e2.htm" />
+        <HelpTOCNode Title="clickTimer Field" Url="html/7862a949-24c1-2133-370f-7569750e05af.htm" />
+        <HelpTOCNode Title="instance Field" Url="html/97f5a625-31a8-84d3-8457-a931a9ed56da.htm" />
+        <HelpTOCNode Title="isPressing Field" Url="html/6fff82b2-357f-a675-d353-ffe8c813020b.htm" />
+        <HelpTOCNode Title="maxActionsNumber Field" Url="html/007bf9e2-aa6a-8779-28bf-cb5ca3f357e7.htm" />
+        <HelpTOCNode Title="maxEventsNumber Field" Url="html/c57b3bc4-b5d5-da6e-9626-d35e3abd0fe2.htm" />
+        <HelpTOCNode Title="previousActionsQueue Field" Url="html/d1ab841a-b508-0bdb-647d-3d508ee20d6a.htm" />
+        <HelpTOCNode Title="previousActiveWindow Field" Url="html/684ceb8f-c215-deb6-d00f-0bc0a31a53d5.htm" />
+        <HelpTOCNode Title="qEvents Field" Url="html/9732ddca-d37a-23a2-bc4b-2826227449dc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f075320c-ca64-4999-a5f7-40f9f22cd3d2" Title="ActionHelper Methods" Url="html/795f0c80-d61f-e6c2-959f-d9ab435fa4a5.htm">
+        <HelpTOCNode Title="AddAction Method " Url="html/a90ec136-36b9-0c4f-854a-b994fbbdc288.htm" />
+        <HelpTOCNode Title="AddEvent Method " Url="html/114ad3a7-0131-1336-9556-77f07ac25e07.htm" />
+        <HelpTOCNode Title="Click Method " Url="html/74513daf-c835-d635-ac39-712c169b5cbb.htm" />
+        <HelpTOCNode Title="DefineActions Method " Url="html/4cee774f-4e08-6cb8-eec3-43d41a788e9d.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/ada59cd8-0fb4-ab0e-7296-ab46fdca5e73.htm" />
+        <HelpTOCNode Title="Event_ActionRecognised Method " Url="html/d72bb2d1-fdec-77fe-91ab-e721555548b6.htm" />
+        <HelpTOCNode Title="updateAllActions Method " Url="html/18ff7cf3-96be-3226-e192-cba84de5746f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0c01a4bd-b884-4ab4-9337-240283f744b1" Title="ActionHelper Properties" Url="html/0245af8e-3c6b-e73c-64af-a5b7575472b3.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/283cbb12-4b88-ec33-6502-ac821303613f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a85af118-d620-4545-a5b9-c3ac26a5db68" Title="QlikMove.GestureRecognition Namespace" Url="html/f1693843-a0b4-ef78-f4cd-b1f97e389c00.htm">
+    <HelpTOCNode Id="b516459a-84c0-4b5a-8392-4fef954ecd72" Title="BodyGestureControler Class" Url="html/8caab55f-b636-862e-e122-e6cc3107368a.htm">
+      <HelpTOCNode Title="BodyGestureControler Members" Url="html/a5e6fec4-243e-9f83-c60b-cf53822915c8.htm" />
+      <HelpTOCNode Id="cd1f2b72-d21a-4f13-be06-710e88f7edef" Title="BodyGestureControler Constructor " Url="html/2e2a26b5-af89-0a8a-bf29-a3ecd46d9338.htm">
+        <HelpTOCNode Title="BodyGestureControler Constructor " Url="html/1e2063bb-896d-7ebe-2155-17f863db4f35.htm" />
+        <HelpTOCNode Title="BodyGestureControler Constructor (EventHandler(GestureEventArgs))" Url="html/ef48c0ef-14d1-a7a6-77e5-24d37355cd75.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cf503b14-8beb-4ed1-b314-3e329479f3da" Title="BodyGestureControler Fields" Url="html/0a80c8fa-32ce-d520-82e6-89ebae37bca3.htm">
+        <HelpTOCNode Title="gestures Field" Url="html/7d3f159c-aa9e-8c22-454f-d707bb183aa8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="32f7884d-a098-49ed-8de7-354bb2113117" Title="BodyGestureControler Methods" Url="html/96bc3ff4-4fc5-de5c-b049-73271aff581a.htm">
+        <HelpTOCNode Title="AddGesture Method " Url="html/17740b6d-dd2b-6091-ba39-47387801a368.htm" />
+        <HelpTOCNode Title="DefineBodyGestures Method " Url="html/04870c62-2b4d-b993-87f1-1704c8334b4b.htm" />
+        <HelpTOCNode Title="UpdateAllGestures Method " Url="html/639e96ed-af3a-9fe9-c515-37423dd856cf.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="10bd78ee-c329-4088-bc77-12511e753e3d" Title="GestureHelper Class" Url="html/24d1058c-79fe-78f5-a5c6-8a3bef468dbb.htm">
+      <HelpTOCNode Title="GestureHelper Members" Url="html/23721f7b-1606-260c-2843-b73f25bc4977.htm" />
+      <HelpTOCNode Title="GestureHelper Constructor " Url="html/817cb27f-8678-f0e3-ad90-f33d363a0b3b.htm" />
+      <HelpTOCNode Id="2829e471-9ae0-47fc-a5d5-02d3b2580f58" Title="GestureHelper Fields" Url="html/55ce7457-70f3-aa57-b75d-ab769e35b6c4.htm">
+        <HelpTOCNode Title="bodyControler Field" Url="html/eb46a0b5-e48c-6d38-e58c-888769f5a194.htm" />
+        <HelpTOCNode Title="DepthFrame Field" Url="html/2ca02f30-d5d4-6354-214a-44f1ca3b95f6.htm" />
+        <HelpTOCNode Title="gestureEvent Field" Url="html/069f9565-fd67-d56d-1aca-6eec69b6fbc5.htm" />
+        <HelpTOCNode Title="handControler Field" Url="html/bd1e97ee-3d3b-941e-dff6-b79e64cd7ef7.htm" />
+        <HelpTOCNode Title="instance Field" Url="html/66eefa70-3e77-3709-887b-2b5ce7fa9d6e.htm" />
+        <HelpTOCNode Title="isMouseLocked Field" Url="html/52a00b76-49f4-be0a-9321-535e79fbf378.htm" />
+        <HelpTOCNode Title="mouseX Field" Url="html/e7442624-cb06-f520-41ef-4d701eb78de8.htm" />
+        <HelpTOCNode Title="mouseY Field" Url="html/a6ba7b51-13cb-4503-7f0e-5bf06c4bcd9c.htm" />
+        <HelpTOCNode Title="Skeleton Field" Url="html/769db88f-2a71-8672-4827-160fc27e4f44.htm" />
+        <HelpTOCNode Title="skeletonQueue Field" Url="html/0f98b024-5efc-7114-ffa9-4414011a4c7c.htm" />
+        <HelpTOCNode Title="skeletonQueueCount Field" Url="html/1833496c-6f5b-fe2b-bfd8-d539abc7e260.htm" />
+        <HelpTOCNode Title="stopMouseTimer Field" Url="html/3d070e24-473e-162a-c8ec-10a09333a538.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cfc8a686-9ef4-4310-b84f-2535b63dbd05" Title="GestureHelper Methods" Url="html/22d96f5e-b2aa-79c6-5a9d-c4adea2993b1.htm">
+        <HelpTOCNode Title="AddToSkeletonQueue Method " Url="html/209a7f26-f4eb-9010-b664-b5baf4997b8a.htm" />
+        <HelpTOCNode Title="CheckElevationAngle Method " Url="html/604e95b7-f529-08af-a92a-a4269a521c08.htm" />
+        <HelpTOCNode Title="CheckStopMouseMovement Method " Url="html/86e09436-e35b-7ebc-ae29-375650b25abd.htm" />
+        <HelpTOCNode Title="Gestures_GestureRecognised Method " Url="html/e7f64681-38ce-b0dc-653a-04f07ddc1a68.htm" />
+        <HelpTOCNode Title="GetHighestHand Method " Url="html/30615459-1a59-7af3-6288-8ce99732c97b.htm" />
+        <HelpTOCNode Title="MoveMouse Method " Url="html/c64020e6-04a6-dffe-e6c0-ee1af31782ef.htm" />
+        <HelpTOCNode Title="OnlyTheHandIsMoving Method " Url="html/684d114c-4e0d-bcbb-a127-f8dcb86c94e6.htm" />
+        <HelpTOCNode Title="SetHandTrackingModeVar Method " Url="html/d482b844-6656-a898-060f-55ad46e59660.htm" />
+        <HelpTOCNode Title="stopMouseTimer_Elapsed Method " Url="html/5f4dafc2-2386-5c8d-61e7-89d726865aa1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7e6eeb18-07c7-4ec3-98b8-492dd44284b5" Title="GestureHelper Properties" Url="html/3742e8b8-9aa2-9b17-93a5-f2057a4d1425.htm">
+        <HelpTOCNode Title="_isSkeletonTracked Property " Url="html/1db5a37d-4824-9721-76c7-581458408775.htm" />
+        <HelpTOCNode Title="depthFrame Property " Url="html/b4217fdc-31c2-706d-2ed1-7deb80323bdf.htm" />
+        <HelpTOCNode Title="gesture_Hand Property " Url="html/860ed9ca-78c0-63de-98b8-2f9c576e86a0.htm" />
+        <HelpTOCNode Title="hand_Tracking_Mode Property " Url="html/41460e5e-f70b-6a2b-ccd0-83ea1fe785a3.htm" />
+        <HelpTOCNode Title="Instance Property " Url="html/b19377b1-a047-7e12-8b5f-6a74f945c26b.htm" />
+        <HelpTOCNode Title="mouse_Hand Property " Url="html/54708ff8-7673-6366-8154-893865cc113a.htm" />
+        <HelpTOCNode Title="skeleton Property " Url="html/9774e5f6-2ecd-a6b2-0ac7-14c1a410b657.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9a22d2da-f6a3-4c8e-8428-ada643cc95a7" Title="GestureHelper Events" Url="html/75890006-66fa-120e-3777-748c8c0ba746.htm">
+        <HelpTOCNode Title="EventRecognised Event" Url="html/d7d9c2c2-cce8-ed78-340d-4b2fcb1a264b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3df928db-70b6-4f46-a1d5-599f5b36a0a5" Title="HandDetector Class" Url="html/3c1d0b57-7e9f-249f-7c3f-e6b1f655d37c.htm">
+      <HelpTOCNode Title="HandDetector Members" Url="html/c26f7a01-2ae7-bdbd-1e87-2c42786be9f6.htm" />
+      <HelpTOCNode Title="HandDetector Constructor " Url="html/6aa51ff4-0302-298c-c4c4-2b3b4131c45e.htm" />
+      <HelpTOCNode Id="5323dbca-3d54-48cc-9cfa-7c00376f09a4" Title="HandDetector Fields" Url="html/438df891-ee1c-7d3d-bc00-4777dd900bf5.htm">
+        <HelpTOCNode Title="armMax Field" Url="html/e26fb013-1c54-26ce-78e1-48a6770a5750.htm" />
+        <HelpTOCNode Title="armMin Field" Url="html/de3c0a6b-7923-452e-48c0-f8a486c0cba2.htm" />
+        <HelpTOCNode Title="averageFrameCount Field" Url="html/7f98f27f-0afa-1784-aead-6f3f28fa7c73.htm" />
+        <HelpTOCNode Title="box Field" Url="html/9a46473a-f8dc-0874-0923-67508aea123e.htm" />
+        <HelpTOCNode Title="count Field" Url="html/189e5470-726f-718e-a8b4-622310380be3.htm" />
+        <HelpTOCNode Title="currentContour Field" Url="html/c8b1fa33-77cd-6665-d24d-a7474aa11e6e.htm" />
+        <HelpTOCNode Title="defectArray Field" Url="html/a1c7838e-c06a-5ce4-239e-0fb3d937848d.htm" />
+        <HelpTOCNode Title="defects Field" Url="html/c33fb521-19eb-abb0-c8cc-1dfda1a1d5c4.htm" />
+        <HelpTOCNode Title="Denominator Field" Url="html/520643a2-4017-8434-1326-3c91711ea862.htm" />
+        <HelpTOCNode Title="depthFrame Field" Url="html/b4d3033c-1b2a-ce20-bd96-5de66210867b.htm" />
+        <HelpTOCNode Title="depthFrameHeight Field" Url="html/e33a6421-7496-8458-bc66-92be3e44f6a2.htm" />
+        <HelpTOCNode Title="depthFrameWidth Field" Url="html/b9f2428f-028f-3518-7eb9-d8648f9d949a.htm" />
+        <HelpTOCNode Title="depthImage Field" Url="html/d5e6022b-c00d-430b-041f-6bc2a89ae351.htm" />
+        <HelpTOCNode Title="depthImageBoth Field" Url="html/946e27c7-66e4-9826-4000-0b2e1fb88119.htm" />
+        <HelpTOCNode Title="depthQueue Field" Url="html/f69f1fc1-85e0-1076-a940-04ec76ba5d59.htm" />
+        <HelpTOCNode Title="filteredHull Field" Url="html/70e15c52-fefb-0d87-a75d-f06a8d9e4b8e.htm" />
+        <HelpTOCNode Title="handJoint Field" Url="html/00d58f4c-26a8-d180-dbca-03f95dacecac.htm" />
+        <HelpTOCNode Title="handRect Field" Url="html/334d7281-4179-fc9a-dde2-0208c41acb41.htm" />
+        <HelpTOCNode Title="hangGesture Field" Url="html/33a569eb-1bd4-5c19-da8f-156edd566715.htm" />
+        <HelpTOCNode Title="hull Field" Url="html/2430b796-eb00-79f6-3263-a6ef679ede88.htm" />
+        <HelpTOCNode Title="leftHandQueue Field" Url="html/f85a19dd-3682-6aba-d25b-286f03aad845.htm" />
+        <HelpTOCNode Title="max Field" Url="html/2e98a415-4411-dc3e-3d82-d94a7766ca54.htm" />
+        <HelpTOCNode Title="MaxDepthDistance Field" Url="html/eed66609-4ffe-7231-2180-3bc7d71f178c.htm" />
+        <HelpTOCNode Title="MaxDepthDistanceOffset Field" Url="html/f25f5615-2839-59ab-9698-db9c931b13e8.htm" />
+        <HelpTOCNode Title="min Field" Url="html/7d287213-6bad-058d-8d09-65d5c1a4a476.htm" />
+        <HelpTOCNode Title="MinDepthDistance Field" Url="html/4a989895-e741-65bc-7de2-5dacbdcaeaf4.htm" />
+        <HelpTOCNode Title="recSize Field" Url="html/03b9bafd-f757-cb0e-51e6-5a02ae7e27ce.htm" />
+        <HelpTOCNode Title="rightHandQueue Field" Url="html/0da0c9ae-d6cc-cef1-56b8-f4f486e0b720.htm" />
+        <HelpTOCNode Title="Skeleton Field" Url="html/8741eab9-636a-5f47-fdd2-667b866deaf3.htm" />
+        <HelpTOCNode Title="sumDepthArray Field" Url="html/4009839e-de49-01b4-4452-a5a0fa090801.htm" />
+        <HelpTOCNode Title="templates Field" Url="html/6165740c-b405-8d09-4cb7-52ea27eda65d.htm" />
+        <HelpTOCNode Title="zDistance Field" Url="html/8ee51f93-c947-6025-f1a6-c80da46e3ba4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7f659835-eb40-4a09-9838-cb2615380331" Title="HandDetector Methods" Url="html/6188a2aa-a03a-678c-8651-652b9bc469e8.htm">
+        <HelpTOCNode Title="CheckForDequeue Method " Url="html/b0495721-5da4-8579-e37f-967335121642.htm" />
+        <HelpTOCNode Title="CheckForMovement Method " Url="html/79aabc56-ce13-8a55-d17a-42b8eead74da.htm" />
+        <HelpTOCNode Title="CheckOrientation Method " Url="html/160b9d67-3d04-75f9-af61-8be7a5accc81.htm" />
+        <HelpTOCNode Title="CheckRectangleIsInside Method " Url="html/59568a60-8123-9837-00d8-3171a90e4ccd.htm" />
+        <HelpTOCNode Title="CreateAverageDepthArray Method " Url="html/558a5d23-dd86-afc2-0ead-cec3aeaf5658.htm" />
+        <HelpTOCNode Title="ExtractContourAndHull Method " Url="html/acca0694-f8fc-51ba-1bb4-d2d7bd985eaf.htm" />
+        <HelpTOCNode Title="FindHandGesture Method " Url="html/dc65724a-ad00-f5d2-8d3c-11f247ebc6c3.htm" />
+        <HelpTOCNode Title="GetEverythingBetween Method " Url="html/cb3216fb-3411-0e03-0cdd-6e4ec1fe75b8.htm" />
+        <HelpTOCNode Title="SetUp Method " Url="html/7a3cdf3a-5df7-4150-114a-df413a8ec4c5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e5cb1d60-5b6f-4030-af18-9f1f5918cd8d" Title="HandDetector Properties" Url="html/fdbe3436-9a02-92ff-8dd3-5a7f5816ab2e.htm">
+        <HelpTOCNode Title="isLeftHandTracked Property " Url="html/a5bca47b-0996-f374-b8ea-d0c19d80a226.htm" />
+        <HelpTOCNode Title="isRightHandTracked Property " Url="html/ef5b5a1d-9807-f55e-9e3d-9dcd77851ef1.htm" />
+        <HelpTOCNode Title="skeleton Property " Url="html/a25949da-ee66-2415-29ba-9f414dc074b6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5383647e-8d52-428d-ae29-6c700e6a1d8a" Title="HandGestureControler Class" Url="html/b3f8b1e9-70d7-8f23-ca66-3c0c1b3b6fcf.htm">
+      <HelpTOCNode Title="HandGestureControler Members" Url="html/0f8aa400-7e09-31e8-0913-095cc7e98ccf.htm" />
+      <HelpTOCNode Title="HandGestureControler Constructor " Url="html/a43d68ea-62a1-158c-1a74-e43a377414bd.htm" />
+      <HelpTOCNode Id="1d793ae7-6775-4677-9672-26e642a10c1d" Title="HandGestureControler Fields" Url="html/18fcd5ee-5c84-8b6d-78aa-c37af5025acc.htm">
+        <HelpTOCNode Title="handDetector Field" Url="html/0d74466f-5d62-d806-2ba8-a5b5d318d937.htm" />
+        <HelpTOCNode Title="handGesturesPath Field" Url="html/3239d4f1-c929-9a5c-cb82-c5978c5be1dc.htm" />
+        <HelpTOCNode Title="leftHandQueue Field" Url="html/620e7cc7-c6ec-39b4-97d9-23652fbe1d95.htm" />
+        <HelpTOCNode Title="movementQueueCount Field" Url="html/34461f57-372a-b3b5-5265-a5150fe7245c.htm" />
+        <HelpTOCNode Title="result Field" Url="html/0d6119c5-2b46-368a-7bcd-f3024968a1ef.htm" />
+        <HelpTOCNode Title="rightHandQueue Field" Url="html/c2983bf6-190d-7f47-7ab8-214e690d077a.htm" />
+        <HelpTOCNode Title="Skeleton Field" Url="html/931b6281-ee2e-4234-bb9d-d9437e5d9a6e.htm" />
+        <HelpTOCNode Title="templateList Field" Url="html/b20dfc76-734d-90f5-80ab-1f8c76371b60.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cadfb733-6a98-4c26-8210-70e8ca6c3f49" Title="HandGestureControler Methods" Url="html/c5d706b7-07b6-7803-40d0-a618072da293.htm">
+        <HelpTOCNode Title="fillHandQueues Method " Url="html/c344c25c-dd0f-401d-2969-c97ef43811c7.htm" />
+        <HelpTOCNode Title="FindHandGestures Method " Url="html/9e0e1b4f-ef7e-76be-973e-9370d5b88cb6.htm" />
+        <HelpTOCNode Title="GetHandQueue Method " Url="html/4c34d9b0-6698-2e33-8e67-c06997cadc9a.htm" />
+        <HelpTOCNode Title="InitHandGestures Method " Url="html/c5a02baa-2b7e-4110-7691-41f409c75113.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5e0891fa-b932-4e0b-84b3-afb99004601f" Title="HandGestureControler Properties" Url="html/12ee0b1c-3252-5c21-5c47-2787b5917635.htm">
+        <HelpTOCNode Title="skeleton Property " Url="html/e93a1177-f3f4-df08-50ac-d0b47ece0b3f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="3ccb3ad1-e4a3-486e-98bb-8c513cb326fe" Title="QlikMove.GestureRecognotion Namespace" Url="html/86eb3ba5-e002-7368-13ce-323ab4b5c38e.htm">
+    <HelpTOCNode Id="e42f454e-4de4-4cc7-b278-802eefdde9b9" Title="TemplateFinder Class" Url="html/d4008820-4c7c-7e30-c04e-ff364138d258.htm">
+      <HelpTOCNode Title="TemplateFinder Members" Url="html/8fcd8fe8-b970-1a54-65c5-ea12d7b0b8b7.htm" />
+      <HelpTOCNode Title="TemplateFinder Constructor " Url="html/c595f5b2-3622-f1e1-ddc6-acc5e712c6be.htm" />
+      <HelpTOCNode Title="TemplateFinder Constructor " Url="html/f8b61876-1154-061a-9472-73b9093475fd.htm" />
+      <HelpTOCNode Id="4e693cd5-c271-4693-b5df-40f57c1cd2f2" Title="TemplateFinder Fields" Url="html/35e0a0ce-f9aa-8548-f9ad-62f40f902982.htm">
+        <HelpTOCNode Title="antiPatternName Field" Url="html/e6e87e94-46e8-9eca-4e70-86b9ea0c0622.htm" />
+        <HelpTOCNode Title="checkACF Field" Url="html/69a0d006-c7ab-c634-3789-47787a0f8a87.htm" />
+        <HelpTOCNode Title="checkICF Field" Url="html/364e9597-86b1-eaa5-ab21-1d5606050131.htm" />
+        <HelpTOCNode Title="contourClasses Field" Url="html/351d23e3-fbde-177b-486e-33dcf9f8e50b.htm" />
+        <HelpTOCNode Title="maxACFDescriptorDeviation Field" Url="html/187e262d-9c7c-ee9e-5b33-e8fee241d737.htm" />
+        <HelpTOCNode Title="maxRotateAngle Field" Url="html/15265174-97b5-9b7b-e498-64852799aa0c.htm" />
+        <HelpTOCNode Title="minACF Field" Url="html/3af3ab77-f851-7791-0143-d0c60eb558d6.htm" />
+        <HelpTOCNode Title="minICF Field" Url="html/2fadbfeb-bc87-5e14-4b64-7cf1604f25fd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6046563a-fa59-45d2-93bb-5b81a3bc1b66" Title="TemplateFinder Methods" Url="html/21e7498e-9b03-2e7a-607a-2cfe398c9fb6.htm">
+        <HelpTOCNode Title="CompareTemplates Method " Url="html/289b30b1-aefe-a6e0-12d4-ee572091c831.htm" />
+        <HelpTOCNode Title="GetNearestClass Method " Url="html/56fe1df6-bf30-a890-989e-9d69a8cf459d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="63af0eb1-4584-419a-a47b-971004a9b178" Title="QlikMove.InputControler Namespace" Url="html/94719055-3853-6c3f-16a7-a400ecebc753.htm">
+    <HelpTOCNode Id="1a46728c-9769-4cf0-a9a8-3dcfc1c68365" Title="InputSender Class" Url="html/eea87927-9cc3-53a4-14a2-835558f71ca1.htm">
+      <HelpTOCNode Title="InputSender Members" Url="html/9698fc66-ef1a-0a6d-97a6-80789c700071.htm" />
+      <HelpTOCNode Title="InputSender Constructor " Url="html/82e76e78-99e5-5995-b8cc-869cba4d5f38.htm" />
+      <HelpTOCNode Id="c3bf50cb-3562-457e-8142-295a0218ebf3" Title="InputSender Methods" Url="html/33adf59c-f00e-5c09-a2dc-0fbcafd7216f.htm">
+        <HelpTOCNode Title="AddAbsoluteMouseMovement Method " Url="html/de16306c-837a-7b52-228a-2cf0eda3bfd4.htm" />
+        <HelpTOCNode Title="AddKeyDown Method " Url="html/3af21da6-6edd-aaec-76d4-f55c5f45de48.htm" />
+        <HelpTOCNode Title="AddKeyPlusWheel Method " Url="html/c043f41f-8e05-d447-8895-b19c7645116c.htm" />
+        <HelpTOCNode Title="AddKeyPressed Method " Url="html/a94d75e2-1405-80ed-3e59-8335615d5fd2.htm" />
+        <HelpTOCNode Title="AddKeyUp Method " Url="html/14d21e52-6bb6-ca9c-58ac-16fc27adf023.htm" />
+        <HelpTOCNode Title="AddMouseButtonClick Method " Url="html/4972560e-33be-245d-deb8-2e96633f844e.htm" />
+        <HelpTOCNode Title="AddMouseButtonDown Method " Url="html/5da46f3c-4a10-3ff1-45d0-bd5f7635b2cb.htm" />
+        <HelpTOCNode Title="AddMouseButtonUp Method " Url="html/54890240-c94f-35d4-0148-bcaad91683ff.htm" />
+        <HelpTOCNode Title="AddMouseHorizontalWheel Method " Url="html/b2301f70-7247-6040-9338-2f6c76565942.htm" />
+        <HelpTOCNode Title="AddMouseVerticalWheel Method " Url="html/65e4518a-9ff4-7813-ff03-b8978fc0bae3.htm" />
+        <HelpTOCNode Title="AddRelativeMouseMovement Method " Url="html/800ca51e-8cd1-2a83-80dc-2e839bc3f84b.htm" />
+        <HelpTOCNode Title="SendSimulatedInput Method " Url="html/531a4f91-6abd-bad9-f8f6-be0c341e7b82.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3a247417-bcf6-4108-9299-9d1c0b8a385b" Title="KeyboardSimulator Class" Url="html/795de7a9-1049-8fdf-06e5-a475e754ec6f.htm">
+      <HelpTOCNode Title="KeyboardSimulator Members" Url="html/c37c43c1-36af-2d51-080e-8588bd2380ca.htm" />
+      <HelpTOCNode Title="KeyboardSimulator Constructor " Url="html/35077cfc-efd2-35e4-eef5-e96eafbfe2f4.htm" />
+      <HelpTOCNode Id="82e32370-51e2-484d-9341-38c948b0773a" Title="KeyboardSimulator Fields" Url="html/6ad98d8e-a990-aeff-5ba7-341b2a0fd952.htm">
+        <HelpTOCNode Title="keyDownList Field" Url="html/d7f83b28-728d-34c0-6978-11723f91d2ea.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="32e497dc-1263-4db3-9956-dfe556b13fa4" Title="KeyboardSimulator Methods" Url="html/f2c7d473-0805-9754-d78a-a96e0fa7426b.htm">
+        <HelpTOCNode Title="KeyDown Method " Url="html/5dd94133-dbe4-3e03-68be-497efac93a54.htm" />
+        <HelpTOCNode Title="KeyHit Method " Url="html/e195dc35-5dcb-51d9-e45f-2481c5dc436e.htm" />
+        <HelpTOCNode Title="KeyUp Method " Url="html/6740c4ff-418b-979e-4027-4aeaa1f7c3fe.htm" />
+        <HelpTOCNode Title="NokeyDown Method " Url="html/f24e5e90-49a6-e584-055c-9856d95be08b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="MouseButton Enumeration" Url="html/f9ecf63c-8e66-939c-343c-ce3a2c1c690b.htm" />
+    <HelpTOCNode Id="b6bb7e1c-1f7e-4ac9-8f4c-77a829205262" Title="MouseButtonExtensions Class" Url="html/d7f90379-f8d4-16ee-206a-5106af1e7a07.htm">
+      <HelpTOCNode Title="MouseButtonExtensions Members" Url="html/dec7173b-603c-35ed-0925-8322c26bf145.htm" />
+      <HelpTOCNode Id="cb52dffa-4dd1-4d75-b571-0faba99da791" Title="MouseButtonExtensions Methods" Url="html/5c69000f-8b8a-b570-33a8-401fdcfc40e4.htm">
+        <HelpTOCNode Title="ToMouseButtonDownFlag Method " Url="html/50bbe176-8124-ab58-4eac-33474ec1a574.htm" />
+        <HelpTOCNode Title="ToMouseButtonUpFlag Method " Url="html/426b8a78-ff75-ded1-1b10-b09f8b6e079c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0e52b1ae-c2a8-4514-88bf-da66a026daf8" Title="MouseSimulator Class" Url="html/685b153e-fcca-93a6-3c7f-f8d0bcd8fe00.htm">
+      <HelpTOCNode Title="MouseSimulator Members" Url="html/84692baf-cc3d-29b8-a3a0-ac8b1102cd95.htm" />
+      <HelpTOCNode Title="MouseSimulator Constructor " Url="html/280ebfbf-f6c0-e9f0-00c2-120c40766bdc.htm" />
+      <HelpTOCNode Id="002799e2-08e9-4cc3-a670-e8d41a908e7c" Title="MouseSimulator Fields" Url="html/9194419e-301e-94d1-c670-2b3c602d6cc8.htm">
+        <HelpTOCNode Title="DELTA_WHEEL Field" Url="html/56968054-b37f-c087-649b-52c68192d295.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bb8a5061-c72d-4008-9d7d-e51813b80d8d" Title="MouseSimulator Methods" Url="html/4080e5f7-171b-e01b-82cf-0a3ae3431533.htm">
+        <HelpTOCNode Title="HorizontalMouseWheel Method " Url="html/b857e546-4d1d-968d-2045-6d1ce8106bd6.htm" />
+        <HelpTOCNode Title="KeyPlusWheel Method " Url="html/e7ff0015-af9f-3a66-57f4-61e0a2377d97.htm" />
+        <HelpTOCNode Title="LeftButtonClick Method " Url="html/479d1cc4-c72c-7918-ec1c-48b598b486fc.htm" />
+        <HelpTOCNode Title="LeftButtonDown Method " Url="html/1e9f6eb1-4ea4-7c78-787e-f239ad46fbbd.htm" />
+        <HelpTOCNode Title="LeftButtonUp Method " Url="html/cf0a1ec6-a714-0eb2-4c8a-c6cea20c71b0.htm" />
+        <HelpTOCNode Title="MoveMouseBy Method " Url="html/a7f99a42-93bb-bca0-480d-be134cd73e40.htm" />
+        <HelpTOCNode Title="MoveMouseTo Method " Url="html/0b8b4539-39e2-66d7-ccb4-a8ba3874ff7f.htm" />
+        <HelpTOCNode Title="RightButtonClick Method " Url="html/932401b7-c3e7-192f-330f-c2b8c31d56dc.htm" />
+        <HelpTOCNode Title="RightButtonDown Method " Url="html/ad5c9721-8584-4881-94c0-320da8a80ea0.htm" />
+        <HelpTOCNode Title="RightButtonUp Method " Url="html/2dff7805-08d1-1aa2-e668-407cbf7c773d.htm" />
+        <HelpTOCNode Title="VerticalMouseWheel Method " Url="html/076c109b-4e94-12da-cc2c-80a6d36822f3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="4e0f52b8-ebb6-499d-9afc-3f663f63e340" Title="QlikMove.Kinect Namespace" Url="html/962d472e-7dea-6509-6577-3ab6fda2764b.htm">
+    <HelpTOCNode Id="4d76662b-9aec-4cad-a675-72c3c3876efc" Title="KinectHelper Class" Url="html/e1731a1f-0636-9363-b8b6-35e1eabdf738.htm">
+      <HelpTOCNode Title="KinectHelper Members" Url="html/03ee34d5-c535-07d5-638d-535b4de9b69b.htm" />
+      <HelpTOCNode Title="KinectHelper Constructor " Url="html/a5b4449e-06a3-6ea9-5192-3096ffd93779.htm" />
+      <HelpTOCNode Title="KinectHelper Constructor " Url="html/ca7866ee-18b1-e028-b771-1b025e261a74.htm" />
+      <HelpTOCNode Id="6eb1aae7-84d4-4b8e-9941-968a44bc7138" Title="KinectHelper Fields" Url="html/0cad0223-428b-50ad-b4dd-0f752ab70ac0.htm">
+        <HelpTOCNode Title="allSkeletons Field" Url="html/f0229192-3636-1857-7d0f-6711edaab4ea.htm" />
+        <HelpTOCNode Title="ElevationAngle Field" Url="html/6d37388b-478d-fa41-01ac-14effa7ee3be.htm" />
+        <HelpTOCNode Title="elevationTimer Field" Url="html/db67757a-ff04-f836-1989-8be9244f8f4c.htm" />
+        <HelpTOCNode Title="instance Field" Url="html/4e4adb76-81c2-5398-77a5-8f5a4a7778ac.htm" />
+        <HelpTOCNode Title="isOkToMove Field" Url="html/d55018e6-012d-a6b8-d29c-7846ad87ef88.htm" />
+        <HelpTOCNode Title="isSkeletonTracked Field" Url="html/31a20a47-6e2f-f1a5-04bf-7ef4666a59f5.htm" />
+        <HelpTOCNode Title="maxPositionDeviation Field" Url="html/1f09887e-2162-7118-a572-c91e6e4fb9f0.htm" />
+        <HelpTOCNode Title="skeletonCount Field" Url="html/4ede3490-a529-fd5e-1d79-98d761f30976.htm" />
+        <HelpTOCNode Title="skeletonTrackedNumb Field" Url="html/08067354-486b-6e50-b1e8-07a5644ac41e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a24d3438-5802-4fd2-9ac4-da4640410bf5" Title="KinectHelper Methods" Url="html/0c4cceb0-c2ac-dfca-8de0-cae4bc62f4e4.htm">
+        <HelpTOCNode Title="CheckActivationGesture Method " Url="html/1fe2deb8-64fc-e43e-9728-35e8b3b1f6a3.htm" />
+        <HelpTOCNode Title="GetAudioSource Method " Url="html/1a5378c5-587c-eac4-dcc0-2eb36795ce99.htm" />
+        <HelpTOCNode Title="GetDepthStream Method " Url="html/656ad19a-87ca-62fb-1a50-7b235d00772b.htm" />
+        <HelpTOCNode Title="GetHandJoint Method " Url="html/85f8479d-8edd-9dd5-440d-42ee54a4bf7f.htm" />
+        <HelpTOCNode Title="GetSkeletonHeight Method " Url="html/6cd2ba25-8a0d-e704-6b8e-798f755a1bbb.htm" />
+        <HelpTOCNode Title="GetUser Method " Url="html/9493fdf6-0840-886c-b313-df756153f856.htm" />
+        <HelpTOCNode Title="InitializeKinect Method " Url="html/0da21437-db8c-4e2a-8ec8-ba5839683303.htm" />
+        <HelpTOCNode Title="Sensor_ColorFrameReady Method " Url="html/e4cbf798-a984-0778-a57e-d4cdebb0c7cc.htm" />
+        <HelpTOCNode Title="Sensor_DepthFrameReady Method " Url="html/a7f91169-dfbf-26c6-5028-7947dbca1385.htm" />
+        <HelpTOCNode Title="Sensor_SkeletonFrameReady Method " Url="html/2a0d766f-66c7-40c4-511d-260aceb66e4b.htm" />
+        <HelpTOCNode Title="SetDepthStreamRange Method " Url="html/6652f7f0-2683-6a95-9475-fd8110579c15.htm" />
+        <HelpTOCNode Title="SetElevationAngle Method " Url="html/e0d822df-541d-9638-b5a2-eaa3dc8d28e1.htm" />
+        <HelpTOCNode Title="setElevationStatus Method " Url="html/30575ea0-df1c-fa9d-771f-5e7cda3a002c.htm" />
+        <HelpTOCNode Title="SetupKinect Method " Url="html/17b2a66c-3ebf-3843-5bca-b6358005d00e.htm" />
+        <HelpTOCNode Title="StopKinect Method " Url="html/8167cb50-d07f-efc1-2889-18e5ae1b9f73.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="17af2e2f-461a-4998-be6c-39af2430e151" Title="KinectHelper Properties" Url="html/a4758a69-ec9d-d06b-10d1-3de20e1f5a46.htm">
+        <HelpTOCNode Title="_sensor Property " Url="html/fc13cecc-7a2f-10d1-0ab7-72bf0f6ed8f2.htm" />
+        <HelpTOCNode Title="currentSkeleton Property " Url="html/473dfcc9-09e4-a5cc-0cab-1d429aaa7a53.htm" />
+        <HelpTOCNode Title="currentTrackedId Property " Url="html/383219a1-811b-461a-1bb3-5777e7be3c79.htm" />
+        <HelpTOCNode Title="elevationAngle Property " Url="html/1756aae3-959c-748b-a068-27caeb9f9fb6.htm" />
+        <HelpTOCNode Title="Instance Property " Url="html/96767c33-2ddf-e4d2-d0f2-206afdf80f78.htm" />
+        <HelpTOCNode Title="isMoving Property " Url="html/2e4ab391-c661-87a7-19fb-b8858efc8fce.htm" />
+        <HelpTOCNode Title="isPlugged Property " Url="html/25c88b7d-5c2d-95ad-f1a4-2bd2d1982f69.htm" />
+        <HelpTOCNode Title="kinectStatus Property " Url="html/acff16c5-e63d-d9e4-c8ae-1f18b863220c.htm" />
+        <HelpTOCNode Title="skeletonHeigh Property " Url="html/81f04861-0468-61cb-ebf9-e7c5e89123d1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1fad84c0-1040-4d49-ad95-2756b37b0a3d" Title="KinectHelper Events" Url="html/c3aaff3c-4ac3-e155-5a0c-36e0b4503a17.htm">
+        <HelpTOCNode Title="ColorReady Event" Url="html/c57c82e6-ff8f-3d39-7d22-5618eea8207e.htm" />
+        <HelpTOCNode Title="DepthToGestureHelper Event" Url="html/1ebd0ed2-254b-dbe1-1a43-dfdc8a881fc6.htm" />
+        <HelpTOCNode Title="SkeletonToGestureHelper Event" Url="html/38babaf4-5352-2a2b-bd4e-e4b66a8c8c8d.htm" />
+        <HelpTOCNode Title="SkeletonToWindow Event" Url="html/6b6af955-8970-da10-1fbc-0a0760f81df8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="79df55a0-2ac4-44e3-ad25-887dfa9cfc1f" Title="QlikMove.Manager Namespace" Url="html/2a47f109-b8e0-d622-f8c8-4253df6ba8a2.htm">
+    <HelpTOCNode Id="4eb3f8f3-66a5-4907-8311-64413523cc84" Title="Manager Class" Url="html/3b9d4f67-6531-01de-9ed3-f36f01e02393.htm">
+      <HelpTOCNode Title="Manager Members" Url="html/21984aa6-cbd8-30c9-2415-841a03baa20b.htm" />
+      <HelpTOCNode Title="Manager Constructor " Url="html/521dee46-476d-e586-8513-7ad1b75e036f.htm" />
+      <HelpTOCNode Id="f6822a06-c5a0-40f0-986e-7f0d2f2682a2" Title="Manager Fields" Url="html/a6bc7ea7-808f-339f-48c3-5bf18e897727.htm">
+        <HelpTOCNode Title="ActionMgr Field" Url="html/fb964b14-261a-350c-77b8-ac0aafb6f5a2.htm" />
+        <HelpTOCNode Title="GestureMgr Field" Url="html/c8f11d8d-c66a-5e97-eff1-0d0fe27f18c1.htm" />
+        <HelpTOCNode Title="instance Field" Url="html/ac31a5e2-0637-7a4e-3a22-17964f5a1b1a.htm" />
+        <HelpTOCNode Title="kinectMgr Field" Url="html/1ed8848a-6f9d-a7fe-3cab-447433a643f9.htm" />
+        <HelpTOCNode Title="VoiceMgr Field" Url="html/a6162912-c1e7-f5b4-23f9-32080a4425c4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3705d1a2-e1d8-4de3-90ce-22cc48a341e1" Title="Manager Methods" Url="html/3c71a1ba-c079-b1b9-1351-53d47fd0bc6e.htm">
+        <HelpTOCNode Title="CreateHelpers Method " Url="html/ca29553b-429a-c711-be1e-908eed868eaa.htm" />
+        <HelpTOCNode Title="CutDispatchingEventsOnStreams Method " Url="html/dd39b5cb-c708-5bef-1a7f-a8bcd7af1c03.htm" />
+        <HelpTOCNode Title="DispatchEventsOnStreamsAndStartAudioSource Method " Url="html/150d15e2-20d1-de5a-8fa0-aeae3f00b71f.htm" />
+        <HelpTOCNode Title="Event_EventRecognised Method " Url="html/3281db51-cf5c-f675-f3a8-866fa4ada7e6.htm" />
+        <HelpTOCNode Title="InitKinect Method " Url="html/70768db5-16f8-64bf-2b97-abe45f9d4489.htm" />
+        <HelpTOCNode Title="InitServer Method " Url="html/50cdaf07-2ca2-58e4-1b88-e482b9fc3c74.htm" />
+        <HelpTOCNode Title="kinectMgr_DepthReady Method " Url="html/b7f9a407-466b-8bb8-11e1-5434d0f4d862.htm" />
+        <HelpTOCNode Title="kinectMgr_SkeletonReady Method " Url="html/f2891ae1-d672-9a09-0c5d-efe64f3e4f88.htm" />
+        <HelpTOCNode Title="Main Method " Url="html/45986252-d358-3402-f9d7-a71f295de76b.htm" />
+        <HelpTOCNode Title="ManageServerThread Method " Url="html/81bedbab-646f-ace0-20f0-f5f6f92f5ee0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="da8f25b9-d70f-4d04-b88b-1fb9117e1049" Title="Manager Properties" Url="html/61fd1b45-9cc3-bc34-dc35-ad4b143ca6d7.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/eabd6ba7-9953-37bf-90a2-bdb2b1342925.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="05ca3b7f-e753-4bf7-b9e7-ee90589d88d7" Title="QlikMove.Server Namespace" Url="html/6c555a6b-8f8b-6996-b966-f615c2fbdb3f.htm">
+    <HelpTOCNode Id="88fd3bbe-7203-488a-a381-d5fe71f6d9c9" Title="ServerHelper Class" Url="html/1720965c-dcef-d289-d3a9-8990ee4b7735.htm">
+      <HelpTOCNode Title="ServerHelper Members" Url="html/f02810e1-51a5-3395-573a-68876539e3ce.htm" />
+      <HelpTOCNode Title="ServerHelper Constructor " Url="html/4e04c4cf-6bff-f637-17ab-d40cbd8f00c8.htm" />
+      <HelpTOCNode Title="ServerHelper Constructor " Url="html/a2b90de5-5fd9-0575-045c-fb43703ed426.htm" />
+      <HelpTOCNode Id="959958e6-766b-4d88-9132-5b838ff4d0a1" Title="ServerHelper Fields" Url="html/1c83c29c-7d26-9c0c-b0db-c39741c1f206.htm">
+        <HelpTOCNode Title="_address Field" Url="html/5962bd3a-6efe-5bfe-6e32-50636f581c46.htm" />
+        <HelpTOCNode Title="_port Field" Url="html/689e58e6-e049-ceb4-931c-c44bba3f1dc1.htm" />
+        <HelpTOCNode Title="_sockets Field" Url="html/a8783b06-03a9-0f22-06ae-e54af853fd28.htm" />
+        <HelpTOCNode Title="firstTimeConnect Field" Url="html/ab1a2dc5-360e-3ec5-19b3-af5c2c7242fb.htm" />
+        <HelpTOCNode Title="isClientConnected Field" Url="html/880ae0d8-b5fb-0335-69a1-124496d0ecaa.htm" />
+        <HelpTOCNode Title="isKeyboardLaunched Field" Url="html/5e81a6c6-07ce-2acd-1e2f-01d0fdc5b6ca.htm" />
+        <HelpTOCNode Title="keyboardProcess Field" Url="html/8f8ccb25-01fc-b2dd-0f20-54bc6b07955b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b37eb3d0-a0b8-4da5-85b1-9199c3eb14f8" Title="ServerHelper Methods" Url="html/3efa4026-ae3f-c8dd-ba05-9e7f93d2f160.htm">
+        <HelpTOCNode Title="HandleMessageReceived Method " Url="html/3f7f17b7-941e-8f70-b6fe-24d335243d0e.htm" />
+        <HelpTOCNode Title="InitializeSockets Method " Url="html/d4e378d2-c0d1-03f5-6bcf-4498771cac43.htm" />
+        <HelpTOCNode Title="MessageReceiver Method " Url="html/78249229-54c6-c335-16e8-b067f3c28178.htm" />
+        <HelpTOCNode Title="Send Method " Url="html/a64735f0-1f73-8e9f-3593-85dd0b09ee31.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="1b6a4ccd-807c-49b8-bea7-e69ef2d92ef0" Title="QlikMove.StandardHelper Namespace" Url="html/85ab7b3f-a99f-b125-ce8b-2f56bddd7ba7.htm">
+    <HelpTOCNode Id="9fc48488-fefb-4b1c-b6f6-259733dcdf87" Title="Helper Class" Url="html/6b420d7c-be5b-9171-91ad-67a6391c3845.htm">
+      <HelpTOCNode Title="Helper Members" Url="html/01387139-3683-b237-e011-f9d42c87b6f3.htm" />
+      <HelpTOCNode Title="Helper Constructor " Url="html/e7d128a3-71ea-bf0e-50d5-9b090777e697.htm" />
+      <HelpTOCNode Title="Helper Constructor " Url="html/b28712da-5e46-8629-2546-60736fdf6411.htm" />
+      <HelpTOCNode Id="40e52f37-aa5a-4566-b023-843fd8fde73d" Title="Helper Fields" Url="html/28dc54d3-82a1-eb69-b0fd-c5d71329d6a8.htm">
+        <HelpTOCNode Title="_depthFrameHeight Field" Url="html/b1737524-ef33-aa18-81b7-66aebd5319e6.htm" />
+        <HelpTOCNode Title="_depthFrameWidth Field" Url="html/5e1a8ddd-0dc7-ff94-e0b3-2e54dfae318f.htm" />
+        <HelpTOCNode Title="_handShapeDetectionSensibility Field" Url="html/1626aa33-541c-3785-5930-1422c662926b.htm" />
+        <HelpTOCNode Title="_mouseSensibility Field" Url="html/2437ca16-debc-0d40-b1a4-71d5ceab2a4c.htm" />
+        <HelpTOCNode Title="_skeletonMaxX Field" Url="html/79af04f2-859d-dbfa-c8a0-879a49ee30b0.htm" />
+        <HelpTOCNode Title="_skeletonMaxY Field" Url="html/5b3f3d5f-fb9e-7bd5-e82a-5eb87d31c883.htm" />
+        <HelpTOCNode Title="_tooNear_DefaultMode Field" Url="html/da24a89e-027c-14b5-32f0-ede97d1e314d.htm" />
+        <HelpTOCNode Title="_tooNear_NearMode Field" Url="html/a4e73e3a-9ca3-13e0-5458-78a8d642945c.htm" />
+        <HelpTOCNode Title="armExtendedDistance Field" Url="html/eeed2c39-bdd8-6075-6990-cc951a18406d.htm" />
+        <HelpTOCNode Title="disabledActions Field" Url="html/e83ded55-0684-b200-2029-d237c43fa222.htm" />
+        <HelpTOCNode Title="kinectColorFormat Field" Url="html/261c90da-906a-6b68-43ae-c09d0d1327b9.htm" />
+        <HelpTOCNode Title="kinectColorFormatHeight Field" Url="html/7a921f73-071b-1e6c-75d1-d7ea28c6c406.htm" />
+        <HelpTOCNode Title="kinectColorFormatWidth Field" Url="html/eeec1488-329f-5279-94ce-51967daea6fe.htm" />
+        <HelpTOCNode Title="kinectDepthFormat Field" Url="html/a05cf2e7-ad34-fd2a-761b-57639d894636.htm" />
+        <HelpTOCNode Title="maxCursorDeviation Field" Url="html/c8b19942-b600-5de6-e876-52a1837330a8.htm" />
+        <HelpTOCNode Title="normalizedHeigh Field" Url="html/1c0e7ea6-450d-1ed8-1048-19d84340be31.htm" />
+        <HelpTOCNode Title="virtualBoxX Field" Url="html/e12cfa45-7e8d-37f6-7170-961695d2b62c.htm" />
+        <HelpTOCNode Title="virtualBoxY Field" Url="html/95cc34b8-ae17-d4cb-c3a5-b4370507f4d3.htm" />
+        <HelpTOCNode Title="Xsensibility Field" Url="html/b6b9f450-5a97-6d64-035a-5eb35d3a438d.htm" />
+        <HelpTOCNode Title="Ysensibility Field" Url="html/5b054053-103e-6a59-335b-a895357b56a9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e41c7609-7ebb-422c-8551-5e4082fa3450" Title="Helper Methods" Url="html/b3a967e0-acd6-7a57-c5d7-2b38b7e33134.htm">
+        <HelpTOCNode Title="AddDisabledAction Method " Url="html/1033c578-dc7e-a0b0-ffc4-6904b47c4c8a.htm" />
+        <HelpTOCNode Title="AddDisabledActions Method " Url="html/6aa07e75-e52a-4339-a505-f6075ea0968a.htm" />
+        <HelpTOCNode Title="GetAppPath Method " Url="html/3ef1e5a8-dd56-28f2-ae91-a23dd62ebf3b.htm" />
+        <HelpTOCNode Title="GetTimeStamp Method " Url="html/be7df03b-1776-0fc3-6219-304c76229e5b.htm" />
+        <HelpTOCNode Title="RemoveDisabledAction Method " Url="html/6c559fa9-7b3e-4b19-7422-e26ad4de2822.htm" />
+        <HelpTOCNode Title="RemoveDisabledActions Method " Url="html/eb6d46eb-267e-18c3-9d64-438ce6074660.htm" />
+        <HelpTOCNode Title="ResetDisabledActions Method " Url="html/928714a3-0d56-12d7-1d7f-54019b516917.htm" />
+        <HelpTOCNode Title="ResetSensibilitySettings Method " Url="html/523c2331-03af-2e4a-845f-0ea5c8bf9ad7.htm" />
+        <HelpTOCNode Title="SetSensibilitySettings Method " Url="html/40ba4fd2-e264-45ed-2eb9-4679771c68e5.htm" />
+        <HelpTOCNode Title="SetUserBodySettings Method " Url="html/008722c7-a378-4ae1-c1f8-5111a71c737f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="73256a3c-3500-45e8-bdf3-455cd69c69b9" Title="Helper Properties" Url="html/0cc45e64-e5db-1b8a-84b8-5863a7a8175d.htm">
+        <HelpTOCNode Title="_tooNearDepth Property " Url="html/5ff50952-e96e-56d7-b818-85a02cf9ad4c.htm" />
+        <HelpTOCNode Title="tooFarDepth Property " Url="html/b74a7f52-1149-686e-fe3d-ee6a3b4c8260.htm" />
+        <HelpTOCNode Title="unknownDepth Property " Url="html/a99cc7c2-3d7a-9057-a2c7-ff60132a3883.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ef7932f7-75c9-4bfc-a9dc-9b8c57deb16d" Title="LogHelper Class" Url="html/80b781d4-77da-b589-94f1-039db5aa80a1.htm">
+      <HelpTOCNode Title="LogHelper Members" Url="html/1f49622a-b805-8203-3c7e-0315886bcbd1.htm" />
+      <HelpTOCNode Title="LogHelper Constructor " Url="html/be229903-a588-7840-d307-a8e3a697b9bc.htm" />
+      <HelpTOCNode Id="0b58307f-25d8-42a1-81df-7889b6a7f050" Title="LogHelper Fields" Url="html/add7e2bb-dcc3-7a3d-d6b4-2c96c413ca18.htm">
+        <HelpTOCNode Title="errorTime Field" Url="html/23a437d6-a943-7bff-39dd-34a500e1bd57.htm" />
+        <HelpTOCNode Title="logFormat Field" Url="html/2a0928a6-c64a-335f-d7e6-b8dc663d2dd3.htm" />
+        <HelpTOCNode Title="path Field" Url="html/14ca21bc-7c3a-5a4d-9f6b-42b1d5c78bae.htm" />
+        <HelpTOCNode Title="sw Field" Url="html/1fd2fa72-95b0-c445-7254-cd4e537ea2e2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="45f58947-cbd5-4c53-aa63-f35c7834d931" Title="LogHelper Methods" Url="html/d731240f-5fed-5620-fe81-fd61ca9c7098.htm">
+        <HelpTOCNode Title="CreateLogFiles Method " Url="html/1bceb067-245c-69f4-f976-b98c5d549c22.htm" />
+        <HelpTOCNode Id="7a0b015c-ddbd-4b83-90d2-a7d8ce1668f1" Title="logInput Method " Url="html/4c4885ca-3d5e-ea99-6fce-255f25967821.htm">
+          <HelpTOCNode Title="logInput Method (String, LogHelper.logType, Object)" Url="html/d47cc78b-70da-f366-1198-8217cb97deca.htm" />
+          <HelpTOCNode Title="logInput Method (String, LogHelper.logType, String)" Url="html/488ec3b3-9ab4-57e6-1b1e-5b47943ebe5b.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="LogHelper.logType Enumeration" Url="html/a8cdc8e8-bec0-7279-9538-9a21d71fdac2.htm" />
+    <HelpTOCNode Id="0576c714-604d-4d49-98d0-3cef8fadaf88" Title="Serializer Class" Url="html/87e747e4-f973-c1b8-d5ac-f7b204d5ebbf.htm">
+      <HelpTOCNode Title="Serializer Members" Url="html/294ea691-7b4b-23f2-4c53-fdec5abad975.htm" />
+      <HelpTOCNode Title="Serializer Constructor " Url="html/e743a4d5-d72a-e994-1199-becef6ba1b27.htm" />
+      <HelpTOCNode Id="4bd5007a-f4db-423a-ab54-86a896c55b1d" Title="Serializer Methods" Url="html/0f0de69f-7c1b-364b-7499-9907d9f9a061.htm">
+        <HelpTOCNode Title="DeserializeAllHangGestures Method " Url="html/0ed21769-1741-5f9b-5d6b-7ed9bccd9f60.htm" />
+        <HelpTOCNode Title="DeSerializeTemplateClass Method " Url="html/7391d3c8-0d10-146e-1d4d-e14153e1a974.htm" />
+        <HelpTOCNode Title="SerializeJSON Method " Url="html/c017803a-eb9f-6b23-3369-648d63448cde.htm" />
+        <HelpTOCNode Title="SerializeTemplateClass Method " Url="html/5d86dae4-dfd3-7df0-5179-ff2bad76b1c2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="74770332-4bc4-4f65-8aff-ebccf3f68366" Title="QlikMove.StandardHelper.ActionCore Namespace" Url="html/1d1a4fab-614a-6798-0987-b57604f92b7b.htm">
+    <HelpTOCNode Id="698f2a24-060e-489a-b493-f3975441d25c" Title="Action Class" Url="html/02da6815-0efd-b699-64a3-87e89a224128.htm">
+      <HelpTOCNode Title="Action Members" Url="html/1fe9668a-aa29-3098-2655-d0267bf8c2a7.htm" />
+      <HelpTOCNode Title="Action Constructor " Url="html/12e764bf-374c-a54a-1a3e-955724d1eff8.htm" />
+      <HelpTOCNode Id="17cefb16-fde3-4134-907e-72a4ca9e83ac" Title="Action Fields" Url="html/97770b62-f887-3c71-eedc-12d70f804a9b.htm">
+        <HelpTOCNode Title="currentActionPart Field" Url="html/e39f680d-c9b7-c35c-fd3f-e762e35ca27a.htm" />
+        <HelpTOCNode Title="triggeredEvents Field" Url="html/ff92a8af-e82e-cbd3-0a0e-4c514f7c4333.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="293064c3-2297-4ce1-a0d3-1be3b3940810" Title="Action Methods" Url="html/afbefe7c-3977-e79c-47fa-e21e0369be10.htm">
+        <HelpTOCNode Title="reset Method " Url="html/bbec2216-2ff5-fbef-0365-c7d508296acd.htm" />
+        <HelpTOCNode Title="UpdateAction Method " Url="html/f53228c2-2b43-18a4-c2f4-573d45443e53.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e3d22bf7-4bbf-47d8-8963-0a0c4cb953b6" Title="Action Properties" Url="html/22a91030-1738-bc15-2610-e80968a426e6.htm">
+        <HelpTOCNode Title="name Property " Url="html/550bd0cc-856a-6772-8498-e40a29599ae1.htm" />
+        <HelpTOCNode Title="parts Property " Url="html/3b9afbf3-edb1-60c5-8745-1dfb31d9bc0b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5c44d647-1424-44a0-8fa5-30f3d2043f0f" Title="Action Events" Url="html/7e403b27-eb17-7295-5879-ce18cc10b04d.htm">
+        <HelpTOCNode Title="ActionRecognised Event" Url="html/e66ef929-cfbb-2f4f-3396-16404508801b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0aa66ed8-0544-456d-981b-7843b36ea110" Title="ActionPart Interface" Url="html/c2e441d9-d824-118b-016b-f82f1c3a354e.htm">
+      <HelpTOCNode Title="ActionPart Members" Url="html/c752b61b-3908-bfe7-8bd7-9e2389689bf6.htm" />
+      <HelpTOCNode Id="0782e4cb-8eb4-4fb8-88ef-0f380b87943c" Title="ActionPart Methods" Url="html/a618c2cc-8306-4353-5d7f-1e5f93794b9e.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/dcb54f7f-4814-7fd0-b7f7-f5c620d134a4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="70cd0780-e311-4c87-958d-570fb52bec89" Title="QlikMove.StandardHelper.Actions Namespace" Url="html/5d45398f-ed81-6002-b89c-77e3d3d3e0a4.htm">
+    <HelpTOCNode Id="20856d99-dab4-4107-b020-735aa6b48105" Title="Clear Class" Url="html/54ed0c79-3ddb-27c6-e8df-e7cb89b99bca.htm">
+      <HelpTOCNode Title="Clear Members" Url="html/8d876c89-8c75-eec1-3af0-b545aeb7e8e4.htm" />
+      <HelpTOCNode Title="Clear Constructor " Url="html/e9c7e756-9dc6-43f6-c8af-7d783748188b.htm" />
+      <HelpTOCNode Id="dd1faa59-48da-491a-b07b-fc97b1d0fd5a" Title="Clear Methods" Url="html/9d81459d-c6f1-0b38-91ea-622eee0f06e4.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/a9e6d987-5b32-cbfe-682f-40cd0ef287b2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="79ae533a-38ca-47c4-b3cf-c6f75fef2769" Title="Click Class" Url="html/fdeab6dc-b3ea-e719-6b3a-972172d0a4bc.htm">
+      <HelpTOCNode Title="Click Members" Url="html/43ccbb0a-37a3-b14b-c306-6637733c9b8d.htm" />
+      <HelpTOCNode Title="Click Constructor " Url="html/6afb8aef-3bca-f349-3241-0319819bd86f.htm" />
+      <HelpTOCNode Id="24d694d1-4456-4836-a40e-d452b7311667" Title="Click Methods" Url="html/f0a5554f-ad14-0e0e-4a92-ab66a5864d16.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/edbac245-33aa-788a-92a7-a9e2200b77b3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ab445a48-2344-49f0-8b64-62099dd21a05" Title="Close Class" Url="html/738ceed1-d43b-f60f-a18d-021377f8313a.htm">
+      <HelpTOCNode Title="Close Members" Url="html/d0322858-7885-52eb-1f04-d9599e9cae54.htm" />
+      <HelpTOCNode Title="Close Constructor " Url="html/3ae54d19-5e5f-bff2-0ac7-aeda01075cbb.htm" />
+      <HelpTOCNode Id="c23d782a-b70b-4f98-a6ee-590c8bd53454" Title="Close Methods" Url="html/ab4965e1-5b3f-f85b-13ee-201fb3c7bf7e.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/8c160dd0-9e8c-185a-2d78-cf7226a0c16b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c3345c97-33d5-4e49-ba72-c0d9d54687ee" Title="Exit Class" Url="html/7fd2ab4a-276d-c83d-e4f0-dcd0862640ea.htm">
+      <HelpTOCNode Title="Exit Members" Url="html/7fab93d0-7784-1e08-db91-7de2e215cc30.htm" />
+      <HelpTOCNode Title="Exit Constructor " Url="html/26b00887-696b-f389-6e39-ff178089a0f6.htm" />
+      <HelpTOCNode Id="029aa4b2-e593-411e-90da-ea8d50533073" Title="Exit Methods" Url="html/247a5fab-2f5e-f92a-abae-e844ca8b82d8.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/1817044e-75a7-2d3a-4056-cb2308f60cc2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="feb89607-15ce-43d8-8216-18c7cc82e40b" Title="Idle Class" Url="html/197a2dfb-002e-274e-099f-7be58bdfee0d.htm">
+      <HelpTOCNode Title="Idle Members" Url="html/a6fcb503-106b-9ab5-8230-3423021254d1.htm" />
+      <HelpTOCNode Title="Idle Constructor " Url="html/b5eb0fff-6290-b1fa-521d-ba7fa1109556.htm" />
+      <HelpTOCNode Id="915aa382-4401-4568-9ccf-d8f3fc86044c" Title="Idle Methods" Url="html/256e233c-54e5-8d2e-78de-c47f80a09652.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/0b211604-c3f1-3821-30c6-a3e999349bef.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c330e4bb-8f57-48e6-a6bb-fafa522f6c42" Title="Lock Class" Url="html/264eefbb-8769-f542-9ce6-006bc36b0a4a.htm">
+      <HelpTOCNode Title="Lock Members" Url="html/99379924-f13b-82e1-7218-8e9d4413e5be.htm" />
+      <HelpTOCNode Title="Lock Constructor " Url="html/ab47d0e4-e92c-f4f5-65a2-23ab8cf01e28.htm" />
+      <HelpTOCNode Id="2d21710c-2614-48fd-b237-a2a72fa8e4f8" Title="Lock Methods" Url="html/ec25a49f-2c74-10f0-d3ce-0c20fd5e4e67.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/a60c05ad-7c11-6dab-b558-00d92d71a237.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="72a61f17-158c-4b68-85c8-2fd1aeb40515" Title="Maximize Class" Url="html/3d433266-85e8-acd9-7232-7a589b88caa4.htm">
+      <HelpTOCNode Title="Maximize Members" Url="html/973a6140-2a43-827f-bd9d-1ac85d20df16.htm" />
+      <HelpTOCNode Title="Maximize Constructor " Url="html/fb95b847-0834-c629-f819-1cdbc43753e5.htm" />
+      <HelpTOCNode Id="f1874c34-2ed0-4ab7-b6df-b31b50d439fb" Title="Maximize Methods" Url="html/977939d6-1031-14a0-9e21-c6b1ab7e4fb3.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/f0692b14-b4d8-a033-0a12-bd4b89e70cc1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4e9f7adf-56c4-437e-b0bf-70bfc6819455" Title="Minimize Class" Url="html/379660bb-d5a9-c2d0-6d3a-2472b05d865e.htm">
+      <HelpTOCNode Title="Minimize Members" Url="html/7ca34d57-5bd2-2df2-c873-65efcfd0114c.htm" />
+      <HelpTOCNode Title="Minimize Constructor " Url="html/c4dad45c-6b77-8525-e771-8ba3541fda0b.htm" />
+      <HelpTOCNode Id="50430f28-762f-4119-9dc5-d07d2cd2a7b2" Title="Minimize Methods" Url="html/762a5faa-58fc-6d7e-e8c8-f224488811d1.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/67cf0b59-94f5-e792-6a28-0d452136154c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4c08a436-cf8e-4a7c-8939-da3227e44bf6" Title="MousePress Class" Url="html/3c9f3341-324f-23d4-55b1-be260b510fe7.htm">
+      <HelpTOCNode Title="MousePress Members" Url="html/12e91f21-fde7-b89e-ba9e-2e6edc7d1246.htm" />
+      <HelpTOCNode Title="MousePress Constructor " Url="html/c01db61e-2080-73b0-0a73-5a8239878c80.htm" />
+      <HelpTOCNode Id="893495e5-6a9d-4ea1-9a07-7e4a2ed67a66" Title="MousePress Methods" Url="html/56a5d6e6-a4b7-a46f-7a40-f39c54c2e68c.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/2ad77808-9559-faa1-e269-8a87431eb526.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5c4cb73e-1d1b-4ad7-a41f-5b1130f104fb" Title="MouseRelease Class" Url="html/a963fd98-a501-6cce-2755-8235ded7bfaf.htm">
+      <HelpTOCNode Title="MouseRelease Members" Url="html/a3a2fada-a05b-b0a6-083f-142b5b34a80b.htm" />
+      <HelpTOCNode Title="MouseRelease Constructor " Url="html/5dd221de-37da-4861-2ff8-d505a41b5c51.htm" />
+      <HelpTOCNode Id="b2a64b55-0777-4d95-8d16-7cbf96ad51d3" Title="MouseRelease Methods" Url="html/b2739ddd-f357-94ef-13f6-2cbc92e1303e.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/ab64bce2-99be-78ca-7e32-dfe867168344.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="90b551c4-e0e9-4187-ae76-aaa056b933fe" Title="MultipleSelection Class" Url="html/cf3b88d8-3736-0d33-0a9b-b3d87f9133d1.htm">
+      <HelpTOCNode Title="MultipleSelection Members" Url="html/15529143-b57f-ae33-456a-97881be62d25.htm" />
+      <HelpTOCNode Title="MultipleSelection Constructor " Url="html/aa11afc3-3409-99c2-b7e3-f2974263e8b2.htm" />
+      <HelpTOCNode Id="42dd947f-92d9-4f7e-bb43-879448db09e1" Title="MultipleSelection Methods" Url="html/7d1bfee0-5c72-2886-c59c-9572ff6592b2.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/23e151a1-9c9b-15d8-b5f0-b942c09e808c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="89db5e3c-98cc-486c-9b2d-410d58249268" Title="Next_Selection Class" Url="html/5a3ac016-5d58-ab5d-502f-36d2410fda63.htm">
+      <HelpTOCNode Title="Next_Selection Members" Url="html/ae77b775-0383-6ac0-1488-11bacf8386e9.htm" />
+      <HelpTOCNode Title="Next_Selection Constructor " Url="html/0233fbb6-b5f6-e4a3-0e63-b02caf581d9b.htm" />
+      <HelpTOCNode Id="d317ac4f-f7c1-44f8-9256-a1dfebc0b47c" Title="Next_Selection Methods" Url="html/6885b35a-7171-9a2a-9ce2-b3da5a8fd262.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/eb716728-40e4-2b09-a3a3-7d48cd664f40.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="621ecab2-8fd3-4af6-aa5b-27e930e24ad6" Title="Next_Tab Class" Url="html/3ee94ab7-faf7-c71e-135e-558072646005.htm">
+      <HelpTOCNode Title="Next_Tab Members" Url="html/4909e69e-cbda-6cf9-6270-e82e07d48531.htm" />
+      <HelpTOCNode Title="Next_Tab Constructor " Url="html/84b3f4c9-8602-bb17-4422-b3fc117dbd15.htm" />
+      <HelpTOCNode Id="13adfe06-4c3e-46c3-9ece-d1c7640d589d" Title="Next_Tab Methods" Url="html/7d9e7bda-335a-50be-1896-115c0144980f.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/fc0bdc8d-24e6-866b-efb1-80523ea93def.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a0636eb1-8fc2-4d6b-9a22-29cfa981686d" Title="Open Class" Url="html/f55bc2c1-9f31-5e72-09dc-f0252b0ac258.htm">
+      <HelpTOCNode Title="Open Members" Url="html/0bfe99e4-ac0d-739f-edd9-265b3776e874.htm" />
+      <HelpTOCNode Title="Open Constructor " Url="html/3fed8ed0-f99a-bafb-d8d1-d5d31491d35e.htm" />
+      <HelpTOCNode Id="2ac36e87-90e6-416b-a167-f23aa5c25af1" Title="Open Methods" Url="html/5f29a3b0-6e41-b65a-ddc7-bc9bac8722ed.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/e1ae6a5b-ee1e-18ba-4225-ea1b2c6ae689.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e628405f-bac0-42e1-bf8f-35693d644d52" Title="Previous_Selection Class" Url="html/b03f8dfb-ac63-1223-e6fd-4b300e78de9b.htm">
+      <HelpTOCNode Title="Previous_Selection Members" Url="html/308a6bb9-c28b-3a54-5cd1-d600d4754321.htm" />
+      <HelpTOCNode Title="Previous_Selection Constructor " Url="html/8a80d474-c2af-f07a-4c95-fb2a2eeaa067.htm" />
+      <HelpTOCNode Id="5cdac49f-51aa-4990-917d-0eaf455023f0" Title="Previous_Selection Methods" Url="html/c6575a83-e4eb-dde9-1149-80d0634c8461.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/74357b97-fc10-5081-25ef-fbdd0052cde4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="743c7dba-3f72-4aad-8482-c656023ef2f3" Title="Previous_Tab Class" Url="html/02627e08-150a-55e0-aa4d-71ec3a564d53.htm">
+      <HelpTOCNode Title="Previous_Tab Members" Url="html/c86ea966-ad70-741a-28a3-ce0a416e9259.htm" />
+      <HelpTOCNode Title="Previous_Tab Constructor " Url="html/c0c9e97f-c781-0a6f-a700-9a9bf4f60f34.htm" />
+      <HelpTOCNode Id="fd3099cf-19fe-4035-88b0-0ef2f9ce1b17" Title="Previous_Tab Methods" Url="html/6f679f22-43a7-9d94-6853-1fe39189dfca.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/c1b6e3dd-efd2-1838-eca1-da58f58d4a82.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f66b0414-d046-433c-9b0a-8748640fed72" Title="Redo Class" Url="html/b47bc340-9210-7910-4d80-b9a531fb6e24.htm">
+      <HelpTOCNode Title="Redo Members" Url="html/48fc695e-5d2c-89a4-464f-f7d6af7ad01b.htm" />
+      <HelpTOCNode Title="Redo Constructor " Url="html/4c618bab-f3ac-3d1c-9bc7-5b2b313c470d.htm" />
+      <HelpTOCNode Id="fc40eff9-20d4-4e70-a3c8-c8f123cc4dd9" Title="Redo Methods" Url="html/18150e4c-71bb-e469-6560-78ecb74ad636.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/3822575f-b34b-68c3-0452-8aace6a55aba.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1c46a8a7-f002-4b34-a185-05ef8222324c" Title="Restore Class" Url="html/817224ff-5f0a-aafe-ae51-4b2991b3fd22.htm">
+      <HelpTOCNode Title="Restore Members" Url="html/779c8b67-9ff0-2ea1-f396-4a74945851b0.htm" />
+      <HelpTOCNode Title="Restore Constructor " Url="html/bbe446e0-45c2-2a4e-1f48-8259685d1f91.htm" />
+      <HelpTOCNode Id="d0fbf9d0-ab3e-4e93-8369-5d703345c87c" Title="Restore Methods" Url="html/e22254e6-9c34-0c35-e17d-be85916cd9b9.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/b12d975b-8e94-34bb-a5e0-ccfb3b5a451b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ee147821-1177-464d-99b5-c765e66f4baf" Title="Scroll_Down Class" Url="html/18dae874-1f4e-f7f0-4af3-ef253aaabe07.htm">
+      <HelpTOCNode Title="Scroll_Down Members" Url="html/27edcee5-b804-3896-20ff-055feae6c44c.htm" />
+      <HelpTOCNode Title="Scroll_Down Constructor " Url="html/1584644a-86e4-cdb4-0e89-9d722d07fcc2.htm" />
+      <HelpTOCNode Id="dd1ee676-261c-4c9b-ac56-29bb0f5e75b7" Title="Scroll_Down Methods" Url="html/65edc174-01db-3587-5b81-86e3c57c8f88.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/7ec43670-a0cd-8358-400c-1665347d5714.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="28ee9bc9-b476-4ab4-87f9-f1a7f063a992" Title="Scroll_Up Class" Url="html/86f503a2-0235-958a-380d-27a256184584.htm">
+      <HelpTOCNode Title="Scroll_Up Members" Url="html/2b52802b-332e-8b3d-c5fe-64f873a28951.htm" />
+      <HelpTOCNode Title="Scroll_Up Constructor " Url="html/57274254-b397-563f-c815-4bde3354b2de.htm" />
+      <HelpTOCNode Id="9b2a5285-eb03-472a-9439-f73e441e0b14" Title="Scroll_Up Methods" Url="html/57cece9c-26d6-289b-3abc-736358025fa4.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/37a16b87-af28-860e-ddc7-cbdd34cbb051.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e0fbf484-5441-4a29-92f9-91fe0fa2686b" Title="Undo Class" Url="html/7cc82ed2-e339-1e29-3805-0661b4231eab.htm">
+      <HelpTOCNode Title="Undo Members" Url="html/ca7ac257-0df2-0f27-827d-5d62215d1823.htm" />
+      <HelpTOCNode Title="Undo Constructor " Url="html/407eab7f-8ea6-04fa-90c5-eb3ca3959431.htm" />
+      <HelpTOCNode Id="b4ab5d2e-ac53-4862-943a-d7ecc6d7d305" Title="Undo Methods" Url="html/3df8fbc5-73e8-bdb7-9081-aa025122173d.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/2c641a69-4fd1-94dc-d1cc-f07691a1861f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="314dc218-264f-48b6-8ad2-f904074a796f" Title="Unlock Class" Url="html/59a7d0a1-a756-1179-71d3-86c19ebfa9bd.htm">
+      <HelpTOCNode Title="Unlock Members" Url="html/5d026753-8c2b-00ba-0047-e9c674df41ab.htm" />
+      <HelpTOCNode Title="Unlock Constructor " Url="html/96ac11a0-fb36-e788-a8b2-3dcf2e38db3f.htm" />
+      <HelpTOCNode Id="1aeed766-67aa-4b47-9b97-b417e87dcc72" Title="Unlock Methods" Url="html/ed7274d0-ed8d-6b3c-4d4b-ea5f58d59258.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/c2dc9ba8-bbfa-f870-9061-2caa3c344599.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a0adaac8-87af-4ce4-a6c3-16ba494282b3" Title="WindowsCtrlTab Class" Url="html/ffde8b8c-5ea5-801c-c1ba-7436af33c68a.htm">
+      <HelpTOCNode Title="WindowsCtrlTab Members" Url="html/9a31062e-05da-1468-ad54-8003f21cab43.htm" />
+      <HelpTOCNode Title="WindowsCtrlTab Constructor " Url="html/7cd68d3f-1719-40fa-2e3a-ff46bf8df4ad.htm" />
+      <HelpTOCNode Id="223f526e-6f56-47d2-bda7-43505104040e" Title="WindowsCtrlTab Methods" Url="html/9e5aa11e-ae6e-fb04-2bf4-d7fcb12eb9e9.htm">
+        <HelpTOCNode Title="checkPart Method " Url="html/9a04d767-83c9-f2d4-f7ec-3644cc7d14ce.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="79313a71-0baf-42bd-a7f7-e811ea57262f" Title="QlikMove.StandardHelper.ContoursCore Namespace" Url="html/5a7d56b7-60fa-dcbe-d031-a7e7e2cb259b.htm">
+    <HelpTOCNode Id="d501495a-2f18-4790-9a78-55a5e086520a" Title="Contour Class" Url="html/fe2b57ae-7eb5-fccc-56a3-383dbf15564d.htm">
+      <HelpTOCNode Title="Contour Members" Url="html/e687bddf-3ae5-d469-0193-0bb9c208c242.htm" />
+      <HelpTOCNode Id="af58218f-99f9-4076-b39a-9d07614f0926" Title="Contour Constructor " Url="html/ad432d1a-9317-1188-34b5-47f75c7fb641.htm">
+        <HelpTOCNode Title="Contour Constructor ((Point))" Url="html/7635862b-e7fc-577b-733e-cd70871d4b6b.htm" />
+        <HelpTOCNode Title="Contour Constructor (Int32)" Url="html/9db42155-1c07-454c-e764-f60d290dabb2.htm" />
+        <HelpTOCNode Title="Contour Constructor (Point[], Int32, Int32)" Url="html/376aac32-9012-19c6-1a15-87b05ab942aa.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f5bb8c7e-e6f7-4105-bec2-9df73e2604a4" Title="Contour Fields" Url="html/19befcba-a17c-48d6-bf29-90922a58c7a8.htm">
+        <HelpTOCNode Title="c Field" Url="html/fb2f5fa3-a243-470e-901e-942707b5f19c.htm" />
+        <HelpTOCNode Title="NSP Field" Url="html/49c7fc7e-d1a8-4a38-4be1-0e95926fc0d5.htm" />
+        <HelpTOCNode Title="points Field" Url="html/2000a646-0c56-b531-59b6-2eb356787f78.htm" />
+        <HelpTOCNode Title="vc Field" Url="html/15eb0bc9-b31b-9144-667b-3fa7f663c0f6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7a6c77ad-9573-41b0-865c-f2e55cbdd44d" Title="Contour Methods" Url="html/1d97ff25-3394-da14-fe11-78d80d694340.htm">
+        <HelpTOCNode Title="AutoCorrelation Method " Url="html/17e301b0-0748-37f7-ca7c-fbdab474c29f.htm" />
+        <HelpTOCNode Title="ComputeNorm Method " Url="html/003ddeb7-0470-ffb7-af43-c17ecf46cd40.htm" />
+        <HelpTOCNode Title="ComputeNSP Method " Url="html/4f9c9bc5-a829-a1d6-180b-065c0dbdef3e.htm" />
+        <HelpTOCNode Title="Dot Method " Url="html/fc325fe3-bedd-a89c-257a-50d73386b0f9.htm" />
+        <HelpTOCNode Id="9fae4e4a-d0a7-48d6-ae51-047fac175cc7" Title="DotProduct Method " Url="html/47fe533f-72a4-d336-1674-fca6a6684cbb.htm">
+          <HelpTOCNode Title="DotProduct Method (Contour)" Url="html/a1cd84d6-c22b-8579-9c24-183ab66f2f2e.htm" />
+          <HelpTOCNode Title="DotProduct Method (Contour, Contour)" Url="html/6f97b73a-a9b2-4cca-44cb-3877ff6b2919.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Equalization Method " Url="html/3c0fcc84-a88f-3ea8-3bf7-dce42344c403.htm" />
+        <HelpTOCNode Title="EqualizationDown Method " Url="html/b30d8397-3868-a139-2247-103240d74487.htm" />
+        <HelpTOCNode Title="EqualizationUp Method " Url="html/54aad0f6-58f2-7e63-308f-05305a81a92c.htm" />
+        <HelpTOCNode Title="FindMaxNorm Method " Url="html/396d69c4-6e86-98fd-465d-dbca292baa89.htm" />
+        <HelpTOCNode Id="b4a8f2ac-4c34-4419-909d-1433ad1e396f" Title="InterCorrelation Method " Url="html/79c00839-c37e-04ce-debb-ba59c9201dde.htm">
+          <HelpTOCNode Title="InterCorrelation Method (Contour)" Url="html/777871a3-d26c-a85e-47f1-eca4eec84997.htm" />
+          <HelpTOCNode Title="InterCorrelation Method (Contour, Int32)" Url="html/831349eb-e76b-cf00-34e5-72852dd931f8.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="NormDot Method " Url="html/d9eb09cb-de01-f844-d40e-db923ed8a682.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="318a48c5-cb30-4235-bf05-d1dbc5a4e7d4" Title="Contour Properties" Url="html/ab373665-180c-c9cc-ee77-6b8feca9a299.htm">
+        <HelpTOCNode Title="Count Property " Url="html/f420ce1f-d027-d0ff-38de-bde209755c23.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/09ed5366-8771-5656-505a-46681c531a78.htm" />
+        <HelpTOCNode Title="norm Property " Url="html/de6a7d19-d78b-e526-8fde-0149b8c4cfeb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6ce9db1e-ce92-4863-b2ef-e4a5f2a55da6" Title="FoundTemplateDesc Class" Url="html/e0564c91-8fb6-6e7f-aec9-e6db63b7d078.htm">
+      <HelpTOCNode Title="FoundTemplateDesc Members" Url="html/d71b3451-555e-d782-2f6d-c5893b61215f.htm" />
+      <HelpTOCNode Title="FoundTemplateDesc Constructor " Url="html/195f11b4-b778-f0a4-58ed-32e9b5d6f583.htm" />
+      <HelpTOCNode Id="9a20af75-40c4-410e-ae6c-5ecac3936a83" Title="FoundTemplateDesc Fields" Url="html/dcd9d167-f689-450d-b47e-89604edbf4b2.htm">
+        <HelpTOCNode Title="angle Field" Url="html/3aefde12-b0d4-24f6-ea07-22862342f947.htm" />
+        <HelpTOCNode Title="name Field" Url="html/c8690ed2-2741-e68c-7efd-ca948e208704.htm" />
+        <HelpTOCNode Title="rate Field" Url="html/06a4469b-c985-b260-ebd2-bc2da7f15be0.htm" />
+        <HelpTOCNode Title="sample Field" Url="html/f4f31885-364b-0ed9-a4b3-7ea2bc642972.htm" />
+        <HelpTOCNode Title="template Field" Url="html/0a083e3a-f013-e7a7-1750-fb14179e0954.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d2f5a8d8-e405-43e2-9926-372bf710ed63" Title="FoundTemplateDesc Properties" Url="html/78dd2592-425c-303e-3eeb-b4aaadf7efe2.htm">
+        <HelpTOCNode Title="scale Property " Url="html/d47aa65d-e5b1-b362-678e-a9b9378c4ddf.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b910fdd3-107e-4c1c-80c9-103d5cc5fca9" Title="Template Class" Url="html/b7f306b2-6b31-82e3-1506-ba1521f12ac9.htm">
+      <HelpTOCNode Title="Template Members" Url="html/657808a8-cf81-b3d1-970f-f2f3ef6bb7d2.htm" />
+      <HelpTOCNode Id="1e67390d-667f-4c88-bc96-34f2c1abc074" Title="Template Constructor " Url="html/e907b93c-75ed-a56e-9fb7-eefdcfa24f5a.htm">
+        <HelpTOCNode Title="Template Constructor ((Point), Double)" Url="html/c34d7c66-8424-7529-1652-f62e9c9f5422.htm" />
+        <HelpTOCNode Title="Template Constructor (SerializationInfo, StreamingContext)" Url="html/ee3a49a3-3615-9e43-ef87-d3a8362d18d4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Template Constructor " Url="html/426f0991-1eab-a8c8-5350-138968dcb50d.htm" />
+      <HelpTOCNode Id="c0493748-7414-4e46-a620-f47f7c1a640c" Title="Template Fields" Url="html/86860b12-df98-e7e9-aebf-4ccdff8d245b.htm">
+        <HelpTOCNode Title="autoCorr Field" Url="html/e225ff3f-654b-7929-a673-394e77543bdb.htm" />
+        <HelpTOCNode Title="autoCorrDescriptor1 Field" Url="html/3cbde6e0-bd4d-0a8a-336f-0f0f9ff36460.htm" />
+        <HelpTOCNode Title="autoCorrDescriptor2 Field" Url="html/14bb2c02-47e8-68df-aca7-22b29420ba59.htm" />
+        <HelpTOCNode Title="autoCorrDescriptor3 Field" Url="html/e5360faf-05dc-3050-c6de-1165de89f183.htm" />
+        <HelpTOCNode Title="autoCorrDescriptor4 Field" Url="html/804e8622-584d-c5ab-5bf3-2efcdc3bbcf0.htm" />
+        <HelpTOCNode Title="contour Field" Url="html/6d1eeb3d-7756-0c58-e429-71560ea5bdce.htm" />
+        <HelpTOCNode Title="contourNorma Field" Url="html/30e4c3cd-3b57-9700-1f48-2b4467a24de6.htm" />
+        <HelpTOCNode Title="filter1 Field" Url="html/429361cd-3b00-e460-42bf-3559ee1d18f5.htm" />
+        <HelpTOCNode Title="filter2 Field" Url="html/29f09dcc-5c85-e2da-6bc6-9717438a24da.htm" />
+        <HelpTOCNode Title="filter3 Field" Url="html/ae3a57ae-d67d-5828-9605-959e88c5e3f0.htm" />
+        <HelpTOCNode Title="filter4 Field" Url="html/b798d9ec-8cbf-d628-edf3-6458d94da835.htm" />
+        <HelpTOCNode Title="name Field" Url="html/3651d4b7-a421-7b75-45f6-2d42659ab643.htm" />
+        <HelpTOCNode Title="preferredAngleNoMore90 Field" Url="html/84abe9f5-ee27-5bc9-2f36-4e85cb4dd444.htm" />
+        <HelpTOCNode Title="sourceArea Field" Url="html/d7d3dc91-269b-d1f5-dc00-83a0490ac65a.htm" />
+        <HelpTOCNode Title="startPoint Field" Url="html/ffa02110-f55c-0a09-60ce-f7c72d95bd9a.htm" />
+        <HelpTOCNode Title="templateSize Field" Url="html/b06de7b2-6014-5890-8882-404b273547c7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a9cac248-e54b-4320-b94a-f7ddf75d619e" Title="Template Methods" Url="html/5f7ca986-391d-9cad-d511-ebb6248bba18.htm">
+        <HelpTOCNode Title="CalcAutoCorrDescriptions Method " Url="html/9878b7ca-2e21-97b6-9b6c-5575f1c2780a.htm" />
+        <HelpTOCNode Title="GetObjectData Method " Url="html/b05a299f-3e33-7dfa-9880-3e92f508db31.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ae65bbee-2ec0-4733-bced-54c192f6dd97" Title="TemplateClass Class" Url="html/3b5022ca-e7d6-05e9-ec36-08c902426f6f.htm">
+      <HelpTOCNode Title="TemplateClass Members" Url="html/a6d78f3e-2172-2d5b-8f9e-8cf75651b5dd.htm" />
+      <HelpTOCNode Id="ea6b509f-4b14-4adf-bcc3-34411e3294a5" Title="TemplateClass Constructor " Url="html/7b090756-f4ed-b85a-02ed-f9723378fea0.htm">
+        <HelpTOCNode Title="TemplateClass Constructor " Url="html/84986d35-cfd5-9ad7-0318-8423b57400c8.htm" />
+        <HelpTOCNode Title="TemplateClass Constructor (SerializationInfo, StreamingContext)" Url="html/0226df83-5355-e3a5-9a97-c99090da3aaf.htm" />
+        <HelpTOCNode Title="TemplateClass Constructor (HandGestureName, HandType)" Url="html/fcc9e118-8fdc-fea4-9ebf-91a293b18530.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6a5ec01b-b63c-4e29-93b9-192ea6f831e9" Title="TemplateClass Fields" Url="html/adb15ea4-82aa-4b76-7022-368b73e12e87.htm">
+        <HelpTOCNode Title="htype Field" Url="html/d38ad6c4-fc9a-23da-4db8-ce88f04ff711.htm" />
+        <HelpTOCNode Title="name Field" Url="html/bfddc670-f0d3-5f17-3ccd-1dab44b0cd2e.htm" />
+        <HelpTOCNode Title="templates Field" Url="html/64f8a2b0-e09c-4336-f738-742ccac1d773.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="59f73182-98ec-4408-850a-e64df7906367" Title="TemplateClass Methods" Url="html/830bb479-1cb6-a470-48e7-f26eec36a07e.htm">
+        <HelpTOCNode Title="AddContour Method " Url="html/95740ba3-e2c8-ec15-f280-0006e1f4c515.htm" />
+        <HelpTOCNode Title="GetObjectData Method " Url="html/3445abe3-080c-9b35-2721-91a1aee3c876.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="ae5e9d57-115a-4162-818d-004314523ecb" Title="QlikMove.StandardHelper.Enums Namespace" Url="html/7104039a-459e-f230-d192-1e67dd291de7.htm">
+    <HelpTOCNode Title="ActionName Enumeration" Url="html/a304b390-69ba-ace7-6a19-4ba7419578e4.htm" />
+    <HelpTOCNode Title="ActionPartResult Enumeration" Url="html/87b27ca7-ae76-ca88-80fa-f05ff5b5f2e0.htm" />
+    <HelpTOCNode Title="ActionWord Enumeration" Url="html/a88bf550-f319-f00c-eee7-4f6699fb4700.htm" />
+    <HelpTOCNode Title="BodyGestureName Enumeration" Url="html/fec68da4-1ccc-92b0-03b5-8205c06d7821.htm" />
+    <HelpTOCNode Title="EventType Enumeration" Url="html/f0014237-b72c-a039-cb91-9b3f0107e60a.htm" />
+    <HelpTOCNode Title="GesturePartResult Enumeration" Url="html/5f318075-369f-7b33-2ef2-2d3e338ed77d.htm" />
+    <HelpTOCNode Title="HandGestureName Enumeration" Url="html/27dcb662-914c-ee84-a49b-149cfdd7c73d.htm" />
+    <HelpTOCNode Title="HandTrackingMode Enumeration" Url="html/d4cc0271-e96a-aa2b-59b1-ac77cd7588cd.htm" />
+    <HelpTOCNode Title="HandType Enumeration" Url="html/47b0bc46-a3dd-0a18-ee7d-0a8b566f3052.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="bee75a41-47a9-4d79-b6de-185183e4903d" Title="QlikMove.StandardHelper.EventArguments Namespace" Url="html/0d76d13e-26f0-f2be-60c3-8e5a6e145ecd.htm">
+    <HelpTOCNode Id="75e225b7-dd2c-4ac9-9018-a243672b9f2f" Title="ActionArgs Class" Url="html/cc519f5d-4558-2bdd-7c34-5de6a509dacb.htm">
+      <HelpTOCNode Title="ActionArgs Members" Url="html/cf5954da-49fa-f5b3-39de-052b37e73da0.htm" />
+      <HelpTOCNode Title="ActionArgs Constructor " Url="html/bc16ea5f-15ac-0b11-4dd3-6b887aa8fb74.htm" />
+      <HelpTOCNode Id="709a762f-9869-4a0c-a2be-f3d42fda59e7" Title="ActionArgs Fields" Url="html/94553b7d-12e0-a044-416f-8b0f71ba0f95.htm">
+        <HelpTOCNode Title="events Field" Url="html/186a42ef-2b09-0055-ccd7-db816f4c60cf.htm" />
+        <HelpTOCNode Title="name Field" Url="html/ff949ccd-588a-186b-7c54-0bc464cf4f83.htm" />
+        <HelpTOCNode Title="TimeStamp Field" Url="html/1d747a5d-fc97-d831-006d-ee293be2bf6a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e7d5c127-9d60-46e5-903c-0a51b39b2dbb" Title="ActionArgs Methods" Url="html/df046049-08f7-d429-0462-44511fa69373.htm">
+        <HelpTOCNode Title="ToJson Method " Url="html/eade4f6c-dae1-ed6c-8b70-304a2cf94611.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/aada8f9d-7f46-531b-9fcb-3688494fd897.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8739a1f4-7b08-4c52-a1ca-2f7e21565b1b" Title="BodyGestureEvent Class" Url="html/5f21f1bc-49a0-b9e7-5eec-1f03a738c0ab.htm">
+      <HelpTOCNode Title="BodyGestureEvent Members" Url="html/825c9b07-8a6e-5207-df96-4c8d9abf2e8d.htm" />
+      <HelpTOCNode Title="BodyGestureEvent Constructor " Url="html/a59c6517-b499-d28d-ad18-afd170a37af3.htm" />
+      <HelpTOCNode Id="d35c0326-26ec-4a71-896a-1608af781664" Title="BodyGestureEvent Fields" Url="html/ba431c96-4ad3-d7b7-cae4-c037797a3588.htm">
+        <HelpTOCNode Title="bodyGestureName Field" Url="html/06b95ad5-f037-03ce-7731-1a8ca681df0d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0aa3fb50-30d8-41f9-a959-ec60c01949fc" Title="BodyGestureEvent Methods" Url="html/3e1989a0-5ad5-88c2-6401-c2f44616ec7d.htm">
+        <HelpTOCNode Title="toJson Method " Url="html/c4178b44-29fb-7d94-36a5-1c6f3e82b59c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b33aa1ec-9cb3-4dc9-9fe7-9e0688f32a68" Title="Datas Class" Url="html/20f79ff7-4fa6-dedb-2e34-bc5fa064aefd.htm">
+      <HelpTOCNode Title="Datas Members" Url="html/03b309c6-b8e9-f8a1-2961-a2950dcde956.htm" />
+      <HelpTOCNode Id="5ba8044c-6e1b-40ee-be2a-d420bda3c69e" Title="Datas Constructor " Url="html/ff1a581d-a3cd-e74d-61e1-543d24c76be0.htm">
+        <HelpTOCNode Title="Datas Constructor (String)" Url="html/d06a72a7-5939-a69d-0daf-2e53d8348cc1.htm" />
+        <HelpTOCNode Title="Datas Constructor (ActionWord)" Url="html/91e58e9f-dd7e-caba-0a55-08eea15a113f.htm" />
+        <HelpTOCNode Title="Datas Constructor (BodyGestureName)" Url="html/6be16a88-9514-d571-8ee2-cb59f154bff6.htm" />
+        <HelpTOCNode Title="Datas Constructor (GestureEventArgs)" Url="html/8928630d-bd57-6106-2c6d-ab3c3a917ca4.htm" />
+        <HelpTOCNode Title="Datas Constructor (HandGestureName, HandType)" Url="html/5f226916-590a-d373-b76c-e34a56195a2e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ffc2ad23-1856-4c19-93b5-9298f42ff8f2" Title="Datas Fields" Url="html/440a9250-2bdc-30e8-d620-4b91cd9f0899.htm">
+        <HelpTOCNode Title="actionWord Field" Url="html/396ceb94-d76a-08bc-7c10-eb78e5c02e56.htm" />
+        <HelpTOCNode Title="GestureDatas Field" Url="html/30216474-2c17-4a22-a151-b5d2020b91af.htm" />
+        <HelpTOCNode Title="unknownWord Field" Url="html/5b2ce986-e359-d892-a6d6-cfe87451775a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5439429f-3bff-4d68-aa15-9fb0b0384df0" Title="Datas Methods" Url="html/bb6a724c-436b-9864-8310-435febd41148.htm">
+        <HelpTOCNode Title="toJson Method " Url="html/e949fd1d-54df-1d87-b553-b32aad18c3e0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9e9bf30a-7316-453f-86b5-6f1c62472a56" Title="DepthEventArgs Class" Url="html/8d2b1ddc-54c9-fcc0-649d-143ab45f0538.htm">
+      <HelpTOCNode Title="DepthEventArgs Members" Url="html/061fe7a6-ac2d-63ca-f0b5-cbed550147f7.htm" />
+      <HelpTOCNode Title="DepthEventArgs Constructor " Url="html/815a1396-6994-c2f1-1551-19d41e91cf25.htm" />
+      <HelpTOCNode Id="c744930e-a03f-431c-b85e-f323b75dc2e1" Title="DepthEventArgs Fields" Url="html/3a8a64c7-bead-ae81-79e4-43681230c35c.htm">
+        <HelpTOCNode Title="depthFrame Field" Url="html/56a124a6-b1fa-ef3e-e575-581253b3ae9a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2dd7ea00-e85c-4ee2-bfef-c8a165757e90" Title="GestureDatas Class" Url="html/78593bbc-4bb4-33e5-8594-77c0c84cf77d.htm">
+      <HelpTOCNode Title="GestureDatas Members" Url="html/5a3d5002-244f-a042-39bf-82cb581c9800.htm" />
+      <HelpTOCNode Title="GestureDatas Constructor " Url="html/f5557ea8-f894-0c90-a614-c8c11c9d92be.htm" />
+      <HelpTOCNode Id="45843510-6a24-4688-b189-5498c312a7b2" Title="GestureDatas Fields" Url="html/f10c140f-0aae-16cf-b9a7-dd5c042ab117.htm">
+        <HelpTOCNode Title="bodyGestureEventData Field" Url="html/84240ca8-44cb-743a-505c-d5a66bb9be49.htm" />
+        <HelpTOCNode Title="contextGestureDatas Field" Url="html/faf8e863-2737-6bb7-97a9-f9be919a6dc8.htm" />
+        <HelpTOCNode Title="handGestureEventData Field" Url="html/2a0a00ab-5512-3f5b-35c2-7c988b39d58c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f7ee3751-da68-4592-ad7f-e9b360d5b6b7" Title="GestureDatas Methods" Url="html/9d434b3f-5fea-7cbd-561f-aec8b9cf4a9e.htm">
+        <HelpTOCNode Title="toJson Method " Url="html/3fc1b6d2-ac2c-4e27-35c7-918f57f6a52a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b688eb99-ba73-47e4-ba39-1debe09c9735" Title="GestureEventArgs Class" Url="html/4385bdb8-7aae-75b7-7e09-dfa35117cbd7.htm">
+      <HelpTOCNode Title="GestureEventArgs Members" Url="html/984cde68-5259-3551-7001-8091be3aa09f.htm" />
+      <HelpTOCNode Title="GestureEventArgs Constructor " Url="html/a7fcb381-0f9d-7e48-d1ad-247b54fd61eb.htm" />
+      <HelpTOCNode Id="52919374-0e4a-497e-b8ba-94bb76b494b9" Title="GestureEventArgs Properties" Url="html/08fe92e8-23b5-de64-1260-969b0ee7b55e.htm">
+        <HelpTOCNode Title="eventData Property " Url="html/326ad4d0-f96a-7003-8c26-00640a9102c5.htm" />
+        <HelpTOCNode Title="eventType Property " Url="html/395c975c-4d1b-ceaf-6146-43b430e0c882.htm" />
+        <HelpTOCNode Title="timeStamp Property " Url="html/69f67ed0-0286-9804-fadd-1c09e3768f03.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e991f248-2ddb-40ab-807d-bb44ce4c1adb" Title="HandGestureDatas Class" Url="html/8587656e-13ab-92ce-ac9a-a2a5f73f1732.htm">
+      <HelpTOCNode Title="HandGestureDatas Members" Url="html/95e4d63c-5f4f-2af1-eaac-8ab082f368b7.htm" />
+      <HelpTOCNode Title="HandGestureDatas Constructor " Url="html/92fa180b-4886-7451-b2e4-0ab2914c9e8e.htm" />
+      <HelpTOCNode Id="1797db73-1772-41cf-b8ed-4625826d500b" Title="HandGestureDatas Fields" Url="html/122b47ad-4594-4296-e4e7-7c57fb1396e2.htm">
+        <HelpTOCNode Title="handGestureName Field" Url="html/07be327d-1524-827c-6742-b7b03bd3f30a.htm" />
+        <HelpTOCNode Title="handType Field" Url="html/10536938-960c-30f9-be26-e6e4a507aa68.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="53357499-768f-4e28-9899-6037c8e91bd9" Title="HandGestureDatas Methods" Url="html/39d19a17-c59c-1aa9-d441-830367eb17a3.htm">
+        <HelpTOCNode Title="toJson Method " Url="html/c87724e1-91bb-661d-a9e0-46edd1beb506.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d981c1d8-baae-4902-b783-51227856c1a5" Title="JSONActionArg Class" Url="html/15fea307-1849-2013-841b-2987c8ad9d75.htm">
+      <HelpTOCNode Title="JSONActionArg Members" Url="html/cbf56c2d-d950-fe9a-c116-f033729ca3db.htm" />
+      <HelpTOCNode Title="JSONActionArg Constructor " Url="html/9de5a89c-cfe9-943e-6458-be9d1cac7fd0.htm" />
+      <HelpTOCNode Id="38794431-5e33-44a0-8d28-0e2495a40637" Title="JSONActionArg Fields" Url="html/6d762128-2399-4114-cb85-92a93b442c59.htm">
+        <HelpTOCNode Title="events Field" Url="html/8ab60721-8640-6e80-e429-4d86a7eba1fb.htm" />
+        <HelpTOCNode Title="name Field" Url="html/a6d5ba67-6004-7c0b-81a1-6eef9f22bd4b.htm" />
+        <HelpTOCNode Title="TimeStamp Field" Url="html/09f0372e-6f4e-a285-6554-9a6bf37c6574.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d9b3608f-9e08-429b-b0c5-e57295aa7bb0" Title="JSONBodyGestureEvent Class" Url="html/894b0dbd-5e0e-5168-37a5-87c8d99236d9.htm">
+      <HelpTOCNode Title="JSONBodyGestureEvent Members" Url="html/3b626a8e-2804-c40b-2ab5-e43fb2d20317.htm" />
+      <HelpTOCNode Title="JSONBodyGestureEvent Constructor " Url="html/381c00d3-8e60-507f-b7a8-035a8ae6a5cf.htm" />
+      <HelpTOCNode Id="be973a13-60cf-4db4-b128-6e5b5dbedffb" Title="JSONBodyGestureEvent Fields" Url="html/7efff017-ae4c-81e8-d2de-d701ac958b7d.htm">
+        <HelpTOCNode Title="bodyGestureName Field" Url="html/e7b62e5d-1772-8121-e650-c890e1aaf15a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ac40d700-c1fa-46a6-a7a6-b393beebffeb" Title="JSONDatas Class" Url="html/5bcec00c-f286-71a5-0fe9-9136e2738d20.htm">
+      <HelpTOCNode Title="JSONDatas Members" Url="html/c89452ee-3898-f7cc-d5e2-5f965c98c3a7.htm" />
+      <HelpTOCNode Title="JSONDatas Constructor " Url="html/57ccaad9-eeb6-b213-b7ea-3bce5f07bc53.htm" />
+      <HelpTOCNode Id="9f20c25b-30cc-423d-9c56-e3886787b56a" Title="JSONDatas Fields" Url="html/d269abd7-eb3c-3dc7-2297-e106725e5e25.htm">
+        <HelpTOCNode Title="aw Field" Url="html/fccca570-2930-e6ca-f04c-52294efdf67e.htm" />
+        <HelpTOCNode Title="GestureDatas Field" Url="html/b9ead0ad-5fd6-c350-23fc-2936ae2885ff.htm" />
+        <HelpTOCNode Title="unknownWord Field" Url="html/f0e50d32-0836-5f36-4b97-4e1ad46056e6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="67b7da0e-2daa-486d-9f66-11423194f470" Title="JSONGestureDatas Class" Url="html/a0cad2f3-7f8d-7d03-71c6-f853bf2dbcef.htm">
+      <HelpTOCNode Title="JSONGestureDatas Members" Url="html/abb5ba76-3180-a35d-38b5-4f490de5bbcd.htm" />
+      <HelpTOCNode Title="JSONGestureDatas Constructor " Url="html/586c38a8-6e35-7974-6a36-5ccf5a12a165.htm" />
+      <HelpTOCNode Id="85a68be3-a776-42d5-a79b-334abfc4e09b" Title="JSONGestureDatas Fields" Url="html/fe85d344-62bf-cf4d-d27e-b2633f70ad5c.htm">
+        <HelpTOCNode Title="bodyGestureEventData Field" Url="html/3acc962c-3eeb-ff35-1bf7-4544d0feb34e.htm" />
+        <HelpTOCNode Title="contextGesture Field" Url="html/3baf6f9e-465c-8406-0012-05da44a57e1b.htm" />
+        <HelpTOCNode Title="handGestureEventData Field" Url="html/48db3a92-0803-ffc1-b997-bca251dba89b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7f789c8a-1d11-4a29-b20c-430abd9645d3" Title="JSONHandGestureDatas Class" Url="html/355ace58-e1ab-bb6e-5b05-ea907a88d5d8.htm">
+      <HelpTOCNode Title="JSONHandGestureDatas Members" Url="html/09063267-65d5-e00b-5705-e8e541648332.htm" />
+      <HelpTOCNode Title="JSONHandGestureDatas Constructor " Url="html/b4f2f300-1a74-98ce-de75-bbe0dcb8ad86.htm" />
+      <HelpTOCNode Id="19eec52e-ef0b-4af6-b33e-3a80c87335a3" Title="JSONHandGestureDatas Fields" Url="html/e6b75730-b01f-4f99-0b71-e0cc8ad46c29.htm">
+        <HelpTOCNode Title="handGestureName Field" Url="html/88c9da33-e69c-a880-9f8d-929c25428eb8.htm" />
+        <HelpTOCNode Title="handType Field" Url="html/c3c595a5-ff10-564c-4d25-c21790b67042.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0109cb98-ba8a-445d-abb0-6c616596cd8e" Title="JSONQlikMoveEventArgs Class" Url="html/19c3887f-6c45-d020-f611-1e70f390ffcf.htm">
+      <HelpTOCNode Title="JSONQlikMoveEventArgs Members" Url="html/791fbb67-4b89-afc4-32ab-33f6cf9d0444.htm" />
+      <HelpTOCNode Title="JSONQlikMoveEventArgs Constructor " Url="html/a0e32e5b-fe57-c6f9-5af0-16dcae921868.htm" />
+      <HelpTOCNode Id="24262554-53a5-4544-93e7-1db92ba637e5" Title="JSONQlikMoveEventArgs Fields" Url="html/6eba49ea-0613-fd33-ddf2-d73f36103436.htm">
+        <HelpTOCNode Title="datas Field" Url="html/2aa8195d-46f4-93d0-f3cb-442195057f74.htm" />
+        <HelpTOCNode Title="eventType Field" Url="html/f736313d-39b5-37a0-84bd-bdcb931aee62.htm" />
+        <HelpTOCNode Title="timeStamp Field" Url="html/9498e3cf-d272-4baa-aca3-422c499b1f8a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bccdbda9-d87c-495d-8ba5-1356ce4cac62" Title="LogMessageEvent Class" Url="html/f30d764f-e755-0f37-a6ff-9f19f382459d.htm">
+      <HelpTOCNode Title="LogMessageEvent Members" Url="html/14e8ac6d-f34d-62cc-3204-2114bd214c52.htm" />
+      <HelpTOCNode Title="LogMessageEvent Constructor " Url="html/f4b403c1-0d6a-9252-712d-e7bf85e46457.htm" />
+      <HelpTOCNode Id="12c3192f-b371-41c1-8bac-bd1c69daa3d5" Title="LogMessageEvent Fields" Url="html/c7c6286f-1976-dd6c-9031-f3a3f64a5910.htm">
+        <HelpTOCNode Title="message Field" Url="html/c9945576-dc2e-328f-ddb5-012305509077.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ea83fc43-33f4-481e-9b89-e023dc88506f" Title="QlikMoveEventArgs Class" Url="html/55135111-477a-3e84-8ee3-bf36a7d85141.htm">
+      <HelpTOCNode Title="QlikMoveEventArgs Members" Url="html/c00ada77-f130-beef-6321-c20c3ab74c63.htm" />
+      <HelpTOCNode Title="QlikMoveEventArgs Constructor " Url="html/3b35cf9f-1fc4-7531-5039-7b74c8498e51.htm" />
+      <HelpTOCNode Id="15cad066-e747-4791-81ca-1a1b3b15cc50" Title="QlikMoveEventArgs Fields" Url="html/26150204-bd3f-3510-f6e0-166d02139f60.htm">
+        <HelpTOCNode Title="datas Field" Url="html/9880ef7c-b857-8350-16b2-d3a4b321fb91.htm" />
+        <HelpTOCNode Title="eventType Field" Url="html/f69f2a16-3cc5-f8ff-cfd1-2241156aa88a.htm" />
+        <HelpTOCNode Title="timeStamp Field" Url="html/cc6c1fd4-88a5-1690-aab6-d6ff66198554.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2686b6bb-54e3-48d8-a034-10f61494ddb0" Title="QlikMoveEventArgs Methods" Url="html/07193038-39d4-3c7e-0327-879c92d57455.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/8810c14d-295a-d8eb-e58e-3b58758b223c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d418dbee-bda3-4404-99ab-73f72f4ca6af" Title="SkeletonEventArgs Class" Url="html/1bb70004-ce32-9ee9-0a8e-0c453297a6cb.htm">
+      <HelpTOCNode Title="SkeletonEventArgs Members" Url="html/64446e7b-2343-109f-f6a9-7d60686f67a3.htm" />
+      <HelpTOCNode Title="SkeletonEventArgs Constructor " Url="html/0852046f-558a-5f5b-b0f7-2f98d4383ac9.htm" />
+      <HelpTOCNode Id="aeb14c33-e3ea-46c2-adfc-1aad1163e2ad" Title="SkeletonEventArgs Properties" Url="html/746c62cf-cf8a-d304-0afc-01f6e300ad9f.htm">
+        <HelpTOCNode Title="activeSkeleton Property " Url="html/671b507c-b92a-a942-0518-b68797ebbc18.htm" />
+        <HelpTOCNode Title="skeletonFrame Property " Url="html/77a9cbee-c519-13a1-c8b8-8fd9bc925866.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="41480bad-97bb-43bc-a72b-6bfa6258cd19" Title="QlikMove.StandardHelper.Geomertry Namespace" Url="html/3671ffde-83f8-2f60-8408-19e282c86ef2.htm">
+    <HelpTOCNode Title="Axis Enumeration" Url="html/7fba5e87-74a4-420d-cda7-ec762c925fdd.htm" />
+    <HelpTOCNode Id="20656046-4fff-4b69-9832-8688d7a6a04a" Title="Point3D Class" Url="html/23e54bef-27b0-4493-6cbf-5684af04a27e.htm">
+      <HelpTOCNode Title="Point3D Members" Url="html/0b0b1f79-a0d6-7840-f9e9-0698c0fbc844.htm" />
+      <HelpTOCNode Id="35b37979-15a5-409d-a11d-899c7cfd7bcb" Title="Point3D Constructor " Url="html/a60ee5cd-78ca-a089-dae8-2118bf22de1f.htm">
+        <HelpTOCNode Title="Point3D Constructor " Url="html/6e35b4a2-1ff5-49ba-dc1d-b255f42daab9.htm" />
+        <HelpTOCNode Title="Point3D Constructor ()" Url="html/f58ce067-6434-f9ac-b1d4-c47a2852bd36.htm" />
+        <HelpTOCNode Title="Point3D Constructor (Double, Double, Double)" Url="html/1fcb6367-38a0-4226-7e98-2ab0554ffcb3.htm" />
+        <HelpTOCNode Title="Point3D Constructor (Single, Single, Single)" Url="html/1cd0ba9e-468e-2a86-f262-54b401faa8db.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2388c63b-ec11-4dab-9462-dc7b74c1459c" Title="Point3D Properties" Url="html/1bad4628-a74b-9937-4de7-5c7dd47fda7e.htm">
+        <HelpTOCNode Title="X Property " Url="html/d30c09ff-c74e-72ab-de53-0224f01007ff.htm" />
+        <HelpTOCNode Title="Y Property " Url="html/617632b6-04c1-ed66-99c6-f04c7a5c5f0f.htm" />
+        <HelpTOCNode Title="Z Property " Url="html/9ecfdae8-2eaf-e4d2-b413-6d45ae53f611.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="03fdbb9e-309d-4fe2-b325-91b63899f9ca" Title="Vector2 Class" Url="html/82ef5979-8514-71da-d59e-0b1b062bccd9.htm">
+      <HelpTOCNode Title="Vector2 Members" Url="html/5b1c96de-991e-b67e-7a10-8fe2800fe3a4.htm" />
+      <HelpTOCNode Id="ffabcaf3-5bcf-4b32-8a86-3be67b90bb43" Title="Vector2 Constructor " Url="html/70f09d10-a9a5-10d1-64a3-12c8be50f93d.htm">
+        <HelpTOCNode Title="Vector2 Constructor (Double, Double)" Url="html/aeb6f35a-3915-c710-89a0-7ee489c2f2e1.htm" />
+        <HelpTOCNode Title="Vector2 Constructor (Point, Point)" Url="html/33e638d2-c222-9393-ec72-ee9bf2dd602e.htm" />
+        <HelpTOCNode Title="Vector2 Constructor (PointF, PointF)" Url="html/3877ba3b-a156-2896-5eac-e0765b794e66.htm" />
+        <HelpTOCNode Title="Vector2 Constructor (, , Axis)" Url="html/bf368883-2469-9ad2-9e48-5af1319fedc9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d259ff8e-40a7-496c-8c4f-efa2e7a748bf" Title="Vector2 Methods" Url="html/e8e648ba-bef6-9e8b-3a6e-bbc5d8514a82.htm">
+        <HelpTOCNode Title="Angle Method " Url="html/c75db450-fb4f-7216-6fe6-91efb1b33b46.htm" />
+        <HelpTOCNode Id="f111b85b-ae9c-4cfe-8111-15844475efcc" Title="DotProduct Method " Url="html/17d0c271-fb0d-4009-d644-3c9b242bba70.htm">
+          <HelpTOCNode Title="DotProduct Method (Vector2)" Url="html/41157017-bb63-0738-e482-1a569115d162.htm" />
+          <HelpTOCNode Title="DotProduct Method (Vector2, Vector2)" Url="html/c555887d-b4bf-7625-dc8c-05cca2237a85.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Norm Method " Url="html/8abc2990-bc4f-8b41-0e73-ed6136acb8bd.htm" />
+        <HelpTOCNode Title="Normalize Method " Url="html/71965a24-8f45-655d-019c-e9b6e80da643.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="74f64850-0fb8-4b0e-81f7-c9c35c95e7f0" Title="Vector2 Operators" Url="html/9f3d8414-a977-c36f-c176-cf84c15f9bc7.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/fd9ef8cc-f7ed-f8b0-d420-5e0bd02e4826.htm" />
+        <HelpTOCNode Title="Division Operator " Url="html/18e4401c-f12d-6666-409d-1d80a35c41d3.htm" />
+        <HelpTOCNode Title="Multiply Operator " Url="html/f5bcd6da-7141-8a50-318b-f8ecf11bedea.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/328a0fa2-d3b2-df3c-daab-f3c594ffbe0d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2bf27922-bda6-4acd-9a71-14322e8cafac" Title="Vector2 Properties" Url="html/5cee80a0-5223-54e2-35b9-7480ee57e33d.htm">
+        <HelpTOCNode Title="end Property " Url="html/36ebb01a-5ca5-2e42-2a19-5dab26f4ee00.htm" />
+        <HelpTOCNode Title="magnitude Property " Url="html/0f26ffc9-0e07-aca3-0968-aced8e1d0dc8.htm" />
+        <HelpTOCNode Title="start Property " Url="html/30f04a56-fc6f-f441-145c-30b40d0f560c.htm" />
+        <HelpTOCNode Title="X Property " Url="html/c4ac03dc-3096-bde9-d17a-5ebc257c2c22.htm" />
+        <HelpTOCNode Title="Y Property " Url="html/c44399d2-2154-73a6-24f8-4eccae3164cd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c6ebb958-0e90-4c71-ae96-9b743c4e46c2" Title="Vector3 Class" Url="html/20585559-6117-c9d0-d46a-f3ea2eab1ecf.htm">
+      <HelpTOCNode Title="Vector3 Members" Url="html/87dd32de-6e0c-95ff-d0ed-7f82f67f0e9d.htm" />
+      <HelpTOCNode Id="f780f93e-c8ab-4a5e-ad77-d06c63dbf0d4" Title="Vector3 Constructor " Url="html/cef1bb2a-a311-5229-0478-c9184309b3d7.htm">
+        <HelpTOCNode Title="Vector3 Constructor (, )" Url="html/3d417c6e-d8fc-8128-e89e-394ad28702ea.htm" />
+        <HelpTOCNode Title="Vector3 Constructor (Point3D, Point3D)" Url="html/fe628c31-1e47-033f-1b5f-ade3e6195d5a.htm" />
+        <HelpTOCNode Title="Vector3 Constructor (Double, Double, Double)" Url="html/8b5c7777-8f43-e9ae-d06b-33ccb883e1b9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e61b940e-cad6-43e2-a109-2020f577b7af" Title="Vector3 Methods" Url="html/418b0e34-0768-e093-862b-b3528a10a938.htm">
+        <HelpTOCNode Title="Angle Method " Url="html/df21bc88-22ef-3584-b829-1fe880e847ae.htm" />
+        <HelpTOCNode Title="CrossProduct Method " Url="html/52584221-e14d-0331-4850-33c51225f35e.htm" />
+        <HelpTOCNode Id="aa2ca882-2ac8-47c0-a234-6aa3a3fe0cdb" Title="DotProduct Method " Url="html/d66e85ea-b219-fdfd-f186-4d466041745d.htm">
+          <HelpTOCNode Title="DotProduct Method (Vector3)" Url="html/c2a18956-9243-cb0a-d61f-8ab411ddc499.htm" />
+          <HelpTOCNode Title="DotProduct Method (Vector3, Vector3)" Url="html/a8feec60-2d58-3ac3-ad7c-2fcbdb13e796.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Norm Method " Url="html/77927ba3-b835-c582-80b2-e7635e72a950.htm" />
+        <HelpTOCNode Title="Normalize Method " Url="html/b468ef3d-43b6-b30e-b913-89318649766f.htm" />
+        <HelpTOCNode Title="setAngles Method " Url="html/220e64af-32cd-21bb-7949-8532cefe1166.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bd820c2f-0748-428a-9e24-c584a5abde4b" Title="Vector3 Operators" Url="html/9ada8567-adde-1222-c860-ebe83047cf3c.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/dacf2a5b-9463-fd21-b515-18575c7f5f1c.htm" />
+        <HelpTOCNode Title="Division Operator " Url="html/fd21b020-40c4-aa41-4cb9-9079b216f18c.htm" />
+        <HelpTOCNode Title="Multiply Operator " Url="html/5f53e9d7-4754-0d8c-5a8f-93184161a7a2.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/170e5e2a-e8ab-5e80-7dd5-597c125d3d66.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7cd97111-e539-47ab-95b8-b6bc3126d0ed" Title="Vector3 Properties" Url="html/c08355f0-15ee-fdf6-24a4-7ea802ee507e.htm">
+        <HelpTOCNode Title="adX Property " Url="html/f8ae391a-ec97-68cc-bde5-1bdb5c00d7c8.htm" />
+        <HelpTOCNode Title="adY Property " Url="html/43f7f679-bae6-8989-25ad-17df826d1626.htm" />
+        <HelpTOCNode Title="adZ Property " Url="html/036a7f6c-0637-667c-b3ef-cd05c16ffe7f.htm" />
+        <HelpTOCNode Title="end Property " Url="html/f3d9df41-65ab-819c-18c1-40717f353bf2.htm" />
+        <HelpTOCNode Title="norm Property " Url="html/e6db6282-576b-81f7-866b-8f9b49470a21.htm" />
+        <HelpTOCNode Title="start Property " Url="html/a2acab31-367a-d962-f5e7-54dcad9a706a.htm" />
+        <HelpTOCNode Title="X Property " Url="html/9ac759f4-0d6a-9c30-7583-d568425dbdc6.htm" />
+        <HelpTOCNode Title="Y Property " Url="html/c3172c8d-d4c3-37cd-5760-4c1d4058ea58.htm" />
+        <HelpTOCNode Title="Z Property " Url="html/60a13868-49cf-e5f9-7605-447f51f9db81.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="1daa35d4-d7d8-4942-90dc-92240d506d24" Title="QlikMove.StandardHelper.Geometry Namespace" Url="html/833fec00-78a8-fbf4-d549-eedf46c4e2ba.htm">
+    <HelpTOCNode Id="490a3c80-df2b-4c3c-90e8-61795c3a3ca4" Title="Complex Structure" Url="html/6e3c0c00-a2f2-77b8-acd5-067063f662b6.htm">
+      <HelpTOCNode Title="Complex Members" Url="html/29cca84b-9692-e2e2-c486-99b6c3294ed7.htm" />
+      <HelpTOCNode Title="Complex Constructor " Url="html/c80a0ada-0280-6fa4-064f-0c180edb8384.htm" />
+      <HelpTOCNode Id="b92bd654-624a-4362-b224-ccffec049c4e" Title="Complex Fields" Url="html/826c9f03-aca1-9a0e-c397-3f3355297439.htm">
+        <HelpTOCNode Title="a Field" Url="html/54b29e8e-3f57-8d69-a946-6c3097ec9be3.htm" />
+        <HelpTOCNode Title="b Field" Url="html/2883c8dc-3e99-a982-79fb-2500f5b19617.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6385583f-7a46-4e54-955f-6d11f6397ba8" Title="Complex Methods" Url="html/1074ce2b-1a44-3958-6cd9-a73224c84b1d.htm">
+        <HelpTOCNode Title="CosAngle Method " Url="html/07379797-d0c2-c704-ae56-e52cce9fe69a.htm" />
+        <HelpTOCNode Id="1873fa83-8ae7-4658-ae39-9ecee9aa6368" Title="DotProduct Method " Url="html/4d2e9e00-0a51-6e02-92ea-4514b2b814cf.htm">
+          <HelpTOCNode Title="DotProduct Method (Complex)" Url="html/fa7e4a66-022f-256d-a8d1-b1885fb7177f.htm" />
+          <HelpTOCNode Title="DotProduct Method (Complex, Complex)" Url="html/25a7962a-9df2-b4c8-b9c4-461a01970814.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromExp Method " Url="html/42403537-42a5-149e-279c-93c7a4ad15eb.htm" />
+        <HelpTOCNode Id="cd7a253e-bac1-4813-acc6-02ea739ff0db" Title="Rotate Method " Url="html/089aa68f-047b-e449-0baf-9be0821caa03.htm">
+          <HelpTOCNode Title="Rotate Method (Double)" Url="html/04d01200-2f5e-74cf-5c5d-b74e33c7d89a.htm" />
+          <HelpTOCNode Title="Rotate Method (Double, Double)" Url="html/c90e7386-c0ba-8ca5-0ee3-2d07e9fb351b.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ToString Method " Url="html/b2b96bdc-4044-a1fa-495b-4887e9c195ac.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="af46bb4e-95be-46f6-ba20-b66b930b20d9" Title="Complex Operators" Url="html/bc880782-24a3-ff4b-34c5-65a02d450806.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/36278b44-d3ed-0111-7f8b-1e662e85e6d0.htm" />
+        <HelpTOCNode Id="9d0e18f5-f5ef-40dc-b259-2357849be0af" Title="Multiply Operator " Url="html/483377d1-ce30-5ea5-a9f1-f650ef788c59.htm">
+          <HelpTOCNode Title="Multiply Operator (Double, Complex)" Url="html/4a65a41e-0a86-d9d7-60af-adbb14993e6a.htm" />
+          <HelpTOCNode Title="Multiply Operator (Complex, Complex)" Url="html/1ab7e8c5-3a96-4c19-ba7b-592ab54c1bd3.htm" />
+          <HelpTOCNode Title="Multiply Operator (Complex, Double)" Url="html/c5663716-c2b7-971b-87a2-d5fa059d0d1d.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a968bbfe-fd39-42df-9e67-de44d607f350" Title="Complex Properties" Url="html/af749b07-c5f3-d08a-b6fb-4ec272bb8929.htm">
+        <HelpTOCNode Title="Angle Property " Url="html/1d81c383-98e4-34ad-88f2-49ed5809b238.htm" />
+        <HelpTOCNode Title="Norm Property " Url="html/b362b933-961f-4dcb-335a-bc2f5bf351c1.htm" />
+        <HelpTOCNode Title="NormSquare Property " Url="html/bb3d302b-48e1-c985-fc09-c23d67b631b4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5012c3d3-fd5a-4060-b5e9-e6272973a1e1" Title="Point2D Class" Url="html/d17721d8-ba66-c983-01d4-9c7b23af4123.htm">
+      <HelpTOCNode Title="Point2D Members" Url="html/132a2335-e89f-da31-f617-1f0e654861b2.htm" />
+      <HelpTOCNode Id="7451cfae-35f9-41f0-b978-0cb0f80af98b" Title="Point2D Constructor " Url="html/a503889f-3d3d-00f0-b225-226f6448e1c4.htm">
+        <HelpTOCNode Title="Point2D Constructor " Url="html/be679880-ff84-f92b-7126-e6a4a940efb3.htm" />
+        <HelpTOCNode Title="Point2D Constructor (Double, Double)" Url="html/87379b04-8b67-68c0-9ffc-5a1cd3613ecf.htm" />
+        <HelpTOCNode Title="Point2D Constructor (Single, Single)" Url="html/770d4307-b583-c5f9-cb9c-6393591a2587.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a91b6e35-2832-41fe-9d51-e525f5ed1218" Title="Point2D Properties" Url="html/68608a86-32e4-a8ed-29b8-bc08ad2cc5db.htm">
+        <HelpTOCNode Title="X Property " Url="html/19bbb563-f3b3-ebbc-8df0-c78cdcb45c94.htm" />
+        <HelpTOCNode Title="Y Property " Url="html/d49e5edc-bd9b-cd2b-a909-92d884f8515f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="d3de53d7-2659-4fbd-958c-4a08635611c9" Title="QlikMove.StandardHelper.GestureCore Namespace" Url="html/fd1f3e87-d8f3-19b6-e685-d65c50fd28ed.htm">
+    <HelpTOCNode Id="fe9a9dea-53f9-449e-b954-f6a7a40e5bf8" Title="BodyGesture Class" Url="html/9e776d49-9da1-842d-08d8-4b694c681ef8.htm">
+      <HelpTOCNode Title="BodyGesture Members" Url="html/81126328-1317-3631-bd3f-8c4c4223d1bb.htm" />
+      <HelpTOCNode Title="BodyGesture Constructor " Url="html/393d4d20-ce58-b98b-64b6-9cc37ca4cc41.htm" />
+      <HelpTOCNode Id="892ec64a-14cb-4f48-a52c-c9d09a780be3" Title="BodyGesture Fields" Url="html/dc96f874-b9fa-cf7e-f6d5-4b3dd2f6528f.htm">
+        <HelpTOCNode Title="currentGesturePart Field" Url="html/4c1476ee-aa63-ffd1-1cc7-cd3938a646e2.htm" />
+        <HelpTOCNode Title="frameCount Field" Url="html/a5c0088b-e091-af1b-96fa-58b1ce3fb587.htm" />
+        <HelpTOCNode Title="name Field" Url="html/bf42f8f9-ea2d-f89b-0d07-c4d4396e0135.htm" />
+        <HelpTOCNode Title="paused Field" Url="html/f8d3d021-e65a-9150-5374-390c2b3c1a4e.htm" />
+        <HelpTOCNode Title="pausedFrameCount Field" Url="html/31d6c077-0c4e-0dc5-4b69-a9f6e0b61530.htm" />
+        <HelpTOCNode Title="segments Field" Url="html/863899bf-65f5-c7f9-1761-e0eaacf8c50a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e2b90f56-f1f0-4cac-b800-a5f0f7d8a2b8" Title="BodyGesture Methods" Url="html/242fe77c-a381-b1c2-739f-e4d1c226a7ee.htm">
+        <HelpTOCNode Title="reset Method " Url="html/b268861f-977b-e9c4-6e43-5591d1c6f404.htm" />
+        <HelpTOCNode Title="updateGesture Method " Url="html/7fe9dc3d-e3e4-5ac7-60ae-a35474d7f709.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="92cc5092-15e2-4521-8196-8df894761860" Title="BodyGesture Events" Url="html/7678a55c-0f07-fb10-9042-8eee294467b9.htm">
+        <HelpTOCNode Title="GestureRecognised Event" Url="html/8e17c8af-6e39-a219-c47e-25510ba6532c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a5a62983-3dff-4227-bf59-0674c75255a4" Title="BodyGestureSegment Class" Url="html/3d25d5a6-bc7b-cdd4-7566-2a91d2182bc3.htm">
+      <HelpTOCNode Title="BodyGestureSegment Members" Url="html/e0f215d4-97ec-1314-371f-695840322065.htm" />
+      <HelpTOCNode Title="BodyGestureSegment Constructor " Url="html/5952632c-7847-26e2-b07e-3b37453b66ca.htm" />
+      <HelpTOCNode Id="47f4a514-2820-4ee7-81e5-d1b9b27cdc3c" Title="BodyGestureSegment Fields" Url="html/3ae8694f-0d4a-4023-28c9-bd2540a923c0.htm">
+        <HelpTOCNode Title="myhandType Field" Url="html/06fdf147-565f-c0b0-1707-0da4f003a73a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f7ceb729-fa3c-4ae5-87f1-9220253a08fa" Title="BodyGestureSegment Methods" Url="html/2fcf03aa-0359-55bf-44a2-7bf29bbe70d0.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/9655502d-3585-cc7e-461a-f782bbe4895d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f52b039a-8c99-4bf8-af97-9e317cb5b889" Title="BodyGestureSegment Properties" Url="html/f31faf1f-b11d-ec14-209a-8e1d5236389d.htm">
+        <HelpTOCNode Title="handType Property " Url="html/2ee48e39-8d08-1274-0213-13a1b685a67a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dd9dd66e-2051-41d7-8163-8cf59aa8080c" Title="ContextGesture Class" Url="html/1f22ef53-2f42-d4d8-caf6-a270095e629c.htm">
+      <HelpTOCNode Title="ContextGesture Members" Url="html/d0669575-effa-5d88-27cb-f0a312451f58.htm" />
+      <HelpTOCNode Title="ContextGesture Constructor " Url="html/1df0fc28-9e2a-a860-369d-200158701d2c.htm" />
+      <HelpTOCNode Id="7ce3043e-75a9-4e79-92c4-03c753a645fe" Title="ContextGesture Fields" Url="html/abe5a8c2-74ed-ee0c-f9fa-1561029e3dc3.htm">
+        <HelpTOCNode Title="gesture_hand Field" Url="html/0e92c698-a2ca-de35-4604-4c115634be59.htm" />
+        <HelpTOCNode Title="hand_tracking_mode Field" Url="html/4d243200-b6b6-8d25-a9e3-629fb9f091e3.htm" />
+        <HelpTOCNode Title="isMouseLocked Field" Url="html/f486f73d-20cb-24fe-0e7e-2dc7ba99d351.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1cf204c2-e3bc-419c-8a80-19f129ff8a8b" Title="ContextGesture Methods" Url="html/d7bf1e43-a155-0eda-11fd-66d97b9a2f72.htm">
+        <HelpTOCNode Title="toJson Method " Url="html/6f2f70dc-4227-8262-39cf-f23e797836de.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1072184e-9aa5-48a0-814e-dd668f7520d2" Title="JSONContextGesture Class" Url="html/e2e424e6-ea4f-0614-821d-578c3d079e5b.htm">
+      <HelpTOCNode Title="JSONContextGesture Members" Url="html/475fd3ff-3014-7ad8-34aa-4abf2d7a64b6.htm" />
+      <HelpTOCNode Title="JSONContextGesture Constructor " Url="html/1d64e452-b7a8-8947-a300-ff2b34bd0540.htm" />
+      <HelpTOCNode Id="0a578865-9ef2-42ec-a111-92b422e1c638" Title="JSONContextGesture Fields" Url="html/a3d29f22-97e0-5518-8974-2d069efd4cdd.htm">
+        <HelpTOCNode Title="gesture_hand Field" Url="html/9e04afd5-59eb-4c52-d311-50003be50f85.htm" />
+        <HelpTOCNode Title="hand_tracking_mode Field" Url="html/b2f6a910-9e22-c72d-0531-911b406db6e7.htm" />
+        <HelpTOCNode Title="isMouseLocked Field" Url="html/b00827fa-f4a5-630d-bf9f-e7f990417247.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="50593976-253a-49fa-aa21-233b05d17e78" Title="QlikMove.StandardHelper.Gestures Namespace" Url="html/8f8b00ad-0484-ba80-01a3-7e094c7f8f1a.htm">
+    <HelpTOCNode Id="bfac5e55-1d21-4a04-bdc6-b2bf78697314" Title="ArmsCrossed Class" Url="html/b686bbc7-6776-4143-39de-a3d79cf39447.htm">
+      <HelpTOCNode Title="ArmsCrossed Members" Url="html/decf543c-cbfb-7413-2906-0b78003f02a7.htm" />
+      <HelpTOCNode Title="ArmsCrossed Constructor " Url="html/ffdd7eff-f566-6ef7-198b-86e387614cf1.htm" />
+      <HelpTOCNode Title="ArmsCrossed Fields" Url="html/f858179f-ffbf-8d79-90dc-8292f42c57af.htm" />
+      <HelpTOCNode Id="e41f882b-ac26-4fe1-a290-f2fd32f06722" Title="ArmsCrossed Methods" Url="html/9237e7d1-419a-1782-5a4f-9c516fa8273b.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/b1611a2c-2ac5-b84c-badd-ba55b7e32ddf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="014d04b6-afe0-4ddd-a40a-6270475698cc" Title="ArmsCrossed Properties" Url="html/8f536c60-c72f-4feb-f887-2c4dd82d5221.htm">
+        <HelpTOCNode Title="handType Property " Url="html/77eb66ba-e7b6-c0c5-c505-559d7e48ff2f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7b0c1d4a-227b-480f-925b-9f380236b98d" Title="HandAboveTheOther Class" Url="html/477c8517-fe71-c1d6-79b8-3ae2362efc8f.htm">
+      <HelpTOCNode Title="HandAboveTheOther Members" Url="html/a8364039-1196-5a9c-63f9-62f2a0798a3d.htm" />
+      <HelpTOCNode Title="HandAboveTheOther Constructor " Url="html/1a8af8f1-1f3c-f448-f1bf-f34e155f74ff.htm" />
+      <HelpTOCNode Title="HandAboveTheOther Fields" Url="html/63a1184f-bd0a-3546-1c11-8c80eec73da7.htm" />
+      <HelpTOCNode Id="53247e90-0301-4fb9-8696-ec18d0ef60cd" Title="HandAboveTheOther Methods" Url="html/75bc24e7-ab46-2a69-e138-553aeb6ddcb5.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/c03559e0-bdbd-aafa-3587-55fd468de116.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6213646e-6920-4e48-ac49-97c430a5c9f3" Title="HandAboveTheOther Properties" Url="html/b1a1f5ec-c15e-71f1-da5c-b8cb56394469.htm">
+        <HelpTOCNode Title="handType Property " Url="html/ebae8b6a-e46e-e467-6ee8-48aa6d5c70a6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3e2bd80b-78a1-4900-9b20-f2c5e1ed38a6" Title="HandBackward Class" Url="html/393a701c-0451-25e3-af53-71758874e4cf.htm">
+      <HelpTOCNode Title="HandBackward Members" Url="html/c7e81140-4190-386a-b437-1caaabf22ef5.htm" />
+      <HelpTOCNode Title="HandBackward Constructor " Url="html/556d74e0-5e66-a13e-5392-7bf4b11b74a9.htm" />
+      <HelpTOCNode Title="HandBackward Fields" Url="html/297e702d-a7ab-b80a-6489-4109da1c52ff.htm" />
+      <HelpTOCNode Id="005eeae4-7927-4786-8b74-ce6ddae11a22" Title="HandBackward Methods" Url="html/f84e8cb0-9ff3-4c3a-9636-c944a31b07a6.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/febcb054-cf9f-f478-08f5-a9bb75385e90.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="69015526-5fd7-4203-a53d-ecce174d8fbf" Title="HandBackward Properties" Url="html/b356c7a2-cebd-0497-d2f3-0ad3cb5ed4ff.htm">
+        <HelpTOCNode Title="handType Property " Url="html/a7386206-f0c2-3b85-e861-f61222cdc9ac.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="204b1726-ee4c-4347-bee9-7ca310f2207f" Title="HandBehindTheOther Class" Url="html/514d0a7d-6c70-a79b-6544-3fe367a50502.htm">
+      <HelpTOCNode Title="HandBehindTheOther Members" Url="html/8e173f3b-5856-5960-4e0d-37231ea830c7.htm" />
+      <HelpTOCNode Title="HandBehindTheOther Constructor " Url="html/65153e17-1436-d4ed-293a-5c9a1a30b819.htm" />
+      <HelpTOCNode Title="HandBehindTheOther Fields" Url="html/dcf49791-883a-1ed3-6d5b-4a52960b4deb.htm" />
+      <HelpTOCNode Id="5887781f-7a76-4526-9ce7-4a1c2597c624" Title="HandBehindTheOther Methods" Url="html/87d6a96f-5f47-ae0c-e89a-a8f54db5a440.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/f76a7cf9-94ef-a54c-ba32-04cd01986ffb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="caa6b5f9-67a3-403e-8ba0-1e6f9949e4bd" Title="HandBehindTheOther Properties" Url="html/73af58d0-e49e-c15f-feba-5506931546c8.htm">
+        <HelpTOCNode Title="handType Property " Url="html/c2950285-091c-9e3f-8f9d-e774672bcdb4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d87a7171-4b27-4a6a-ab85-af89c4af8ac9" Title="HandDown Class" Url="html/65acb2c9-d259-ca33-187c-a9e63007014a.htm">
+      <HelpTOCNode Title="HandDown Members" Url="html/eb15c347-f16d-555b-a610-7e18e43b1f23.htm" />
+      <HelpTOCNode Title="HandDown Constructor " Url="html/dca4ab51-6566-fca1-de94-456aa25cda8e.htm" />
+      <HelpTOCNode Title="HandDown Fields" Url="html/8a870c4b-07ea-842a-bf7e-1578ce6f1109.htm" />
+      <HelpTOCNode Id="215eb024-e20e-4a0a-ab8b-672d22de8b4e" Title="HandDown Methods" Url="html/bf873053-67af-1fa0-adc1-90670fd081d9.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/3299711a-7a3a-2a36-7b22-5ac359a7f6cd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="86e32702-3632-4302-af50-409299b5be17" Title="HandDown Properties" Url="html/eed9d1d5-0f2e-d8f7-22fe-5c18823e297c.htm">
+        <HelpTOCNode Title="handType Property " Url="html/e98b6dfd-fca0-f5c8-80bb-363617e4b340.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1ca187f3-37c1-4a78-b202-255e4ae13071" Title="HandExtToBody Class" Url="html/f4a93981-28c1-8480-b9a7-349ed83b0e10.htm">
+      <HelpTOCNode Title="HandExtToBody Members" Url="html/191c37c6-cd1f-d65e-179e-5a5d1ff1cf2f.htm" />
+      <HelpTOCNode Title="HandExtToBody Constructor " Url="html/7331fc41-2b04-0a3f-8c61-f0b18ec02232.htm" />
+      <HelpTOCNode Title="HandExtToBody Fields" Url="html/561eff3a-d029-52e7-db35-4eefc558a76e.htm" />
+      <HelpTOCNode Id="f6e30196-f238-4cfd-80bb-66e6f149ea15" Title="HandExtToBody Methods" Url="html/c8d6d5af-b7bd-dd45-6a16-c751786600c8.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/5111647d-41c6-9fae-8769-f518f52be328.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f20552c5-2ca8-4f0e-ab85-0611ede79e25" Title="HandExtToBody Properties" Url="html/43965a34-9a40-627b-e2d6-0e509cf936e1.htm">
+        <HelpTOCNode Title="handType Property " Url="html/4c085121-b3c5-7d78-8107-049e8e63b5df.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d06930a4-37ff-45a0-bced-951b1f948b14" Title="HandForward Class" Url="html/0f8b8a72-67df-014f-0298-2aaedbb8337e.htm">
+      <HelpTOCNode Title="HandForward Members" Url="html/90827aa3-1f5f-1184-de04-ac6c7f3b376b.htm" />
+      <HelpTOCNode Title="HandForward Constructor " Url="html/4c361855-1297-07a7-e35e-6a6b55ca6403.htm" />
+      <HelpTOCNode Title="HandForward Fields" Url="html/22ec4f3d-dc51-8819-f817-1dac67b12079.htm" />
+      <HelpTOCNode Id="e774083d-0208-4329-9553-69bfa3d6cb85" Title="HandForward Methods" Url="html/aae6a8c7-e233-7949-db33-e8a92622e884.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/ca6959d0-c9c5-6694-33a8-baf738ca430f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0f046847-3a66-4aab-8abd-9d753b812686" Title="HandForward Properties" Url="html/8e2252dd-6523-554a-0534-2d78fb1ebdae.htm">
+        <HelpTOCNode Title="handType Property " Url="html/b20f8399-5780-b59f-247c-410d075d3b01.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="69b729e5-1ff9-4cb3-beac-8c3ea87afa6b" Title="HandMid Class" Url="html/cde72f80-0458-69b2-1d4d-2534631cbf92.htm">
+      <HelpTOCNode Title="HandMid Members" Url="html/f1aef319-c66d-a45d-e771-1d21624334f4.htm" />
+      <HelpTOCNode Title="HandMid Constructor " Url="html/ccfa45ed-99aa-60ad-25f2-3881aa2f23be.htm" />
+      <HelpTOCNode Title="HandMid Fields" Url="html/5dd78d7c-246f-d996-72a9-2d28dee14f06.htm" />
+      <HelpTOCNode Id="71dbaf25-52d1-4b31-82b0-1cf96f72bd50" Title="HandMid Methods" Url="html/ded5819b-2308-3cd3-5651-e4ac035e24cd.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/bcb3c442-f304-cb16-1ee4-79b47a42b661.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7d40c7d0-809b-482e-9d3c-63d14e98846a" Title="HandMid Properties" Url="html/78328049-46f4-c59a-9893-bd6782e382fd.htm">
+        <HelpTOCNode Title="handType Property " Url="html/d2217fd4-2526-298c-4358-18749cf31a51.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0c60f170-1972-44af-a63e-5f317d5d2879" Title="HandOnTheLeft Class" Url="html/d2009d34-807d-98ae-1e6f-1ce017317f08.htm">
+      <HelpTOCNode Title="HandOnTheLeft Members" Url="html/7e229a97-e9c1-2968-3bdb-1719c378a868.htm" />
+      <HelpTOCNode Title="HandOnTheLeft Constructor " Url="html/f9b2c17c-7e84-1ee7-3bf3-a4031e7f8715.htm" />
+      <HelpTOCNode Title="HandOnTheLeft Fields" Url="html/24dfbe1f-4ee5-b399-a778-fdd975102b37.htm" />
+      <HelpTOCNode Id="dbc8863a-bbfa-466d-a45a-2e9c35288eaf" Title="HandOnTheLeft Methods" Url="html/cf962fa0-eb75-e39b-68c5-f33340147fea.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/590c170e-2b11-1e5f-bbca-33f5db55f0d0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8708d27a-1766-48bd-a332-0945691554ad" Title="HandOnTheLeft Properties" Url="html/5f758e87-2e06-46d6-f070-96aef1a34cfd.htm">
+        <HelpTOCNode Title="handType Property " Url="html/605d98f5-79d7-330d-cb38-55cdbc983691.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="aef7a477-d830-4f60-afbf-0f15e1249943" Title="HandOnTheRight Class" Url="html/eda12ad4-4976-d14c-6e63-807e9709f5f9.htm">
+      <HelpTOCNode Title="HandOnTheRight Members" Url="html/f6f2a763-02bd-2ccb-8669-fad9eb48eb76.htm" />
+      <HelpTOCNode Title="HandOnTheRight Constructor " Url="html/758eb327-a6e0-e290-bed7-b3c9a6415d86.htm" />
+      <HelpTOCNode Title="HandOnTheRight Fields" Url="html/ad67191a-d43d-dac7-cc52-1652263762fe.htm" />
+      <HelpTOCNode Id="72d4613d-9d4d-4ebe-809d-1a9a2e43308f" Title="HandOnTheRight Methods" Url="html/504f7e27-6920-3b4f-fec7-a4b8d042b3c8.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/bdeca807-02e6-79e1-a7bf-7664dc7e71b0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f71b181a-4d95-4d0d-8fb0-55c2cbf0c366" Title="HandOnTheRight Properties" Url="html/7bea4c7a-34ef-4a0f-dda0-c383f9b104f0.htm">
+        <HelpTOCNode Title="handType Property " Url="html/4b40c594-c68a-cd7a-24f4-6d147da1207b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3936ba68-e4da-49d8-8592-74a27b77f318" Title="HandsDown Class" Url="html/fdfcd683-5ff5-6bb7-36b4-47d413213929.htm">
+      <HelpTOCNode Title="HandsDown Members" Url="html/2a9a6815-2895-4b97-ff6c-be315947f49a.htm" />
+      <HelpTOCNode Title="HandsDown Constructor " Url="html/7b329f95-1969-5fba-9051-8bcb2232b92f.htm" />
+      <HelpTOCNode Title="HandsDown Fields" Url="html/68ac2a6d-30b4-240a-e242-ce9b574f5550.htm" />
+      <HelpTOCNode Id="b6a1ff8a-47f8-45ca-9cf4-3f99be195bcc" Title="HandsDown Methods" Url="html/25b2313f-07fc-4f59-c57e-5b51d4109752.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/66d67c8e-8cf8-1376-ba0e-f9a0bdbc7a34.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4c633ec8-56a1-4fd4-8bd1-906a754a1095" Title="HandsDown Properties" Url="html/e0464d84-02e4-5967-c4c3-eb6018eaa0c7.htm">
+        <HelpTOCNode Title="handType Property " Url="html/6fc31280-7b80-7a1f-6441-10d4e50f3158.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="119772df-b7f9-43c0-a75a-368d5d266b0a" Title="HandsInDiagonalLeftUp Class" Url="html/5395983e-c012-267b-949f-5b120b917c86.htm">
+      <HelpTOCNode Title="HandsInDiagonalLeftUp Members" Url="html/6dc8038b-16cf-744c-60c9-ecd49d43a329.htm" />
+      <HelpTOCNode Title="HandsInDiagonalLeftUp Constructor " Url="html/5743a5d0-434d-2433-374e-e04848b4e115.htm" />
+      <HelpTOCNode Title="HandsInDiagonalLeftUp Fields" Url="html/116cece2-f11c-3e07-cfb0-b828dfc72ab6.htm" />
+      <HelpTOCNode Id="f29bf988-8792-4805-9ce5-bff118f71659" Title="HandsInDiagonalLeftUp Methods" Url="html/3b97d89e-ba7d-23a1-553b-e807595efc8b.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/982aeeac-fa26-3c43-7065-9606df428d05.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1e6b089f-7c07-42c1-9b7f-2b73d85212f8" Title="HandsInDiagonalLeftUp Properties" Url="html/61449ba2-a8de-7897-acd6-daf00c162660.htm">
+        <HelpTOCNode Title="handType Property " Url="html/8a67fb67-4450-3925-1cc4-e4e7c5ea6757.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cc53be58-27b3-4f4a-b91a-91eb56556b26" Title="HandsInDiagonalRightUp Class" Url="html/394b14c2-605e-4b13-0a9b-0dd37520afe9.htm">
+      <HelpTOCNode Title="HandsInDiagonalRightUp Members" Url="html/20cf19d2-665f-16d4-67ed-86ea2fa80f6b.htm" />
+      <HelpTOCNode Title="HandsInDiagonalRightUp Constructor " Url="html/1831349b-561b-e544-cc29-7579af8400a7.htm" />
+      <HelpTOCNode Title="HandsInDiagonalRightUp Fields" Url="html/a8d3c21e-f120-cc59-7aa3-1191c373099e.htm" />
+      <HelpTOCNode Id="d8799174-76a9-464e-8122-4789fbfda682" Title="HandsInDiagonalRightUp Methods" Url="html/a5d20e83-d62c-ebcc-54dc-134a1502228b.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/ad48f27d-20bf-b536-5c4b-7e7ce608f0dd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f7098d3c-b44a-4427-b827-9bb3b71ba6c9" Title="HandsInDiagonalRightUp Properties" Url="html/6890d453-f2b0-4b0e-96fc-0b27282c5201.htm">
+        <HelpTOCNode Title="handType Property " Url="html/f425ebdf-1f79-ce20-6786-1904451bd76b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c61ea71d-bea0-45e7-8c8c-ac72e173c4ad" Title="HandsJoinedMid Class" Url="html/49c9c659-0624-4cd8-dba0-bdb7564cefd9.htm">
+      <HelpTOCNode Title="HandsJoinedMid Members" Url="html/00b95aea-0e42-3d8c-7e6a-eba6c5ba319b.htm" />
+      <HelpTOCNode Title="HandsJoinedMid Constructor " Url="html/f03a3dbd-8f8e-e7c0-339a-79a7a028f877.htm" />
+      <HelpTOCNode Title="HandsJoinedMid Fields" Url="html/9804deeb-afea-c4f8-b370-bd4eb92a1ec7.htm" />
+      <HelpTOCNode Id="b5b340bf-b2f1-444a-9033-88a21ead5841" Title="HandsJoinedMid Methods" Url="html/bd2392ff-85ca-babe-847f-23b19a3a39f8.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/6056e8f5-d983-1c2f-c0b8-5d342e8fefaf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="91b0997e-930f-4e22-a015-177b272bdf0c" Title="HandsJoinedMid Properties" Url="html/5f02bdf0-3520-0ff1-2298-8c4a84e5670b.htm">
+        <HelpTOCNode Title="handType Property " Url="html/a10ada43-047c-c08f-2ebd-bce633a8f326.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2bfab629-81ff-4bf7-842e-b3e8bb7dff60" Title="HandUp Class" Url="html/16c84db3-3c3b-ebe5-ce6f-ad2bbd1abd05.htm">
+      <HelpTOCNode Title="HandUp Members" Url="html/76844a94-076b-017d-71f5-40d820affb99.htm" />
+      <HelpTOCNode Title="HandUp Constructor " Url="html/9f020083-3e36-24fb-d638-2057304eb59d.htm" />
+      <HelpTOCNode Title="HandUp Fields" Url="html/4597bdd4-488e-591f-caaa-1b455e901545.htm" />
+      <HelpTOCNode Id="909bb950-a785-45ac-a74f-254017b0b848" Title="HandUp Methods" Url="html/c5f6ed9a-7182-88aa-c4be-772adda2f438.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/82ed7644-92b6-6d83-2579-ae2ffb4c3d6f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5eb24895-4677-4a63-b4eb-06fb5751a156" Title="HandUp Properties" Url="html/93b5c682-89cc-17ae-5efb-8902f8076db2.htm">
+        <HelpTOCNode Title="handType Property " Url="html/ddf31f1a-5500-638c-94c3-2ac8ce548ed9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="261463b9-65af-4e71-a20e-719123491a13" Title="WaveMidAndUp Class" Url="html/5e28617f-acba-ceb2-2174-ec6b79bf00af.htm">
+      <HelpTOCNode Title="WaveMidAndUp Members" Url="html/32e373f4-8ffb-2d43-c737-a45fbe5d36fb.htm" />
+      <HelpTOCNode Title="WaveMidAndUp Constructor " Url="html/72876ccc-88e5-3379-e17d-813d99490feb.htm" />
+      <HelpTOCNode Title="WaveMidAndUp Fields" Url="html/ae80fbbb-da60-6d9b-079c-7339aa28b48e.htm" />
+      <HelpTOCNode Id="116ac083-82d6-449b-84ae-37a4b433afab" Title="WaveMidAndUp Methods" Url="html/ce7ac9ae-a7c2-55a8-394d-f69b25b6f124.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/fc4a01e8-8158-aff0-592e-d071f8dd1607.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="af7ac1f7-8c12-4733-abfb-27c252f9639c" Title="WaveMidAndUp Properties" Url="html/9175a677-48d3-1912-5373-d96e7bf916ab.htm">
+        <HelpTOCNode Title="handType Property " Url="html/02f1cbe5-e04b-70d9-e767-e12d0814f3c1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0d1eaae4-e53e-492d-a36f-2d1bb9197615" Title="WaveMidBothExt Class" Url="html/ad92493c-bc32-65cf-88d0-5cb5864109c4.htm">
+      <HelpTOCNode Title="WaveMidBothExt Members" Url="html/f093b09e-ef5f-1a51-c1c2-302b0a1e2567.htm" />
+      <HelpTOCNode Title="WaveMidBothExt Constructor " Url="html/027a5724-52be-9238-5e35-8de5e9f136fe.htm" />
+      <HelpTOCNode Title="WaveMidBothExt Fields" Url="html/328dd328-abfb-c32e-cfd7-fdfe745e7a77.htm" />
+      <HelpTOCNode Id="e904815f-71fe-4a54-86b9-d9abe7fe037d" Title="WaveMidBothExt Methods" Url="html/031b9c95-c3b4-ff34-1118-5f5e6f318367.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/c69d6dca-6a27-fa7d-87a3-93f90c074948.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6f43c679-2d7c-458f-b9eb-59f15c37a963" Title="WaveMidBothExt Properties" Url="html/77914383-9306-b357-785e-363a40f213a0.htm">
+        <HelpTOCNode Title="handType Property " Url="html/c4b3065a-ff06-528e-0d6c-a49a52599655.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0785da10-f973-4807-8431-dcec14120abe" Title="WaveMidBothInt Class" Url="html/d141b923-de8f-8a9f-bd1d-00615a2f90a4.htm">
+      <HelpTOCNode Title="WaveMidBothInt Members" Url="html/ccd1b8fa-bc29-760b-0bc1-983430c99c35.htm" />
+      <HelpTOCNode Title="WaveMidBothInt Constructor " Url="html/97329996-4adf-311a-3866-310580dabd90.htm" />
+      <HelpTOCNode Title="WaveMidBothInt Fields" Url="html/e282669a-c4cd-2d20-c104-a9bbd8565f55.htm" />
+      <HelpTOCNode Id="0a5a43c0-04b3-45a2-8712-b06d25cc69ec" Title="WaveMidBothInt Methods" Url="html/5f792c84-c195-369a-09ca-b991bb58f3f1.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/37513252-2190-7d33-23b8-bd49d7510155.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f1706f84-635c-45c6-8093-655a972a04d0" Title="WaveMidBothInt Properties" Url="html/459061fe-6fa1-ca23-125f-b86c17d501d9.htm">
+        <HelpTOCNode Title="handType Property " Url="html/5842da16-ac9b-f53c-6500-0ee1f856e8d9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2e4772c0-cfd7-4acb-8d69-8141939e773c" Title="WaveMidExt Class" Url="html/f2003c13-a657-f8bd-28a4-65e5a1daeac1.htm">
+      <HelpTOCNode Title="WaveMidExt Members" Url="html/c6f0a2f7-058c-9754-ed20-e409e6a1ea66.htm" />
+      <HelpTOCNode Title="WaveMidExt Constructor " Url="html/e98ba566-16fd-7059-23f4-8c64137c00c4.htm" />
+      <HelpTOCNode Title="WaveMidExt Fields" Url="html/961697e7-5d88-2fc5-c1f0-bb58f159feda.htm" />
+      <HelpTOCNode Id="9b561dad-4fa7-45ca-b785-9296618b1437" Title="WaveMidExt Methods" Url="html/12bb6597-9281-dafa-6097-4fbcc4de68bb.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/1184c052-5257-066e-6d8a-7acc42cdadf9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a70d5f54-5b89-4038-898d-50c2b29d720a" Title="WaveMidExt Properties" Url="html/77cf709b-ff47-6bfd-9701-44845eb3c8eb.htm">
+        <HelpTOCNode Title="handType Property " Url="html/8f06ae89-ffbc-5e96-69a2-b6083fa031f3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="11b502f4-cc3e-4754-8162-07ec5e2c169e" Title="WaveMidInt Class" Url="html/0e45815d-c59e-94db-3668-6f2173d35b34.htm">
+      <HelpTOCNode Title="WaveMidInt Members" Url="html/af661ff4-b418-ffdf-2e9e-2e1137b577cb.htm" />
+      <HelpTOCNode Title="WaveMidInt Constructor " Url="html/19213047-6b45-9ec6-f34d-226041f006db.htm" />
+      <HelpTOCNode Title="WaveMidInt Fields" Url="html/02accf80-4ca9-61d3-d234-c67763397f3f.htm" />
+      <HelpTOCNode Id="15d8fc75-1689-4d19-a200-f503e70ab618" Title="WaveMidInt Methods" Url="html/4fa9d865-929e-1b5d-2a19-60430658b280.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/436fc8a3-8ac3-4415-53cd-4d8571696530.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9b861d50-35a0-4ec3-99ae-daf1552ef2d0" Title="WaveMidInt Properties" Url="html/ab5236f5-2f1a-ebfc-78f0-2756f49cdfe8.htm">
+        <HelpTOCNode Title="handType Property " Url="html/cb6e9c3b-a86e-62af-dd98-2577db15ca23.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f9c18fb8-e1fe-49af-9b26-7edb8e17a0e9" Title="WaveMidOpposite Class" Url="html/3ad9f6ec-d7c1-65e7-4cac-3ac4061cabe8.htm">
+      <HelpTOCNode Title="WaveMidOpposite Members" Url="html/719afabd-d31d-6c96-15cf-bcfa6c68cccf.htm" />
+      <HelpTOCNode Title="WaveMidOpposite Constructor " Url="html/3c90c97d-13a5-8f3f-af26-580d0c77091f.htm" />
+      <HelpTOCNode Title="WaveMidOpposite Fields" Url="html/77a9f703-1a8b-98ea-5312-928371a68e49.htm" />
+      <HelpTOCNode Id="f46ca9da-b9c1-44ac-a2bd-fc360d4ae50e" Title="WaveMidOpposite Methods" Url="html/509c25c7-7f8f-fa43-3b16-d6c8922dd78d.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/81564fcb-4809-7de1-f75f-8c11bc64b33d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="550717b7-4973-4527-b437-bf994bba0031" Title="WaveMidOpposite Properties" Url="html/d295f916-3a9b-1d34-c52c-27ea5a4576ca.htm">
+        <HelpTOCNode Title="handType Property " Url="html/51cb5b7a-f771-e37e-ba7c-25c8d6d89464.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3268df16-051d-48d9-b8ea-8c42d8b89a89" Title="WaveUpBothExt Class" Url="html/1733a629-4316-a826-ca55-76ef7ae1cafb.htm">
+      <HelpTOCNode Title="WaveUpBothExt Members" Url="html/21b82040-0ff3-2f3e-c3f1-4e5e40619dd8.htm" />
+      <HelpTOCNode Title="WaveUpBothExt Constructor " Url="html/54ba9ba3-10a3-c83c-a721-c3bff2947e9b.htm" />
+      <HelpTOCNode Title="WaveUpBothExt Fields" Url="html/ce417e1b-0701-83bd-4e01-e1663ff64c48.htm" />
+      <HelpTOCNode Id="53b9fab9-a8da-42e4-bc0c-8e7cbdc339eb" Title="WaveUpBothExt Methods" Url="html/97027b3b-d011-498a-faac-9cc610e58540.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/0ba1cb75-8e27-e8fc-e1bc-6c7d8a1e4fa1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="db810d51-2e68-4c3f-a811-45031e150044" Title="WaveUpBothExt Properties" Url="html/0914dc8c-3a46-d7c5-3baa-695125097275.htm">
+        <HelpTOCNode Title="handType Property " Url="html/732b76bf-4b98-d7c2-05d8-f6e430d78051.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a1e576cc-d15f-44ad-b3aa-8b89f8a46fcf" Title="WaveUpBothInt Class" Url="html/c7b8abf3-52fd-81c5-f4b6-d47b7926fe98.htm">
+      <HelpTOCNode Title="WaveUpBothInt Members" Url="html/709c7cd8-25c1-b855-4ab7-398857ca9846.htm" />
+      <HelpTOCNode Title="WaveUpBothInt Constructor " Url="html/6c4b3850-a43d-8b99-86bc-12bd39d8c427.htm" />
+      <HelpTOCNode Title="WaveUpBothInt Fields" Url="html/4616386e-3e9f-0baa-4b65-4107c581e411.htm" />
+      <HelpTOCNode Id="41fe5cbc-d1ba-49ac-a882-bbce35bdeb47" Title="WaveUpBothInt Methods" Url="html/d0c1b319-5732-3cfe-46e5-5f878b47b067.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/7f1a879f-6f34-69c8-60e3-89a24c064fce.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f58c2cb6-d1a7-47fb-b4f9-fcd62da0d862" Title="WaveUpBothInt Properties" Url="html/7a09d594-b178-64bb-c90e-e0c1b39281a5.htm">
+        <HelpTOCNode Title="handType Property " Url="html/faf59c0c-15e5-7312-932a-7ada0c118012.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="961f74c7-08b9-4f2e-83d9-1201ab42f931" Title="WaveUpExt Class" Url="html/e471e171-65d3-814a-cb9e-aac88bc025e4.htm">
+      <HelpTOCNode Title="WaveUpExt Members" Url="html/1343346d-5cba-d59e-d146-d92eff89dbff.htm" />
+      <HelpTOCNode Title="WaveUpExt Constructor " Url="html/0ff8ae8b-ddf1-081e-7328-ceeb74d6c646.htm" />
+      <HelpTOCNode Title="WaveUpExt Fields" Url="html/d8d84553-c9be-a8f0-da23-eea32a068e8b.htm" />
+      <HelpTOCNode Id="d8c9c411-b9b5-491e-aec5-8d39bb305927" Title="WaveUpExt Methods" Url="html/6c0d2743-fa12-5497-f103-3106fca3372c.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/697c6e8f-d7cc-93db-b4ce-4d221e99ba8b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="64ae9f82-fcc3-4695-a585-a50616a6b63d" Title="WaveUpExt Properties" Url="html/1361fb22-7623-859c-ebf8-2ac72327c0e8.htm">
+        <HelpTOCNode Title="handType Property " Url="html/0bd75b3c-9ba7-8da8-5d35-17e15372ffce.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c9ee38d6-fe23-42dc-b6ce-8b0f90a76c7a" Title="WaveUpInt Class" Url="html/fbb57bec-8684-4a57-0114-bc4c9bb3749f.htm">
+      <HelpTOCNode Title="WaveUpInt Members" Url="html/49c37058-b7f7-09c2-42c6-7806d2b21f38.htm" />
+      <HelpTOCNode Title="WaveUpInt Constructor " Url="html/5ad00e00-341d-fd97-865b-4665182e05a3.htm" />
+      <HelpTOCNode Title="WaveUpInt Fields" Url="html/82b5a699-1a71-ae87-39fb-d8309a38e100.htm" />
+      <HelpTOCNode Id="fdeaf5b8-4184-4632-9393-86a8e6bb96be" Title="WaveUpInt Methods" Url="html/7dd4d443-65db-63d5-da4b-661ab2097106.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/61260124-29c4-ba02-7931-fb9e79d65560.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6c6f5a15-4658-4d8c-a139-72ca888a2084" Title="WaveUpInt Properties" Url="html/210713ab-158d-f7d3-ed46-6a8669797c87.htm">
+        <HelpTOCNode Title="handType Property " Url="html/72fe80ac-3a6c-ce5b-dd07-65693ae27d4a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0b3fa0ad-a3fb-4ecb-95ef-64dfbb429f1f" Title="WaveUpOpposite Class" Url="html/4e708436-b893-c150-39c4-98b9353c2ab1.htm">
+      <HelpTOCNode Title="WaveUpOpposite Members" Url="html/5e7b0df2-41cc-579c-be68-26fc73106090.htm" />
+      <HelpTOCNode Title="WaveUpOpposite Constructor " Url="html/1e8f4d8c-9fe3-b30a-9973-59b3e6a2569b.htm" />
+      <HelpTOCNode Title="WaveUpOpposite Fields" Url="html/dd991bbe-768e-076b-0a7e-7c4130962379.htm" />
+      <HelpTOCNode Id="1ff67b2b-38ad-42b7-bf8e-650a62462876" Title="WaveUpOpposite Methods" Url="html/53a2fb6b-e814-76f9-9a82-557e817e1f73.htm">
+        <HelpTOCNode Title="checkGesture Method " Url="html/70b7bea0-76a8-1206-d313-cfe4caadcc68.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b2c215d4-6efe-435a-928b-41a6cc2afe16" Title="WaveUpOpposite Properties" Url="html/d5269846-2bdd-0b53-1f9b-c8638fb11280.htm">
+        <HelpTOCNode Title="handType Property " Url="html/e87fc8a0-1131-8f12-9081-185324157f04.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="5ed35a28-667e-4dbd-ad48-9ce0bf25e09e" Title="QlikMove.StandardHelper.Inputcore Namespace" Url="html/cae0ab81-3025-b6f9-c4fa-5b39405446b7.htm">
+    <HelpTOCNode Id="7317c25f-7c6c-464b-8cfb-4072dbaed5da" Title="Input Structure" Url="html/390092d3-4bbc-37f2-42cb-9550ab9595a6.htm">
+      <HelpTOCNode Title="Input Members" Url="html/64505f96-36f1-29bf-3a5e-4a61af0bb772.htm" />
+      <HelpTOCNode Id="8a3d32d3-2277-4c43-a7be-7ce33817e41d" Title="Input Fields" Url="html/b81d44c8-e630-33bf-3204-630dd2ec7c1f.htm">
+        <HelpTOCNode Title="Type Field" Url="html/3c89f014-e3a7-5774-a44a-c5dd54c77cb3.htm" />
+        <HelpTOCNode Title="Union Field" Url="html/e0256159-256f-54b1-1630-6a82decd8836.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="InputType Enumeration" Url="html/4b25c932-6148-7819-5f59-560ce0b1487e.htm" />
+    <HelpTOCNode Id="83b2ad01-e925-45c5-bb42-5f9276ca523e" Title="KeybdInput Structure" Url="html/2ff98a40-fe83-e3aa-108e-8faab213796c.htm">
+      <HelpTOCNode Title="KeybdInput Members" Url="html/ecff55f9-868f-0975-7b7c-2c4eead3aecf.htm" />
+      <HelpTOCNode Id="87039d0a-eee8-492e-81b9-933429883059" Title="KeybdInput Fields" Url="html/1f45c166-1be5-1640-3203-566ade015bc5.htm">
+        <HelpTOCNode Title="ExtraInfo Field" Url="html/98c372f8-2db5-2fb2-f6c9-dd9fcc90b685.htm" />
+        <HelpTOCNode Title="Flags Field" Url="html/724c3324-aebd-3ae7-0300-caeb1fcafce4.htm" />
+        <HelpTOCNode Title="Time Field" Url="html/19c45d6f-ca5e-9de9-2609-a1d3e861e057.htm" />
+        <HelpTOCNode Title="wScan Field" Url="html/337b0691-4240-ecaa-e7af-08b0639898bb.htm" />
+        <HelpTOCNode Title="wVk Field" Url="html/6b30fa4f-e88b-3b4b-c072-7f3441510e4d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="KeyboardFlags Enumeration" Url="html/4d159c47-e8aa-38b8-445c-7e85d2923cd9.htm" />
+    <HelpTOCNode Title="MouseFlag Enumeration" Url="html/a8abc042-3eae-004d-9255-52331fba94bf.htm" />
+    <HelpTOCNode Id="68427bec-70d0-4cf6-ba31-03705b6afb07" Title="MouseInput Structure" Url="html/a03e4516-295e-1f38-b820-0810e3888d22.htm">
+      <HelpTOCNode Title="MouseInput Members" Url="html/6b1ee885-be0b-ae90-cc02-df132d18c35d.htm" />
+      <HelpTOCNode Id="5071041b-0ae7-451e-94ab-3f8c4b10d1b4" Title="MouseInput Fields" Url="html/183997c8-61be-3847-1db6-5e8e81bbd7cd.htm">
+        <HelpTOCNode Title="ExtraInfo Field" Url="html/6dff5492-2fa6-2989-1dd9-f8c7f6af8065.htm" />
+        <HelpTOCNode Title="Flags Field" Url="html/d2cc53c5-5643-4ce3-9334-738c821420f8.htm" />
+        <HelpTOCNode Title="MouseData Field" Url="html/b6732f53-f5d0-e0fb-7cf5-629b2ac8a63b.htm" />
+        <HelpTOCNode Title="Time Field" Url="html/cbcaeb04-4b03-d5c8-35d8-94512e7349e2.htm" />
+        <HelpTOCNode Title="X Field" Url="html/403dafac-375c-0598-b649-64230197d7b7.htm" />
+        <HelpTOCNode Title="Y Field" Url="html/f439a8bd-9e5f-fc0f-93ed-0ea6dad3b45f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d238fbf0-50c6-46b0-ad84-a7506cf86e34" Title="MousePoint Structure" Url="html/85897386-07b8-f5c8-dac2-78e92f41e933.htm">
+      <HelpTOCNode Title="MousePoint Members" Url="html/aa643611-e480-9eff-c926-a44e173906fc.htm" />
+      <HelpTOCNode Title="MousePoint Constructor " Url="html/958fac68-69c7-430e-ffed-b58d02a6640e.htm" />
+      <HelpTOCNode Id="486c2f86-72e5-49d5-8904-609d2443c3cd" Title="MousePoint Fields" Url="html/a8d29c26-2580-325e-8e92-67120cc5d9e8.htm">
+        <HelpTOCNode Title="X Field" Url="html/3e5516f8-bf00-31fc-28b0-89aeb3d6cbb1.htm" />
+        <HelpTOCNode Title="Y Field" Url="html/73d979d8-5a24-ecbf-75ea-c5d794c225fc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="08a7338c-9a71-467c-9bf6-a0d4152494d8" Title="UNION Structure" Url="html/b0106de0-7639-9f3b-9f11-2f4656c04ebe.htm">
+      <HelpTOCNode Title="UNION Members" Url="html/153f0bf2-936b-9dc7-1e82-ff19f1722488.htm" />
+      <HelpTOCNode Id="a686a33d-fff9-41bf-bbd9-46d41ef03a98" Title="UNION Fields" Url="html/84733121-70e7-b2e0-a7db-09d5efdbcb78.htm">
+        <HelpTOCNode Title="keyboardInput Field" Url="html/d2ac4157-e69e-1351-2b0a-7f53af106322.htm" />
+        <HelpTOCNode Title="mouseInput Field" Url="html/17310807-b971-f05b-c269-778acc30ddc9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="WordsVirtualKey Enumeration" Url="html/1f932e7c-aca7-1180-b30d-f1b17b41a852.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="96e503db-59c2-49d0-bbda-7178df14a282" Title="QlikMove.StandardHelper.Kinect Namespace" Url="html/1f4e28a6-a94e-811d-b087-a4e1bd97e929.htm">
+    <HelpTOCNode Id="d84c17a0-30ff-46c9-93b7-dbbb26131be3" Title="JSONJoint Class" Url="html/204615f8-1378-b447-ffe1-a5e19a4f81ca.htm">
+      <HelpTOCNode Title="JSONJoint Members" Url="html/9dfd7135-f1a3-e422-0a0c-924abd5874b7.htm" />
+      <HelpTOCNode Title="JSONJoint Constructor " Url="html/e7acae53-9103-88b2-7a69-c1a2c9f6717c.htm" />
+      <HelpTOCNode Id="990c7a45-fab3-4039-b009-68c83c9c4632" Title="JSONJoint Properties" Url="html/da084fd0-81fb-9e6a-5eab-e77eecc7bafb.htm">
+        <HelpTOCNode Title="Name Property " Url="html/14782523-42c5-8354-124a-9f9dca91458a.htm" />
+        <HelpTOCNode Title="X Property " Url="html/962b3659-165b-9abe-4d87-cc6a05caa1f7.htm" />
+        <HelpTOCNode Title="Y Property " Url="html/b3064664-d5cb-33f8-498c-0fa17af5e70b.htm" />
+        <HelpTOCNode Title="Z Property " Url="html/cebf4813-9482-cd56-9695-3249a3b3070c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="97c6e724-9a1e-4224-94bd-f7d94affeb5f" Title="JSONSkeleton Class" Url="html/9aeb98c7-2f15-4743-704b-fa8bfeb5d530.htm">
+      <HelpTOCNode Title="JSONSkeleton Members" Url="html/550978ee-1d3b-32b1-bced-87a21c1f8e08.htm" />
+      <HelpTOCNode Title="JSONSkeleton Constructor " Url="html/f74ecb6a-fb23-8bb2-a41d-a765ba9e6ab5.htm" />
+      <HelpTOCNode Id="3a8505fd-38e9-426e-a91a-5309b799abff" Title="JSONSkeleton Properties" Url="html/f8058a77-7141-b453-19e4-55c38ac215a5.htm">
+        <HelpTOCNode Title="ID Property " Url="html/bd350195-57b8-650a-a50c-fd557a657fd2.htm" />
+        <HelpTOCNode Title="Joints Property " Url="html/d4cbf572-ba0a-570a-d321-2e705a1ddc12.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="00e2a107-e461-4ea9-ab89-6408409bbb74" Title="SkeletalCommonextensions Class" Url="html/d3535c0f-89cc-f16e-1e4f-0fe49706cdcd.htm">
+      <HelpTOCNode Title="SkeletalCommonextensions Members" Url="html/3b072a52-9c07-f2c5-b7c5-62419dc645c5.htm" />
+      <HelpTOCNode Id="0e90a514-feac-4512-acfb-a08cc8b648ae" Title="SkeletalCommonextensions Methods" Url="html/579f601d-6b1d-c83c-7d2a-52544dee81a0.htm">
+        <HelpTOCNode Title="Get2DPosition Method " Url="html/b02e9456-6ca8-f884-6e2a-194a19d2ca10.htm" />
+        <HelpTOCNode Title="Scale Method " Url="html/efbbfeaf-d590-06a0-2aa9-a0c32f0aaea5.htm" />
+        <HelpTOCNode Id="e1fe5a11-054e-478a-af46-3008a8584966" Title="ScaleTo Method " Url="html/61fd03c4-d9d9-c75d-aefe-ab15b36cc4d1.htm">
+          <HelpTOCNode Title="ScaleTo Method (, Int32, Int32)" Url="html/dd3fabaa-75be-2026-6e14-044381ad4221.htm" />
+          <HelpTOCNode Title="ScaleTo Method (, Int32, Int32, Single, Single)" Url="html/23fa5eb7-1c5e-0438-166b-9480ab0f9c88.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ScaleToDepthResolution Method " Url="html/2d69ba40-81c8-c152-5625-eefb50d01a80.htm" />
+        <HelpTOCNode Title="ToJson Method " Url="html/675b3363-653f-85e5-9cd6-99e7fb05da12.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="1ec74808-30bd-4cdc-a033-98f031fc7755" Title="QlikMove.StandardHelper.Messages Namespace" Url="html/61851491-8347-f665-19a6-85ef874d79ae.htm">
+    <HelpTOCNode Id="ddc7ca63-ba3f-44bf-be7d-1af0d18fb234" Title="AudioInformation Class" Url="html/d561f662-a6c5-a37a-2722-9041331d6eea.htm">
+      <HelpTOCNode Title="AudioInformation Members" Url="html/4f339504-439b-fb96-6841-a267310cdfc4.htm" />
+      <HelpTOCNode Title="AudioInformation Constructor " Url="html/d9575698-3f82-e845-e9e6-a1fd9c9fe712.htm" />
+      <HelpTOCNode Id="f7bad681-b176-449b-85d5-3394c7edb1d7" Title="AudioInformation Methods" Url="html/54b13b5f-04f3-e2e1-838f-de40e5ebf5d2.htm">
+        <HelpTOCNode Title="toJson Method " Url="html/c90d170f-02fc-e58d-76bb-9079c2d0dacb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a71ab0ad-e8b2-4f49-9bfa-6a09c5c31d9b" Title="AudioInformation Properties" Url="html/fdcb4cf9-0e1e-2b26-6749-aa0facc82a03.htm">
+        <HelpTOCNode Title="amplitude Property " Url="html/327f457e-a2f8-4da0-1ab7-36b07eaaf4d8.htm" />
+        <HelpTOCNode Title="angleConfidence Property " Url="html/b8b7b0b1-0b31-f86b-c7e6-19e2290dfff5.htm" />
+        <HelpTOCNode Title="recognizedSpeech Property " Url="html/c5073aef-51a0-d6eb-eb41-001bd6ab46b5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="41c4348e-4c76-4b18-901b-a214616eaa03" Title="JSONAudioInfos Class" Url="html/070e5434-2f15-4547-e05d-e6842306e300.htm">
+      <HelpTOCNode Title="JSONAudioInfos Members" Url="html/4e1446e7-ca5f-5815-5ce6-89dada6ad9c2.htm" />
+      <HelpTOCNode Title="JSONAudioInfos Constructor " Url="html/a9217242-7539-62e1-a5ed-0327632443ae.htm" />
+      <HelpTOCNode Id="38b577c5-7c82-4b4e-ba17-848e289da39f" Title="JSONAudioInfos Fields" Url="html/dec30f61-72f4-8e27-eb06-ba74e6ab6617.htm">
+        <HelpTOCNode Title="amplitude Field" Url="html/a4e369a2-5778-e5f1-6434-ed5e22227e10.htm" />
+        <HelpTOCNode Title="angleConfidence Field" Url="html/060ed1da-247f-1e38-5e49-ec86f7904ffa.htm" />
+        <HelpTOCNode Title="recognizedSpeech Field" Url="html/ad135b71-cb40-b67a-47ee-7525a6181fd7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c5179f93-3850-41d1-99f2-b61210438e90" Title="JSONKinectInfos Class" Url="html/12997ad8-00cb-c586-f73c-a08f37b0b4af.htm">
+      <HelpTOCNode Title="JSONKinectInfos Members" Url="html/14bdaa50-a937-e607-a975-4b9042e6cf77.htm" />
+      <HelpTOCNode Title="JSONKinectInfos Constructor " Url="html/0e21fcf4-4977-47f6-e13a-9d2a1bc0ba5e.htm" />
+      <HelpTOCNode Id="72712da3-9d50-4684-9ffa-26c2fa554565" Title="JSONKinectInfos Fields" Url="html/9dac4452-ad96-6de3-3026-f4105f7cd373.htm">
+        <HelpTOCNode Title="isKinectConnected Field" Url="html/b463ac51-b0f9-746d-26cb-3d0fbd665b56.htm" />
+        <HelpTOCNode Title="isKinectMoving Field" Url="html/e55eef21-2ca5-05a3-7c02-65c6af63ed62.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4d60e945-9cb7-4c4b-9f09-4dfe3712fcb2" Title="JSONMessage Class" Url="html/6f46a190-be47-483b-1693-9a7b03b47b59.htm">
+      <HelpTOCNode Title="JSONMessage Members" Url="html/e87516d2-56b1-5d01-5f35-db63cd822a7b.htm" />
+      <HelpTOCNode Title="JSONMessage Constructor " Url="html/687d7192-57bf-b473-ccda-e71553cf9307.htm" />
+      <HelpTOCNode Id="9717df74-3121-449a-a779-524b1ae8697e" Title="JSONMessage Fields" Url="html/917077c2-d9f7-4af8-ba9d-d7cacecf2819.htm">
+        <HelpTOCNode Title="jsonAction Field" Url="html/66cb457f-6b64-98ee-eed3-075dc60dfc6f.htm" />
+        <HelpTOCNode Title="jsonAudioInfos Field" Url="html/c168d440-0a13-6c82-9a7e-ca240cf21a20.htm" />
+        <HelpTOCNode Title="jsonKinectInfos Field" Url="html/c77db5db-64cb-bb1a-9d8c-2fa76a81dd01.htm" />
+        <HelpTOCNode Title="jsonSkeletonInfos Field" Url="html/96d0e323-261b-ee97-ac70-57d7a63b30f9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="915931fe-b2de-49af-bf65-f86823476837" Title="JSONMessageReceived Class" Url="html/27022f61-ccff-8f25-6219-698b1b40c108.htm">
+      <HelpTOCNode Title="JSONMessageReceived Members" Url="html/affa2272-bbb8-4a0c-d9ea-0933797ac6eb.htm" />
+      <HelpTOCNode Title="JSONMessageReceived Constructor " Url="html/41295cce-8fe7-4be2-0b59-f251f3b7bc66.htm" />
+      <HelpTOCNode Id="6269227a-5a92-486b-b2b8-842c573c2840" Title="JSONMessageReceived Fields" Url="html/4bf9f784-98cd-dbf2-7c4e-02bd8db41a13.htm">
+        <HelpTOCNode Title="context Field" Url="html/640abd7d-d13b-3f83-3899-03a1fd95f963.htm" />
+        <HelpTOCNode Title="keyboard Field" Url="html/a7b7f67b-3b71-3dbb-7e6b-17a9f8ac59ab.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="40fd33d6-5ecc-4b52-b810-6e01a7e11800" Title="JSONSkeletonInfos Class" Url="html/61bf6f86-25f6-605d-2585-618cd173b768.htm">
+      <HelpTOCNode Title="JSONSkeletonInfos Members" Url="html/41904346-cf94-977d-1fd9-f0f58043a066.htm" />
+      <HelpTOCNode Title="JSONSkeletonInfos Constructor " Url="html/0149d7e3-67a5-f392-b476-6ad87c7740a4.htm" />
+      <HelpTOCNode Id="2996026c-eaef-4f74-ada4-aa010c5d944e" Title="JSONSkeletonInfos Fields" Url="html/d0075914-49b8-8798-4c34-488296c29d8a.htm">
+        <HelpTOCNode Title="isSkeletonTracked Field" Url="html/9b0df795-0e81-5d40-2818-104883c37966.htm" />
+        <HelpTOCNode Title="jsonSkeleton Field" Url="html/684ae29f-b8f6-b7c4-ee2b-9944642183b4.htm" />
+        <HelpTOCNode Title="zDistance Field" Url="html/632034cb-1087-18db-313d-f1140d41b6c7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6366bb9f-2546-44f6-94ac-438e71773fd4" Title="KinectInformation Class" Url="html/b9c88e4f-cc88-e997-b550-a39ee00dfa10.htm">
+      <HelpTOCNode Title="KinectInformation Members" Url="html/53918f7c-4840-2739-696f-c496e6e618d2.htm" />
+      <HelpTOCNode Title="KinectInformation Constructor " Url="html/baeaa76b-df95-275f-576c-4b715ef69d9f.htm" />
+      <HelpTOCNode Id="5ccece57-7d4e-4abb-986e-1e67d1466c9a" Title="KinectInformation Methods" Url="html/ff9c7756-57f3-8265-7848-079ea898da01.htm">
+        <HelpTOCNode Title="ToJson Method " Url="html/e40e2b81-14b4-53d2-c3a3-2c96e8a748a1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1d13fd46-117a-4460-ad29-e555999311fe" Title="KinectInformation Properties" Url="html/9baeeaa8-3a7f-f849-9a8e-f7bc91b7c1c8.htm">
+        <HelpTOCNode Title="isKinectConnected Property " Url="html/644e7c3e-80b0-5bcc-08db-35ef0b40a856.htm" />
+        <HelpTOCNode Title="isKinectMoving Property " Url="html/905d15d7-581b-2f76-9204-b6c120317df0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b206da48-ce7f-4a57-b973-b923b7cc79f0" Title="Message Class" Url="html/b8ad3ea1-3f9f-a720-a5ab-3b7a9c42e5c7.htm">
+      <HelpTOCNode Title="Message Members" Url="html/5b750513-22dc-47d1-5b89-3c76c4c11ea6.htm" />
+      <HelpTOCNode Id="8ea3a4f0-662f-4a2d-b7d1-9f0704ab41bb" Title="Message Constructor " Url="html/13c6b946-164c-588f-493b-7ef16dc37148.htm">
+        <HelpTOCNode Title="Message Constructor (ActionArgs)" Url="html/bd9ca422-5af2-2ce7-93ea-d909e66d6ee0.htm" />
+        <HelpTOCNode Title="Message Constructor (AudioInformation)" Url="html/ce38f55a-3805-5e53-9aaa-4490bbf3e59e.htm" />
+        <HelpTOCNode Title="Message Constructor (KinectInformation)" Url="html/918f4702-513a-0914-1029-34dda7aaf8f9.htm" />
+        <HelpTOCNode Title="Message Constructor (SkeletonInformation)" Url="html/64dd7807-5c53-ad77-eda7-36261c5f7d4c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7bb8b350-ab3f-4d79-ba53-05fcb5edb803" Title="Message Methods" Url="html/7efc11e0-0372-b011-20e6-5b8628b3a891.htm">
+        <HelpTOCNode Title="ToJson Method " Url="html/34c20315-3a7b-06f4-9aba-c0702360b244.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9181a0f6-4581-425f-9a79-684fcaf96660" Title="Message Properties" Url="html/171dbaba-25c0-7fa0-d299-b9b1e915f7a3.htm">
+        <HelpTOCNode Title="actionInfo Property " Url="html/8abee151-93e0-d114-bbc2-1c5e1d668f21.htm" />
+        <HelpTOCNode Title="audioInfo Property " Url="html/56ee5930-9bf6-47dc-8ab6-e3a0426c8edf.htm" />
+        <HelpTOCNode Title="kinectInfo Property " Url="html/3440f5d5-5202-5f2a-28e0-9aed556b42d4.htm" />
+        <HelpTOCNode Title="skeletonInfo Property " Url="html/b0a8f671-5d75-4266-4e7b-2a516de5d095.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cfb4eb5c-0170-45f3-87ae-8a7626b06750" Title="MessageReceived Class" Url="html/afdc7234-1fc2-845a-9707-4e78cb4a3d1b.htm">
+      <HelpTOCNode Title="MessageReceived Members" Url="html/fb6696f8-ecd0-bddd-e292-dc9e2da22f86.htm" />
+      <HelpTOCNode Id="9e4088be-24a4-45f5-8258-c8295edfc5eb" Title="MessageReceived Constructor " Url="html/62b0263b-7760-ae3d-2846-8641fbb8c592.htm">
+        <HelpTOCNode Title="MessageReceived Constructor (Dictionary(String, String))" Url="html/ff3c0a59-0673-b88b-0708-49b2bff08e58.htm" />
+        <HelpTOCNode Title="MessageReceived Constructor (String, String)" Url="html/949aff13-29ed-47e6-f7ee-c212283c7e37.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a1ecc123-8941-464a-b5bf-862897e5e3fa" Title="MessageReceived Methods" Url="html/b82e2a91-e960-61ae-9a09-3dc1797ceddc.htm">
+        <HelpTOCNode Title="DeserializeString Method " Url="html/89909271-4e31-5448-b2db-f91aa39eae5c.htm" />
+        <HelpTOCNode Title="ToJson Method " Url="html/0f310000-4883-a78a-8f15-40d906997d9b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d38c5bd8-2d61-4337-8cd6-1c8c34ea3c83" Title="MessageReceived Properties" Url="html/1bc67fa7-9207-ab6a-3a76-05c6de5d3280.htm">
+        <HelpTOCNode Title="context Property " Url="html/a36044ce-ab4f-aa67-68b9-f6de06e1a52b.htm" />
+        <HelpTOCNode Title="keyboard Property " Url="html/b807712c-43c5-de60-070c-346e1a717cce.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ee175994-bc2a-449f-84cf-5cc2dcfcac55" Title="SkeletonInformation Class" Url="html/f7f4be67-2d1e-6646-e310-ba67f96601ab.htm">
+      <HelpTOCNode Title="SkeletonInformation Members" Url="html/664c452d-a3f4-2111-be87-dbd3056b14d5.htm" />
+      <HelpTOCNode Id="981c7693-25b2-441f-9297-a9e3aa1ec80a" Title="SkeletonInformation Constructor " Url="html/1fdeef27-5e6b-ee48-b27b-5039f970165d.htm">
+        <HelpTOCNode Title="SkeletonInformation Constructor ()" Url="html/90297f96-7600-76fa-25df-ced40aab605c.htm" />
+        <HelpTOCNode Title="SkeletonInformation Constructor (Boolean)" Url="html/d4cf30ec-1526-aba0-d735-cba4beadbe04.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="22ad1974-7d26-41c4-8eae-b003f390c100" Title="SkeletonInformation Methods" Url="html/16a962be-b8d5-3bff-9cd4-49e602a6c40e.htm">
+        <HelpTOCNode Title="ToJson Method " Url="html/bf6e82ae-d430-c40f-17d5-b1a6701b96af.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="72f0620a-25e4-4895-a6ee-e707ad7d703d" Title="SkeletonInformation Properties" Url="html/38cc4820-afb5-e7ef-6333-2fc3db872b67.htm">
+        <HelpTOCNode Title="isSkeletonTracked Property " Url="html/9af04920-2fed-c5bf-5a58-2eda7851f3ed.htm" />
+        <HelpTOCNode Title="skeleton Property " Url="html/1a4d97db-0d8f-c101-dbbb-078c2f7fda41.htm" />
+        <HelpTOCNode Title="zDistance Property " Url="html/359bac64-d7f3-5273-590f-0fdf7061c1dd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="5bfd5a59-ecab-4507-a8f6-b55b24bd3cb8" Title="QlikMove.StandardHelper.Native Namespace" Url="html/db52afe3-482a-c320-6fcb-d3c18ec1c045.htm">
+    <HelpTOCNode Id="ff43e5b1-6b65-4d04-a655-58f4106be95b" Title="NativeMethods Class" Url="html/118f8073-c30f-80da-024e-1b1fdb248436.htm">
+      <HelpTOCNode Title="NativeMethods Members" Url="html/c254b9ee-3be0-768b-0c08-75c31c0df982.htm" />
+      <HelpTOCNode Title="NativeMethods Constructor " Url="html/b8e6ba38-5038-a6ec-4c8c-3e0e7fecd8fe.htm" />
+      <HelpTOCNode Id="b7f761cf-4f63-4a9c-a797-d0d4865e3933" Title="NativeMethods Methods" Url="html/3710beb1-6c69-9b0d-9c7a-bda20f57bacc.htm">
+        <HelpTOCNode Title="GetActiveWindow Method " Url="html/8a58fc94-fcc2-a46c-a920-52f7553f6680.htm" />
+        <HelpTOCNode Title="GetCursorPos Method " Url="html/56f85753-9a9b-ab1e-d859-de4dd8948219.htm" />
+        <HelpTOCNode Title="GetCursorPosition Method " Url="html/d10d8611-46c0-4475-e61d-2f891ea83b1c.htm" />
+        <HelpTOCNode Title="GetForegroundWindow Method " Url="html/80508b5b-c8df-7a32-0203-f2435ac4139e.htm" />
+        <HelpTOCNode Title="GetWindowText Method " Url="html/d4783375-50ec-2b2a-1419-b1f88f3da602.htm" />
+        <HelpTOCNode Title="SendInput Method " Url="html/5f1207d5-b012-3c34-8960-00ac86de9c2c.htm" />
+        <HelpTOCNode Title="SetCursorPos Method " Url="html/7b63cb29-e28a-2ea2-a94a-2fa9f4a0ef3b.htm" />
+        <HelpTOCNode Title="SetCursorPosition Method " Url="html/b16df636-47c1-39a7-e1f9-887c58f62078.htm" />
+        <HelpTOCNode Title="StartOsk Method " Url="html/80c00f2d-b0cb-5878-9e1c-27de70dcc6e7.htm" />
+        <HelpTOCNode Title="Wow64DisableWow64FsRedirection Method " Url="html/17dffc74-e9b0-5640-092a-9549d038effc.htm" />
+        <HelpTOCNode Title="Wow64RevertWow64FsRedirection Method " Url="html/73b12f30-c874-d15f-c81c-1fc4b743fab3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="97737fba-1a6f-45d9-9e73-46cda3c14508" Title="QlikMove.VoiceRecognition Namespace" Url="html/e7feabe3-4751-35a9-397b-fc671dcce45f.htm">
+    <HelpTOCNode Id="0f5f170f-8ba2-4141-a653-88aafd34fb7d" Title="VoiceHelper Class" Url="html/7056bb4a-812c-a57b-9493-eded424691f5.htm">
+      <HelpTOCNode Title="VoiceHelper Members" Url="html/2c2f084a-e03d-9ce3-4281-32660496aade.htm" />
+      <HelpTOCNode Title="VoiceHelper Constructor " Url="html/49898330-40ad-d4ed-1e11-f3ce2fd84804.htm" />
+      <HelpTOCNode Id="80e1c512-76de-49d3-a68c-11e86d9eaa3b" Title="VoiceHelper Fields" Url="html/6b15314a-eae6-cb50-4bc6-1984eec3f036.htm">
+        <HelpTOCNode Title="AudioSource Field" Url="html/6d33e816-578f-0da5-1e92-e44bebbef31a.htm" />
+        <HelpTOCNode Title="currentEnergy Field" Url="html/f5a7fe5a-8103-8c2f-8f5b-19fb79f30622.htm" />
+        <HelpTOCNode Title="energyBuffer Field" Url="html/d4ee9b2b-72a1-f129-ac91-9b4b935bf973.htm" />
+        <HelpTOCNode Title="instance Field" Url="html/58f60c39-591b-a029-c3c4-4e93cde8bfd4.htm" />
+        <HelpTOCNode Title="sendTimer Field" Url="html/a29652a7-25b6-21ab-cc1c-f54f87bf35b1.htm" />
+        <HelpTOCNode Title="speechRecognizer Field" Url="html/5762d2f0-4a83-01b2-b0b4-f63a4605e75a.htm" />
+        <HelpTOCNode Title="stream Field" Url="html/04a6a840-0a98-5d52-9b99-4eeb994011e7.htm" />
+        <HelpTOCNode Title="WaveImageHeight Field" Url="html/01cf69d1-a61d-d7be-fb88-d4fa04954348.htm" />
+        <HelpTOCNode Title="WaveImageWidth Field" Url="html/edd6ab3b-f4e4-7303-168b-b7d1a767c847.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c0c0378d-5876-4024-ac67-8735da7d7a0d" Title="VoiceHelper Methods" Url="html/5eb10fbb-10f8-4d30-3eda-1d0a80f8dca0.htm">
+        <HelpTOCNode Title="CreateSpeechRecognizer Method " Url="html/30c98b44-2306-1c16-5649-3a68be0ecaaa.htm" />
+        <HelpTOCNode Title="GetEnergyFromStream Method " Url="html/26fe8f8d-ba58-fc2c-b8d5-926825324438.htm" />
+        <HelpTOCNode Title="GetKinectRecognizer Method " Url="html/4ea6913c-9891-9ba8-af8a-25018624d6e3.htm" />
+        <HelpTOCNode Title="SendAmplitude Method " Url="html/dd42e00f-4b67-7798-4413-d4c5123331fb.htm" />
+        <HelpTOCNode Title="speech_Hypothesized Method " Url="html/9608d68f-f22f-a7e3-562a-b7944a421608.htm" />
+        <HelpTOCNode Title="speech_Recognized Method " Url="html/95acddce-8fa7-c32d-45b2-a6dd538bb041.htm" />
+        <HelpTOCNode Title="speech_Rejected Method " Url="html/797301d9-9be7-27d4-e788-3dc1ee050956.htm" />
+        <HelpTOCNode Title="StartAudioStream Method " Url="html/45f0ea85-5184-3fe5-42ee-26141bf00953.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7a1c5e95-abde-417c-a0d8-f48aee331ae8" Title="VoiceHelper Properties" Url="html/131e2978-1cf8-2f3e-426f-6b95f3a76bbe.htm">
+        <HelpTOCNode Title="audioSource Property " Url="html/2b35d4a5-0b8a-955e-97d9-36d461f16581.htm" />
+        <HelpTOCNode Title="Instance Property " Url="html/f08ea86d-2eab-f145-7db1-632e326f0a5d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="13fdfe1e-8299-45d4-b0e9-de3028231ba1" Title="VoiceHelper Events" Url="html/4b9419ca-fb81-916d-b310-1c0bf702d4ce.htm">
+        <HelpTOCNode Title="EventRecognised Event" Url="html/3a47c82f-71ca-f703-b19b-d94f45d7e722.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="425d4db2-8c60-4786-9b02-67f8d5242fbf" Title="VoiceHelper.EnergyCalculatingPassThroughStream Class" Url="html/32589a62-876f-397f-be7a-c9b88776db81.htm">
+      <HelpTOCNode Title="VoiceHelper.EnergyCalculatingPassThroughStream Members" Url="html/f0e3b5c1-1b2a-85bf-570f-a701d525ee39.htm" />
+      <HelpTOCNode Title="VoiceHelper.EnergyCalculatingPassThroughStream Constructor " Url="html/4d4cd68d-9e07-d15d-0488-56b5c5c7fd57.htm" />
+      <HelpTOCNode Id="74a300f9-1931-4785-885e-5df4b73f9c0a" Title="VoiceHelper.EnergyCalculatingPassThroughStream Fields" Url="html/d6d5853e-9178-0a54-55d1-9000d04038c8.htm">
+        <HelpTOCNode Title="avgSample Field" Url="html/fad0da14-b1e8-8f62-336d-070779284012.htm" />
+        <HelpTOCNode Title="baseStream Field" Url="html/4703f462-6cf2-166d-ee81-9ece52a56732.htm" />
+        <HelpTOCNode Title="energy Field" Url="html/79acd687-cc14-cb1e-7e38-edeb969fa7e4.htm" />
+        <HelpTOCNode Title="index Field" Url="html/fe91d0bf-d23c-4ebe-74ac-727ac7bfe740.htm" />
+        <HelpTOCNode Title="sampleCount Field" Url="html/ef96b84b-4d04-bcae-e74b-da966103f1c0.htm" />
+        <HelpTOCNode Title="SamplesPerPixel Field" Url="html/e2e7f141-a1fa-4202-f8da-751a42283274.htm" />
+        <HelpTOCNode Title="syncRoot Field" Url="html/25284289-b28a-92f7-6e2a-489a1e5e560d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="484981d1-a4c8-4893-9036-8486de3c920c" Title="VoiceHelper.EnergyCalculatingPassThroughStream Methods" Url="html/7750774f-fd68-fb23-83af-262c41e6e22f.htm">
+        <HelpTOCNode Title="Flush Method " Url="html/2f041d45-26bd-7aae-435a-481c6f6ffbf1.htm" />
+        <HelpTOCNode Title="GetEnergy Method " Url="html/19226bb0-897a-6e57-52c8-23b4aec14b02.htm" />
+        <HelpTOCNode Title="Read Method " Url="html/e301a706-bfba-cff7-fda5-a4c45b6b7eb2.htm" />
+        <HelpTOCNode Title="Seek Method " Url="html/12730f33-9ea1-6b0a-0c6f-762c2b602177.htm" />
+        <HelpTOCNode Title="SetLength Method " Url="html/874d5b5d-693b-9593-517a-c0880e5cdb92.htm" />
+        <HelpTOCNode Title="Write Method " Url="html/181f9626-109b-bb85-67ce-384ec84f067a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="48be77a8-9f9b-40ea-bddc-2d8c64a47a0e" Title="VoiceHelper.EnergyCalculatingPassThroughStream Properties" Url="html/9252dfac-2568-2794-702f-e89e955a846d.htm">
+        <HelpTOCNode Title="CanRead Property " Url="html/5af0ea0b-15a8-1121-5332-e0c937cb2763.htm" />
+        <HelpTOCNode Title="CanSeek Property " Url="html/b02e41c4-2955-d73a-ae2a-61a3e0a9923e.htm" />
+        <HelpTOCNode Title="CanWrite Property " Url="html/73106d54-84b8-1c8b-5617-101404d37bf0.htm" />
+        <HelpTOCNode Title="Length Property " Url="html/95507c35-a4c4-42bb-33bd-1dde16a1c435.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/0d66c813-64be-60c0-9d72-541304eee441.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="42f1d419-3872-4ea0-aec4-c681606d51e7" Title="VisualQlikMove Namespace" Url="html/27a6a0ad-635f-acf7-a874-9d8cd43365dc.htm">
+    <HelpTOCNode Id="c3e92992-6d5a-45a9-b753-76ab8a30cd32" Title="App Class" Url="html/c5b832f5-87bb-8373-2d1b-cd22f00dad4a.htm">
+      <HelpTOCNode Title="App Members" Url="html/84208a08-3811-4c53-df8e-a4bc9b8e9623.htm" />
+      <HelpTOCNode Title="App Constructor " Url="html/a92a785e-d43d-9b56-027f-dec1aafc9a79.htm" />
+      <HelpTOCNode Id="125b75a6-107a-407d-9a84-d3735a2df873" Title="App Methods" Url="html/2bbb3a5c-84a1-afe8-c95b-2b7866dd9f66.htm">
+        <HelpTOCNode Title="Main Method " Url="html/8dbf6b89-165d-0708-8d52-441563ecb5b8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8c1a2fe9-3678-43df-a888-b89a40946bc2" Title="MainWindow Class" Url="html/e7e63969-bcdc-4520-d188-bf34c40d9f16.htm">
+      <HelpTOCNode Title="MainWindow Members" Url="html/7fad7e95-d2f4-46a0-cf1f-e49da816e619.htm" />
+      <HelpTOCNode Title="MainWindow Constructor " Url="html/6c1493ab-2039-4221-0086-b4f27b24d764.htm" />
+      <HelpTOCNode Title="MainWindow Constructor " Url="html/da70454e-61fe-681b-2c80-93b616b5bf94.htm" />
+      <HelpTOCNode Id="9f4c4a38-6649-4fb7-a133-f9f64b0ed3a4" Title="MainWindow Fields" Url="html/b7f02aef-2514-fc75-f05d-429f40704b28.htm">
+        <HelpTOCNode Title="_contentLoaded Field" Url="html/c0537265-63d4-33cf-08c7-1bc3bc1c5bec.htm" />
+        <HelpTOCNode Title="alreadyLoaded Field" Url="html/867e89e3-e6b2-776d-c26f-4df8e20c9cc9.htm" />
+        <HelpTOCNode Title="Bgr32BytesPerPixel Field" Url="html/62cd4b92-1216-80e1-6700-889d2deca8f4.htm" />
+        <HelpTOCNode Title="brdKinectImage Field" Url="html/9cc9dd3e-a752-cf25-fdb1-2fd38071c2fa.htm" />
+        <HelpTOCNode Title="btnRecord Field" Url="html/073c57a6-f107-086c-a717-bf958912a796.htm" />
+        <HelpTOCNode Title="btnStart Field" Url="html/4a6590ad-2813-9ce3-9430-f6c1f2e2e3a4.htm" />
+        <HelpTOCNode Title="cbOnTop Field" Url="html/14252fb2-b5d7-e4cc-024b-f7382ecf8b9f.htm" />
+        <HelpTOCNode Title="cbSkeleton Field" Url="html/46c1a3ea-9e78-9566-cae9-f2711dea7a66.htm" />
+        <HelpTOCNode Title="count Field" Url="html/4f990818-8eae-8721-7acc-e0cbaf832120.htm" />
+        <HelpTOCNode Title="delegateConsoleUpdate Field" Url="html/0f995c86-fa1f-8bae-c130-2aa93d2f5c75.htm" />
+        <HelpTOCNode Title="delegateTimerUpdate Field" Url="html/1faa1233-bb2c-f162-de79-640412c2724c.htm" />
+        <HelpTOCNode Title="fileFullPath Field" Url="html/1ba611d5-747b-1677-7e19-056eefc389a5.htm" />
+        <HelpTOCNode Title="firstLoadsdX Field" Url="html/8d394a52-b625-11cb-707b-a68892e21ad0.htm" />
+        <HelpTOCNode Title="firstLoadsdY Field" Url="html/742734b4-7aa3-3358-ed86-0a46c0d67909.htm" />
+        <HelpTOCNode Title="firstTimeStarting Field" Url="html/19637d66-2270-1a04-0c3f-d12971d99816.htm" />
+        <HelpTOCNode Title="imgKinectColorImage Field" Url="html/b106e7b4-f606-f615-c948-35678b43aafb.htm" />
+        <HelpTOCNode Title="imgLink Field" Url="html/49c48481-77d9-5716-2e14-0a881af979a3.htm" />
+        <HelpTOCNode Title="isFirstPressed Field" Url="html/1be8c1f6-a580-0fbf-d481-eb2bf5457a4e.htm" />
+        <HelpTOCNode Title="isRecording Field" Url="html/95223e3b-037a-c525-f3e5-57cf904513a7.htm" />
+        <HelpTOCNode Title="isSensibilityLinked Field" Url="html/289052a8-3f38-b416-300e-dfe5d6ff5cba.htm" />
+        <HelpTOCNode Title="kinectSensorChooser Field" Url="html/9be2d1b5-b6da-a8f5-aac9-a4f9f8fbeef9.htm" />
+        <HelpTOCNode Title="lblCountdown Field" Url="html/7f29c110-323e-8bc5-56e5-74423a6b9c87.htm" />
+        <HelpTOCNode Title="lblOnTop Field" Url="html/16ae280a-fa02-314b-96ca-fb5392c31959.htm" />
+        <HelpTOCNode Title="lblSkeleton Field" Url="html/eeec3339-ab98-1544-3d11-8ac29284556a.htm" />
+        <HelpTOCNode Title="outputImage Field" Url="html/52c55fbc-b1f1-1895-03c4-8b77d5633251.htm" />
+        <HelpTOCNode Title="pixelData Field" Url="html/b61c82a9-4143-d991-1d48-4a687ea17d86.htm" />
+        <HelpTOCNode Title="sdXMouseSensibility Field" Url="html/5bb1ddeb-921e-4501-607f-0e450e57730e.htm" />
+        <HelpTOCNode Title="sdYMouseSensibility Field" Url="html/e8e3fe1c-414a-3e94-c8ce-bf289b140191.htm" />
+        <HelpTOCNode Title="skeletonCanvas Field" Url="html/377928f2-f24e-860c-44bd-a55699eb8a7d.htm" />
+        <HelpTOCNode Title="startTimer Field" Url="html/60c8458f-a513-23a1-8cab-090cbe5b3ba3.htm" />
+        <HelpTOCNode Title="tc Field" Url="html/c59f8633-212b-59ce-32bc-bb0fba345d81.htm" />
+        <HelpTOCNode Title="tempS Field" Url="html/24334752-9217-be12-2817-2479a5b14682.htm" />
+        <HelpTOCNode Title="tiOptions Field" Url="html/7178d6cc-1e00-bc25-bfaa-790a80caae42.htm" />
+        <HelpTOCNode Title="txtConsole Field" Url="html/5851d7f0-e7a4-78e7-8420-e6c4cf7500cc.htm" />
+        <HelpTOCNode Title="txtXMouseSensibility Field" Url="html/4f83a511-d24b-cdbf-eef5-d5c4fe736c0e.htm" />
+        <HelpTOCNode Title="txtYMouseSensibility Field" Url="html/4ca6d632-cf73-650f-dcd1-d5dddee4c268.htm" />
+        <HelpTOCNode Title="uiDispatcher Field" Url="html/17fe2363-a55f-a2e4-f0a6-83c4e551830d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7b6a4f08-4802-461a-ae98-0cbec2d205cc" Title="MainWindow Methods" Url="html/955226c2-5be4-7109-3448-2f0ee085d9d8.htm">
+        <HelpTOCNode Title="IComponentConnector.Connect Method " Url="html/393d8b9e-5c6c-9b3b-1142-a3ae94d24334.htm" />
+        <HelpTOCNode Title="btnRecord_Click Method " Url="html/92748c40-75c2-0f6e-78c9-531e2e55591a.htm" />
+        <HelpTOCNode Title="cbOnTop_Checked Method " Url="html/1c828f66-2fae-a135-6ca8-470d7170612d.htm" />
+        <HelpTOCNode Title="cbOnTop_Unchecked Method " Url="html/d2260b24-39aa-c68c-89d2-de049c6e3b11.htm" />
+        <HelpTOCNode Title="cbPromptSkeleton_Checked Method " Url="html/aa521a73-4295-89d6-bd0a-055c62917e3c.htm" />
+        <HelpTOCNode Title="cbPromptSkeleton_UnChecked Method " Url="html/37d307e9-4a25-9dea-2c97-7dce96365c7f.htm" />
+        <HelpTOCNode Title="ClearCanvasFromSkeleton Method " Url="html/05c446db-011b-644c-f6ac-0eb2084491d9.htm" />
+        <HelpTOCNode Title="imgLink_MouseUp Method " Url="html/0d9f8d96-5717-2b45-a806-700580e8e9c7.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/93344668-d486-b487-261f-b29c890480f0.htm" />
+        <HelpTOCNode Title="kinectSensorChooser_KinectSensorChanged Method " Url="html/acc1521c-2252-10a9-9b8b-426669b81094.htm" />
+        <HelpTOCNode Title="loadLogMessage Method " Url="html/9465f480-5a29-959f-577d-20f7b57e92bb.htm" />
+        <HelpTOCNode Title="loadOptions Method " Url="html/23d6d0a9-cd59-1933-9903-5b0284b89ed4.htm" />
+        <HelpTOCNode Title="sdXMouseSensibility_ValueChanged Method " Url="html/366e058f-d553-f910-d5a3-aa0e27437c70.htm" />
+        <HelpTOCNode Title="sdYMouseSensibility_ValueChanged Method " Url="html/b7cb7915-2b8e-2966-4f24-c234fcdaa9e8.htm" />
+        <HelpTOCNode Title="SetWindowPosition Method " Url="html/f626883d-84b6-97db-1a6e-c2ce3caf207b.htm" />
+        <HelpTOCNode Title="start_Click Method " Url="html/1263a4af-835f-625e-e903-f299cd549016.htm" />
+        <HelpTOCNode Title="startRecognition Method " Url="html/6ac6391e-10ac-35af-b6b8-60769ae069fa.htm" />
+        <HelpTOCNode Title="startTimer_Elapsed Method " Url="html/ca4e91bf-98e4-e8ed-1701-847a919ab00e.htm" />
+        <HelpTOCNode Title="stopRecognition Method " Url="html/d55a38d5-0620-005f-2ca3-219421775c0d.htm" />
+        <HelpTOCNode Title="txtConsole_Loaded Method " Url="html/aab7b926-dab5-a1fe-cafb-f0741868c368.htm" />
+        <HelpTOCNode Title="UpdateConsole Method " Url="html/f9525106-a1ca-9ff1-8a88-a9c814a31a94.htm" />
+        <HelpTOCNode Title="UpdateEllipses Method " Url="html/6fd1720a-c2d7-2486-217e-fb2978f09a55.htm" />
+        <HelpTOCNode Title="UpdateImageColor Method " Url="html/392a5dbc-4527-fe1f-8185-3fef660ff416.htm" />
+        <HelpTOCNode Title="UpdateTimerLabel Method " Url="html/1f8a0c7f-7602-0697-37e7-dd57395f8832.htm" />
+        <HelpTOCNode Title="visual_ColorReady Method " Url="html/2fc9faef-9b11-b005-9441-a9a8c4d2442f.htm" />
+        <HelpTOCNode Title="visual_SkeletonReady Method " Url="html/4b23a405-07c9-7ffb-e47c-90e36819b222.htm" />
+        <HelpTOCNode Title="Window_Closing Method " Url="html/6413a8ef-fcd9-5971-9351-53c96f42b368.htm" />
+        <HelpTOCNode Title="Window_Loaded Method " Url="html/5ed2f3fc-5de1-0d72-006e-844e54a66dbc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="MainWindow.UpdateEllipsesDelegate Delegate" Url="html/8298cd7c-dbc2-872f-f637-70ec4313c1d2.htm" />
+    <HelpTOCNode Title="MainWindow.UpdateImageColorDelegate Delegate" Url="html/f97557a3-9856-6ac3-0a25-eb865388ff22.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="6dc41708-0eb0-4126-a1cc-72aec44acb6c" Title="VisualQlikMove.SplashScreen Namespace" Url="html/0abcb886-07d8-2bca-f6d4-f0757e5050a0.htm">
+    <HelpTOCNode Id="1fd062d0-450a-4c5e-895b-b13bc498e9c7" Title="DispatcherHelper Class" Url="html/70b25ea5-60cf-0c35-3ca5-e2b0802b75d4.htm">
+      <HelpTOCNode Title="DispatcherHelper Members" Url="html/e75c5ac1-a6e2-6787-2f52-4f5ad9b1aa00.htm" />
+      <HelpTOCNode Id="618bd197-dbae-4338-9e0b-1c10a0a50a6c" Title="DispatcherHelper Methods" Url="html/acb8f6c1-b868-fedc-9fe4-9624a288bc3b.htm">
+        <HelpTOCNode Title="DoEvents Method " Url="html/82ce1a24-e56d-10a9-3a8d-ec628b2a4d53.htm" />
+        <HelpTOCNode Title="ExitFrames Method " Url="html/9e0577d9-3edf-27b8-11e7-1c343aaac8a4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d4ea7d5f-31a8-4abb-b41f-24ad48ed4422" Title="MessageListener Class" Url="html/6d1bc577-55db-bb40-a5d9-30abb49848a6.htm">
+      <HelpTOCNode Title="MessageListener Members" Url="html/e6e58c01-8de1-03a0-5165-58e32e481844.htm" />
+      <HelpTOCNode Title="MessageListener Constructor " Url="html/cb637e23-cf9d-53a2-b333-2253e893aa4c.htm" />
+      <HelpTOCNode Title="MessageListener Constructor " Url="html/cd25c95b-f01e-604e-3282-7455b6d66f43.htm" />
+      <HelpTOCNode Id="ea8dc2e8-c28e-4c72-804a-9e2faff4bc3e" Title="MessageListener Fields" Url="html/0381ecaa-2ac9-4410-14a2-46e3155772af.htm">
+        <HelpTOCNode Title="MessageProperty Field" Url="html/11119bd3-f47d-d845-0a2a-8cdc892882aa.htm" />
+        <HelpTOCNode Title="mInstance Field" Url="html/c7d4327a-d9f8-280f-2cf4-d82125e0ec09.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9a1c3341-ace8-4980-99a0-36f0985d31d9" Title="MessageListener Methods" Url="html/fa17cc54-517f-a44c-e324-4f5b3fdc6dd3.htm">
+        <HelpTOCNode Title="ReceiveMessage Method " Url="html/c0cbc814-5318-0590-235e-575cb14d9813.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e3018d67-2c66-47df-a516-707fede5eb9d" Title="MessageListener Properties" Url="html/8bedc4a4-8aa1-2eb1-377f-953855f8ac29.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/d5cc176d-a1b6-c18d-2ba6-7d4bb895da9a.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/fa4e512a-5e32-397f-7c67-6788c37766f7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8521c9c3-3d4a-43b6-b1a3-60c0a27c82ce" Title="Splasher Class" Url="html/82af26eb-ea61-2bb6-9f9c-a476439fa8ba.htm">
+      <HelpTOCNode Title="Splasher Members" Url="html/dc5be1e1-8873-7fe6-81d9-5b7e8f5eb36a.htm" />
+      <HelpTOCNode Id="e8bbdacf-476f-4a9e-918b-2a46107d7c31" Title="Splasher Fields" Url="html/a5691cea-8849-7aad-90c3-4474c3346849.htm">
+        <HelpTOCNode Title="mSplash Field" Url="html/d897a862-57c0-e2e7-a8a3-95feb2f62aaa.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="531df815-244e-4b20-87ea-ef63a3b1d446" Title="Splasher Methods" Url="html/f04cab51-0a15-83cc-b77d-b21a1450d7e9.htm">
+        <HelpTOCNode Title="CloseSplash Method " Url="html/d0ec316d-1fbd-9e9f-a46b-31f0617c1f15.htm" />
+        <HelpTOCNode Title="ShowSplash Method " Url="html/dfc078af-a66b-dbed-3e4c-8a0b43396460.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="39916295-1ecd-4fd0-a9e5-12ac7c3e0738" Title="Splasher Properties" Url="html/b2f5e4bd-262b-ed70-c1c8-d7d2348cefaa.htm">
+        <HelpTOCNode Title="Splash Property " Url="html/b68f7c0c-a7c4-66c9-25ec-9afb57b62ce2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dbe5a194-619b-4170-918f-2402b216db07" Title="SplashScreen Class" Url="html/b84506a8-c271-02b7-140d-1058185c5873.htm">
+      <HelpTOCNode Title="SplashScreen Members" Url="html/51dcf740-9905-3f1c-13d5-6231e998f7c6.htm" />
+      <HelpTOCNode Title="SplashScreen Constructor " Url="html/db81fdbf-22f3-8f4d-93b3-f364343aee47.htm" />
+      <HelpTOCNode Id="e0212df1-60f9-4fe2-b4bc-33aab2d9caa1" Title="SplashScreen Fields" Url="html/e24e0d51-184f-2127-05c3-75eb37c080cb.htm">
+        <HelpTOCNode Title="_contentLoaded Field" Url="html/08932881-c2a8-5882-14e0-6f57c1528714.htm" />
+        <HelpTOCNode Title="imgQVLogo Field" Url="html/16b1b26f-15c6-29c7-3955-d0c86e96ca21.htm" />
+        <HelpTOCNode Title="label2 Field" Url="html/b68259c0-016f-d639-0fac-8edc1ca3d37f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3855e6f9-3ab0-4a35-8e10-a53fe1d16469" Title="SplashScreen Methods" Url="html/45b90dd4-3643-704e-d0fa-6d0436eaca75.htm">
+        <HelpTOCNode Title="IComponentConnector.Connect Method " Url="html/9262db5e-388f-7371-1363-c1cc3b2f0b88.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/60234b0d-73bf-2ca5-046a-e9960833b0f0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="fc300909-0962-4b43-ab41-04df308b7475" Title="VisualQlikMove.VisualComponents Namespace" Url="html/f95d9916-b0c0-10b3-1313-94af0e6dc147.htm">
+    <HelpTOCNode Id="63f63624-f4ee-4e61-8669-3a040b5e1234" Title="SkeletonDrawer Class" Url="html/7982637c-fd41-a112-f728-8b53510c62b0.htm">
+      <HelpTOCNode Title="SkeletonDrawer Members" Url="html/2bb04e26-0de4-25e4-0158-4e38d7d36a8d.htm" />
+      <HelpTOCNode Id="2e97fa33-8c8f-4a0a-83b0-3fc73ca8330b" Title="SkeletonDrawer Methods" Url="html/8d76ec98-c0a0-7a81-e550-2ee263897b75.htm">
+        <HelpTOCNode Title="DrawJoints Method " Url="html/ec381120-6eae-209e-5551-df4a6645d781.htm" />
+        <HelpTOCNode Title="DrawLineBetween Method " Url="html/c6ed745e-fdd0-cb71-6234-126e1bbbb14c.htm" />
+        <HelpTOCNode Title="DrawLines Method " Url="html/b27585df-d7d4-3564-306e-9014d6f4635a.htm" />
+        <HelpTOCNode Title="DrawSkeleton Method " Url="html/5d754b96-fa47-6e16-35c3-08a047ca279a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="15c1b9e0-286f-427c-b269-5dd9798b5730" Title="VisualSkeleton Class" Url="html/1dc3ac01-bdf8-04cd-f0ae-7f66efd14bba.htm">
+      <HelpTOCNode Title="VisualSkeleton Members" Url="html/6cd1cc68-e22f-0747-ba41-1805594f14dc.htm" />
+      <HelpTOCNode Title="VisualSkeleton Constructor " Url="html/a31e7459-f26d-3bc8-4d8e-549aaf6ff848.htm" />
+      <HelpTOCNode Id="456db6c6-97f5-4647-a975-3a44e1ff4a51" Title="VisualSkeleton Fields" Url="html/d762fc72-fb60-b43f-49b1-8663950d684f.htm">
+        <HelpTOCNode Title="positionMap Field" Url="html/d1da1846-61f2-2f1e-494c-30729e5c88bc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9b20b54d-1496-44d6-b5b8-a237286a4bf8" Title="VisualSkeleton Methods" Url="html/d42a5e6b-2251-66d0-5350-1dbdd9a909cb.htm">
+        <HelpTOCNode Title="CreateVisualSkeleton Method " Url="html/c85cabe4-3576-8556-db9c-b4e3705da70b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fe399727-98aa-4008-a442-cd975eb51e03" Title="VisualSkeleton Properties" Url="html/c9b297a5-57c7-bc50-8d0e-cb6fb91439f7.htm">
+        <HelpTOCNode Title="color Property " Url="html/722cee49-0e95-3d50-f2d2-2f3dff92ca81.htm" />
+        <HelpTOCNode Title="ellipseSize Property " Url="html/02e3ad8e-c1b9-f37e-bb93-3a8589904241.htm" />
+        <HelpTOCNode Title="skeleton Property " Url="html/4b849654-482e-f109-b8fe-509b7d5b518d.htm" />
+        <HelpTOCNode Title="visualMap Property " Url="html/09191533-f860-325e-fda0-30b17e6b61ca.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
