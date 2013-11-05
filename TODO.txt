@@ -1,0 +1,16 @@
+[Ordre D'importance : 0 > 1 > 2 > 3 ]
+
+WEB
+
+
+
+SOFTWARE
+
+1 voir si le multithreading ne serait pas plus optimal pour le problème du cumul de frames 
+
+0 inclure une projection au niveau du torse pour se mettre face à l'utilisateur
+
+
+ALL 
+
+- mettre toutes les constantes en tant que ressources ou dans une base pour les constantes partagées entre le client et le server

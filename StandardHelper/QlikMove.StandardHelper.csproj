@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0BAB6DF7-29DF-4002-BAF4-159B0C9C467D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QlikMove.StandardHelper</RootNamespace>
+    <AssemblyName>QlikMove.StandardHelper</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DocumentationFile>bin\Release\QlikMove.StandardHelper.XML</DocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Emgu.CV">
+      <HintPath>..\Libs\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Kinect, Version=1.6.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActionCore\Action.cs" />
+    <Compile Include="ActionCore\ActionPart.cs" />
+    <Compile Include="Actions\CoreActions\Click.cs" />
+    <Compile Include="Actions\CoreActions\Close.cs" />
+    <Compile Include="Actions\CoreActions\Idle.cs" />
+    <Compile Include="Actions\CoreActions\MousePress.cs" />
+    <Compile Include="Actions\CoreActions\MouseRelease.cs" />
+    <Compile Include="Actions\CoreActions\MultipleSelection.cs" />
+    <Compile Include="Actions\CoreActions\Open.cs" />
+    <Compile Include="Actions\CoreActions\WindowsCtrlTab.cs" />
+    <Compile Include="Actions\EnvironmentActions\Clear.cs" />
+    <Compile Include="Actions\EnvironmentActions\Exit.cs" />
+    <Compile Include="Actions\EnvironmentActions\Lock.cs" />
+    <Compile Include="Actions\EnvironmentActions\Maximize.cs" />
+    <Compile Include="Actions\EnvironmentActions\Minimize.cs" />
+    <Compile Include="Actions\EnvironmentActions\Next_Tab.cs" />
+    <Compile Include="Actions\EnvironmentActions\Next_Selection.cs" />
+    <Compile Include="Actions\EnvironmentActions\Previous_Tab.cs" />
+    <Compile Include="Actions\EnvironmentActions\Previous_Selection.cs" />
+    <Compile Include="Actions\EnvironmentActions\Redo.cs" />
+    <Compile Include="Actions\EnvironmentActions\Restore.cs" />
+    <Compile Include="Actions\CoreActions\Scroll_Down.cs" />
+    <Compile Include="Actions\CoreActions\Scroll_Up.cs" />
+    <Compile Include="Actions\EnvironmentActions\Undo.cs" />
+    <Compile Include="Actions\EnvironmentActions\Unlock.cs" />
+    <Compile Include="ContoursCore\Contour.cs" />
+    <Compile Include="ContoursCore\FoundTemplateDesc.cs" />
+    <Compile Include="ContoursCore\Template.cs" />
+    <Compile Include="EventArguments\ActionArgs.cs" />
+    <Compile Include="EventArguments\BodyGestureEvent.cs" />
+    <Compile Include="EventArguments\DepthEventArgs.cs" />
+    <Compile Include="EventArguments\GestureDatas.cs" />
+    <Compile Include="EventArguments\GestureEventArgs.cs" />
+    <Compile Include="EventArguments\HandGestureEvent.cs" />
+    <Compile Include="EventArguments\LogMessageEvent.cs" />
+    <Compile Include="EventArguments\SkeletonEventArgs.cs" />
+    <Compile Include="Geometry\Complex.cs" />
+    <Compile Include="Geometry\Point2D.cs" />
+    <Compile Include="GestureCore\BodyGesture.cs" />
+    <Compile Include="GestureCore\BodyGestureSegment.cs" />
+    <Compile Include="GestureCore\ContextGesture.cs" />
+    <Compile Include="Gestures\One Hand Gestures\HandExtToBody.cs" />
+    <Compile Include="Gestures\One Hand Gestures\HandMid.cs" />
+    <Compile Include="Gestures\One Hand Gestures\HandOnTheLeft.cs" />
+    <Compile Include="Gestures\One Hand Gestures\HandOnTheRight.cs" />
+    <Compile Include="Gestures\Standing Gesture\ArmsCrossed.cs" />
+    <Compile Include="Gestures\Standing Gesture\HandsInDiagonalLeftUp.cs" />
+    <Compile Include="Gestures\Standing Gesture\HandsInDiagonalRightUp.cs" />
+    <Compile Include="Gestures\Standing Gesture\HandsJoinedMid.cs" />
+    <Compile Include="Gestures\One Hand Gestures\HandBackward.cs" />
+    <Compile Include="Gestures\One Hand Gestures\HandDown.cs" />
+    <Compile Include="Gestures\One Hand Gestures\HandForward.cs" />
+    <Compile Include="Gestures\One Hand Gestures\HandUp.cs" />
+    <Compile Include="Gestures\Rolling Gestures\HandAboveTheOther.cs" />
+    <Compile Include="Gestures\Rolling Gestures\HandBehindTheOther.cs" />
+    <Compile Include="Gestures\Standing Gesture\HandsDown.cs" />
+    <Compile Include="Gestures\Wave Gestures\WaveMidAndUp\WaveMidAndUp.cs" />
+    <Compile Include="Gestures\Wave Gestures\WaveMid\WaveMidBothExt.cs" />
+    <Compile Include="Gestures\Wave Gestures\WaveMid\WaveMidBothInt.cs" />
+    <Compile Include="Gestures\Wave Gestures\WaveMid\WaveMidExt.cs" />
+    <Compile Include="Gestures\Wave Gestures\WaveMid\WaveMidInt.cs" />
+    <Compile Include="Gestures\Wave Gestures\WaveMid\WaveMidOpposite.cs" />
+    <Compile Include="Gestures\Wave Gestures\WaveUp\WaveUpBothExt.cs" />
+    <Compile Include="Gestures\Wave Gestures\WaveUp\WaveUpBothInt.cs" />
+    <Compile Include="Gestures\Wave Gestures\WaveUp\WaveUpInt.cs" />
+    <Compile Include="Gestures\Wave Gestures\WaveUp\WaveUpExt.cs" />
+    <Compile Include="ContoursCore\TemplateClass.cs" />
+    <Compile Include="Gestures\Wave Gestures\WaveUp\WaveUpOpposite.cs" />
+    <Compile Include="Inputcore\Input.cs" />
+    <Compile Include="Inputcore\KeyboardFlags.cs" />
+    <Compile Include="Inputcore\KeyboardInput.cs" />
+    <Compile Include="Inputcore\MouseFlag.cs" />
+    <Compile Include="Inputcore\MouseInput.cs" />
+    <Compile Include="Inputcore\MousePoint.cs" />
+    <Compile Include="Messages\AudioInformation.cs" />
+    <Compile Include="Messages\MessageReceived.cs" />
+    <Compile Include="Native\NativeMethods.cs" />
+    <Compile Include="Inputcore\WordsVirtualKey.cs" />
+    <Compile Include="Messages\KinectInformation.cs" />
+    <Compile Include="Messages\Message.cs" />
+    <Compile Include="Messages\SkeletonInformation.cs" />
+    <Compile Include="QlikMoveEnums\Action.cs" />
+    <Compile Include="QlikMoveEnums\Voice.cs" />
+    <Compile Include="Serializer.cs" />
+    <Compile Include="EventArguments\QlikMoveEventArgs.cs" />
+    <Compile Include="Geometry\Axis.cs" />
+    <Compile Include="Helper.cs" />
+    <Compile Include="Geometry\Point3D.cs" />
+    <Compile Include="LogHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Kinect\SkeletalCommonextensions.cs" />
+    <Compile Include="Geometry\Vector2.cs" />
+    <Compile Include="Geometry\Vector3.cs" />
+    <Compile Include="QlikMoveEnums\Body.cs" />
+    <Compile Include="QlikMoveEnums\Hand.cs" />
+    <Compile Include="QlikMoveEnums\Tools.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
